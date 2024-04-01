@@ -4,9 +4,6 @@ political_decisions = {
         potential = {
 			OR = {
 				primary_culture = avadhi
-				primary_culture = kanauji
-				primary_culture = bihari
-				primary_culture = oriya
 				tag = MUG
 			}
 			NOT = { has_global_flag = hindustan_formed }
@@ -47,9 +44,6 @@ political_decisions = {
 			set_global_flag = hindustan_formed
 			prestige = 10
 			add_accepted_culture = avadhi
-			add_accepted_culture = kanauji
-			add_accepted_culture = bihari
-			add_accepted_culture = oriya
 			add_accepted_culture = marathi
 			all_core = { remove_core = THIS }
 			change_tag = HDU
@@ -180,8 +174,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = marathas_formed
 			prestige = 10
-			add_accepted_culture = gujarati
-			add_accepted_culture = kannada
 			all_core = {
 				add_core = MRT
 				remove_core = THIS
@@ -294,12 +286,7 @@ political_decisions = {
 
 	form_dravidistan = {
         potential = {
-			OR = {
-				primary_culture = tamil
-				primary_culture = kannada
-				primary_culture = telegu
-				primary_culture = malayalam
-			}
+			primary_culture = telegu
 			NOT = { has_global_flag = dravidistan_formed }
 			NOT = { tag = HND }
 		}
@@ -336,10 +323,7 @@ political_decisions = {
 		effect = {
 			set_global_flag = dravidistan_formed
 			prestige = 10
-			add_accepted_culture = tamil
-			add_accepted_culture = kannada
 			add_accepted_culture = telegu
-			add_accepted_culture = malayalam
 			all_core = {
 				add_core = DRA
 				remove_core = THIS
@@ -418,7 +402,7 @@ political_decisions = {
 	
 	form_rajputana = {
         potential = {
-			primary_culture = rajput
+			primary_culture = marathi
 			NOT = { has_global_flag = rajputana_formed }
 			NOT = { tag = HND }
 		}
@@ -561,7 +545,7 @@ political_decisions = {
 		picture = form_rajputana
         potential = {
 
-			NOT = { primary_culture = rajput }
+			NOT = { primary_culture = marathi }
 			NOT = { has_global_flag = rajputana_formed }
 			NOT = { tag = HND }
 			OR = {
@@ -745,8 +729,8 @@ political_decisions = {
 	
 	form_baluchistan = {
         potential = {
-			primary_culture = baluchi
-			NOT = { has_global_flag = baluchistan_formed }
+			primary_culture = pashtun
+			NOT = { has_global_flag = panjabistan_formed }
 			NOT = { tag = HND }
 		}
 
@@ -761,7 +745,7 @@ political_decisions = {
 		}
 
 		effect = {
-			set_global_flag = baluchistan_formed
+			set_global_flag = panjabistan_formed
 			prestige = 5
 			all_core = { remove_core = THIS }
 			change_tag = BLC
@@ -838,8 +822,7 @@ political_decisions = {
 			ENG_1258 = { add_core = BNG } #Assam
 			ENG_1261 = { add_core = BNG } #Orissa
 			ENG_1247 = { add_core = BNG } #Bihar
-			add_accepted_culture = oriya
-			add_accepted_culture = bihari
+			add_accepted_culture = avadhi
 			any_country = {
 				limit = {
 					any_owned_province = {
@@ -912,31 +895,7 @@ political_decisions = {
 		}
 	}
 	
-	PNJ_embrace_sindi_minority = {
-		picture = sikh_empire
-		potential = {
 
-			tag = PAN
-			NOT = { has_country_flag = embraced_sindi }
-			any_owned_province = { culture = sindi }
-		}
-		
-		allow = {
-			enlightenment_thought = 1
-			malthusian_thought = 1
-			religious_policy = pluralism
-		}
-		
-		effect = {
-			prestige = 5
-			add_accepted_culture = sindi
-			set_country_flag = embraced_sindi
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
 
 	PNJ_embrace_avadhi_minority = {
 		picture = sikh_empire
@@ -1031,9 +990,6 @@ political_decisions = {
         potential = {
 			OR = {
 				primary_culture = avadhi
-				primary_culture = kanauji
-				primary_culture = bihari
-				primary_culture = oriya
 				tag = MUG
 			}
 			exists = yes
@@ -1072,9 +1028,6 @@ political_decisions = {
 				}
 			}
 			add_accepted_culture = avadhi
-			add_accepted_culture = kanauji
-			add_accepted_culture = bihari
-			add_accepted_culture = oriya
 			add_accepted_culture = marathi
 			all_core = { remove_core = THIS }
 			change_tag = HDU
@@ -1163,8 +1116,7 @@ political_decisions = {
 			ENG_1258 = { add_core = BNG } #Assam
 			ENG_1261 = { add_core = BNG } #Orissa
 			ENG_1247 = { add_core = BNG } #Bihar
-			add_accepted_culture = oriya
-			add_accepted_culture = bihari
+			add_accepted_culture = avadhi
 			any_country = {
 				limit = {
 					any_owned_province = {
@@ -1223,8 +1175,8 @@ political_decisions = {
 					government = hms_government
 				}
 			}
-			add_accepted_culture = gujarati
-			add_accepted_culture = kannada
+
+			add_accepted_culture = telegu
 			IND = {
 				all_core = { add_core = MRT }
 			}
@@ -1298,12 +1250,7 @@ political_decisions = {
 	form_dravidistan2 = {
 
         potential = {
-			OR = {
-				primary_culture = tamil
-				primary_culture = kannada
-				primary_culture = telegu
-				primary_culture = malayalam
-			}
+			primary_culture = telegu
 			exists = yes
 			has_global_flag = british_dismantled
 			has_global_flag = indian_call_to_union
@@ -1338,10 +1285,7 @@ political_decisions = {
 					government = hms_government
 				}
 			}
-			add_accepted_culture = tamil
-			add_accepted_culture = kannada
 			add_accepted_culture = telegu
-			add_accepted_culture = malayalam
 			MYS = {
 				all_core = { add_core = DRA }
 			}

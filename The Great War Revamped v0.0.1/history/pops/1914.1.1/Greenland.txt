@@ -3,32 +3,32 @@
 #Godthab (4220/1055 POPS)
 251 = {
 	officers = {
-		culture = inuit
+		culture = danish
 		religion =  protestant 
 		size = 6
 	 } 
 	officers = {
-		culture = inuit
+		culture = danish
 		religion = protestant 
 		size = 1
 	 } 
 	soldiers = {
-		culture = inuit
+		culture = danish
 		religion =  protestant 
 		size = 27
 	 } 
 	soldiers = {
-		culture = inuit
+		culture = danish
 		religion = protestant 
 		size = 5
 	 } 
 	aristocrats = {
-		culture = inuit
+		culture = danish
 		religion =  protestant 
 		size = 92
 	 } 
 	aristocrats = {
-		culture = inuit
+		culture = danish
 		religion = protestant 
 		size = 17
 	 } 
@@ -38,37 +38,37 @@
 		size = 4
 	 } 
 	capitalists = {
-		culture = inuit
+		culture = danish
 		religion =  protestant 
 		size = 10
 	 } 
 	capitalists = {
-		culture = inuit
+		culture = danish
 		religion = protestant 
 		size = 2
 	 } 
 	clergymen = {
-		culture = inuit
+		culture = danish
 		religion =  protestant 
 		size = 22
 	 } 
 	clergymen = {
-		culture = inuit
+		culture = danish
 		religion = protestant 
 		size = 4
 	 } 
 	artisans = {
-		culture = inuit
+		culture = danish
 		religion =  protestant 
 		size = 69
 	 } 
 	artisans = {
-		culture = inuit
+		culture = danish
 		religion = protestant 
 		size = 12
 	 } 
 	farmers = {
-		culture = inuit
+		culture = danish
 		religion =  protestant 
 		size = 1751
 	 } 
@@ -82,7 +82,7 @@
 #Egedesminde (816/204 POPS)
 2636 = {
 	farmers = {
-		culture = inuit
+		culture = danish
 		religion = protestant
 		size = 505
 	}

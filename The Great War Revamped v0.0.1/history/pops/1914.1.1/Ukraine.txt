@@ -278,7 +278,7 @@
 		size = 35643
 	 } 
 	farmers = {
-		culture = slovak
+		culture = czech
 		religion = catholic
 		size = 4631
 	 } 
@@ -1456,7 +1456,7 @@
 		size = 17912
 	 } 
 	farmers = {
-		culture = tatar
+		culture = mongol
 		religion =  sunni 
 		size = 50970
 	 } 

@@ -58,12 +58,12 @@
 		size = 221
 	 } 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 19955
 	 } 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 263
 	 } 

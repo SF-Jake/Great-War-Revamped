@@ -51,77 +51,77 @@
 #Jaffna (288000/72000 POPS)
 1322 = {
 	officers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 354
 	 } 
 	officers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 1
 	 } 
 	soldiers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 1417
 	 } 
 	soldiers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 7
 	 } 
 	aristocrats = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 4726
 	 } 
 	aristocrats = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 23
 	 } 
 	bureaucrats = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 117
 	 } 
 	capitalists = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 590
 	 } 
 	capitalists = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 2
 	 } 
 	clergymen = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 1181
 	 } 
 	clergymen = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 5
 	 } 
 	artisans = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 629
 	 } 
 	artisans = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 3
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 103231
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 518
 	 } 
@@ -139,32 +139,32 @@
 #Kandy (304000/76000 POPS)
 1323 = {
 	officers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 2337
 	 } 
 	officers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 11
 	 } 
 	soldiers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 9352
 	 } 
 	soldiers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 46
 	 } 
 	aristocrats = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 27276
 	 } 
 	aristocrats = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 137
 	 } 
@@ -232,77 +232,77 @@
 #Trincomalee (208000/52000 POPS)
 1324 = {
 	officers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 516
 	 } 
 	officers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 2
 	 } 
 	soldiers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 2068
 	 } 
 	soldiers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 10
 	 } 
 	aristocrats = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 6895
 	 } 
 	aristocrats = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 34
 	 } 
 	bureaucrats = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 172
 	 } 
 	capitalists = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 861
 	 } 
 	capitalists = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 4
 	 } 
 	clergymen = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 1723
 	 } 
 	clergymen = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 8
 	 } 
 	artisans = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 919
 	 } 
 	artisans = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 4
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 81653
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 410
 	 } 

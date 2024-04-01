@@ -244,7 +244,7 @@
 		size = 3223
 	 } 
 	farmers = {
-		culture = slovak
+		culture = czech
 		religion = catholic 
 		size = 1676
 	 } 
@@ -755,7 +755,7 @@
 		size = 432
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni 
 		size = 3843
 	 } 
@@ -791,22 +791,22 @@
 #Novi Pazar (72000/18000 POPS)
 804 = {
 	aristocrats = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 3290
 	 } 
 	clergymen = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 1645
 	 } 
 	artisans = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 1619
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 14256
 	 } 

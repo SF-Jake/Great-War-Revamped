@@ -48,7 +48,7 @@
 		size = 416681
 	 } 
 	farmers = {
-		culture = kirgiz
+		culture = kazak
 		religion =  sunni 
 		size = 33950
 	 } 

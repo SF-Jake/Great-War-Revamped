@@ -114,7 +114,6 @@ political_decisions = {
 					OR = {
 						has_pop_culture = manchu
 						has_pop_culture = beifaren
-						has_pop_culture = nanfaren
 					}
 				}
 				militancy = -2

@@ -63,32 +63,32 @@
 		size = 1025
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 11795
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 2000
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 191148
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 32417
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 2387
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 404
 	 } 
@@ -106,72 +106,72 @@
 #Valmeira (516000/129000 POPS)  
 355 = {
 	officers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 104
 	 } 
 	officers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 17
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 418
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 1602
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 271
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 696
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 118
 	 } 
 	artisans = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 824
 	 } 
 	artisans = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 139
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 2603
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 441
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 28592
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 4848
 	 } 
@@ -180,82 +180,82 @@
 #Daugavpils (136000/34000 POPS)  
 356 = {
 	officers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 104
 	 } 
 	officers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 17
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 418
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 1602
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 271
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 696
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 118
 	 } 
 	artisans = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 824
 	 } 
 	artisans = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 139
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 2603
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 441
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 1763
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 299
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 12542
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 2127
 	 } 
@@ -270,12 +270,12 @@
 		size = 1536
 	 } 
 	farmers = {
-		culture = lithuanian
+		culture = polish
 		religion =  protestant 
 		size = 5225
 	 } 
 	farmers = {
-		culture = lithuanian
+		culture = polish
 		religion = protestant 
 		size = 886
 	 } 
@@ -283,72 +283,72 @@
 #Jelgava (128000/32000 POPS)  
 357 = {
 	officers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 104
 	 } 
 	officers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 17
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 418
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 1602
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 271
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 696
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 118
 	 } 
 	artisans = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 824
 	 } 
 	artisans = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 139
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 2603
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 441
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 28592
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 4848
 	 } 
@@ -356,72 +356,72 @@
 #Ventspils (140000/35000 POPS) #uralic = Livonian 
 358 = {
 	officers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 104
 	 } 
 	officers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 17
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 418
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 1602
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 271
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 696
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 118
 	 } 
 	artisans = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 824
 	 } 
 	artisans = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 139
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 2603
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 441
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 28592
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 4848
 	 } 
@@ -429,72 +429,72 @@
 #Liepaja (96000/24000 POPS)  
 359 = {
 	officers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 104
 	 } 
 	officers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 17
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 418
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 1602
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 271
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 696
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 118
 	 } 
 	artisans = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 824
 	 } 
 	artisans = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 139
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 2603
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 441
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion =  protestant 
 		size = 28592
 	 } 
 	farmers = {
-		culture = latvian
+		culture = estonian
 		religion = protestant 
 		size = 4848
 	 } 

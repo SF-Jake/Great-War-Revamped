@@ -83,12 +83,12 @@
 		size = 2571
 	 } 
 	farmers = {
-		culture = slovak
+		culture = czech
 		religion =  catholic 
 		size = 10213
 	 } 
 	farmers = {
-		culture = slovak
+		culture = czech
 		religion = catholic 
 		size = 2241
 	 } 
@@ -279,12 +279,12 @@
 		size = 402
 	 } 
 	craftsmen = {
-		culture = slovak
+		culture = czech
 		religion =  catholic 
 		size = 619
 	 } 
 	craftsmen = {
-		culture = slovak
+		culture = czech
 		religion = catholic 
 		size = 135
 	 } 
@@ -392,12 +392,12 @@
 		size = 7673
 	 } 
 	farmers = {
-		culture = slovak
+		culture = czech
 		religion =  catholic 
 		size = 2543
 	 } 
 	farmers = {
-		culture = slovak
+		culture = czech
 		religion = catholic 
 		size = 558
 	 } 

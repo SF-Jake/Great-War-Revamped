@@ -94,12 +94,12 @@
 		size = 20988
 	 } 
 	craftsmen = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 17094
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 2610
 	 } 
@@ -187,12 +187,12 @@
 		size = 291
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 3607
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 92
 	 } 
@@ -285,12 +285,12 @@
 		size = 897
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 10442
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 267
 	 } 
@@ -319,7 +319,7 @@
 		size = 4950
 	 }
 	soldiers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 23483
 	 }  
@@ -339,12 +339,12 @@
 		size = 1897
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 218
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 5
 	 } 
@@ -387,12 +387,12 @@
 		size = 4705
 	 } 
 	soldiers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 23483
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 602
 	 } 
@@ -458,12 +458,12 @@
 		size = 1325
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 5320
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 136
 	 } 
@@ -596,12 +596,12 @@
 		size = 6
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion =  hindu 
 		size = 346
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion = hindu 
 		size = 1
 	 } 

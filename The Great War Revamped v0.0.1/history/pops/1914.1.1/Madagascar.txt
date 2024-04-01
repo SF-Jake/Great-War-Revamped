@@ -33,7 +33,7 @@
 		size = 30
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 3465
 	 } 

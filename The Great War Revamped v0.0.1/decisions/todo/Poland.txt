@@ -28,133 +28,129 @@ political_decisions = {
 		}
 	}
 	
-	become_poland_lithuania = {
+	# become_poland_lithuania = {
 
-		potential = {
-			OR = {
-				primary_culture = polish
-				primary_culture = lithuanian
-			}
-			NOT = { exists = PLC }
-			NOT = { has_country_flag = post_colonial_country }
-		}
+	# 	potential = {
+	# 		primary_culture = polish
+	# 		NOT = { exists = PLC }
+	# 		NOT = { has_country_flag = post_colonial_country }
+	# 	}
 
-		allow = {
-			war = no
-			is_greater_power = yes
-			owns = 706
-			owns = 703
-			360 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = { vassal_of = THIS }
-				}
-			}
-			718 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = { vassal_of = THIS }
-				}
-			}
-			958 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = { vassal_of = THIS }
-				}
-			}
-			695 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = { vassal_of = THIS }
-				}
-			}
-		}
+	# 	allow = {
+	# 		war = no
+	# 		is_greater_power = yes
+	# 		owns = 706
+	# 		owns = 703
+	# 		360 = {
+	# 			OR = {
+	# 				owned_by = THIS
+	# 				owner = { in_sphere = THIS }
+	# 				owner = { vassal_of = THIS }
+	# 			}
+	# 		}
+	# 		718 = {
+	# 			OR = {
+	# 				owned_by = THIS
+	# 				owner = { in_sphere = THIS }
+	# 				owner = { vassal_of = THIS }
+	# 			}
+	# 		}
+	# 		958 = {
+	# 			OR = {
+	# 				owned_by = THIS
+	# 				owner = { in_sphere = THIS }
+	# 				owner = { vassal_of = THIS }
+	# 			}
+	# 		}
+	# 		695 = {
+	# 			OR = {
+	# 				owned_by = THIS
+	# 				owner = { in_sphere = THIS }
+	# 				owner = { vassal_of = THIS }
+	# 			}
+	# 		}
+	# 	}
 
-		effect = {
-			prestige = 30
-			random_owned = {
-				limit = {
-					owner = { primary_culture = polish }
-				}
-				owner = {
-					add_accepted_culture = lithuanian
-					all_core = {
-						add_core = PLC
-						remove_core = POL
-					}
-				}
-				LIT = {
-					all_core = { add_core = PLC }
-				}
-			}
-			random_owned = {
-				limit = {
-					owner = { primary_culture = lithuanian }
-				}
-				owner = {
-					add_accepted_culture = polish
-					all_core = {
-						add_core = PLC
-						remove_core = LIT
-					}
-				}
-				POL = {
-					all_core = { add_core = PLC }
-				}
-			}
-			LAT = {
-				all_core = { add_core = PLC }
-			}
-			BYE = {
-				all_core = { add_core = PLC }
-			}
-			RUS_958 = { add_core = PLC }
-			PRU_695 = { add_core = PLC }
-			351 = { add_core = PLC }
-			352 = { add_core = PLC }
-			943 = { add_core = PLC }
-			962 = { add_core = PLC }
-			963 = { add_core = PLC }
-			971 = { add_core = PLC }
-			972 = { add_core = PLC }
-			1007 = { add_core = PLC }
-			1014 = { add_core = PLC }
-			1016 = { add_core = PLC }
-			any_country = {
-				limit = {
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-				}
-				any_owned = {
-					limit = { is_core = PLC }
-					secede_province = THIS
-				}
-			}
-			change_tag = PLC
-			capital = 703
-			any_greater_power = {
-				limit = {
-					OR = {
-						primary_culture = russian
-						is_culture_group = germanic
-					}
-					neighbour = THIS
-				}
-				relation = { who = THIS value = -200 }
-				leave_alliance = THIS
-			}
-		}
+	# 	effect = {
+	# 		prestige = 30
+	# 		random_owned = {
+	# 			limit = {
+	# 				owner = { primary_culture = polish }
+	# 			}
+	# 			owner = {
+	# 				all_core = {
+	# 					add_core = PLC
+	# 					remove_core = POL
+	# 				}
+	# 			}
+	# 			LIT = {
+	# 				all_core = { add_core = PLC }
+	# 			}
+	# 		}
+	# 		random_owned = {
+	# 			limit = {
+	# 				owner = { primary_culture = lithuanian }
+	# 			}
+	# 			owner = {
+	# 				add_accepted_culture = polish
+	# 				all_core = {
+	# 					add_core = PLC
+	# 					remove_core = LIT
+	# 				}
+	# 			}
+	# 			POL = {
+	# 				all_core = { add_core = PLC }
+	# 			}
+	# 		}
+	# 		LAT = {
+	# 			all_core = { add_core = PLC }
+	# 		}
+	# 		BYE = {
+	# 			all_core = { add_core = PLC }
+	# 		}
+	# 		RUS_958 = { add_core = PLC }
+	# 		PRU_695 = { add_core = PLC }
+	# 		351 = { add_core = PLC }
+	# 		352 = { add_core = PLC }
+	# 		943 = { add_core = PLC }
+	# 		962 = { add_core = PLC }
+	# 		963 = { add_core = PLC }
+	# 		971 = { add_core = PLC }
+	# 		972 = { add_core = PLC }
+	# 		1007 = { add_core = PLC }
+	# 		1014 = { add_core = PLC }
+	# 		1016 = { add_core = PLC }
+	# 		any_country = {
+	# 			limit = {
+	# 				OR = {
+	# 					in_sphere = THIS
+	# 					vassal_of = THIS
+	# 				}
+	# 			}
+	# 			any_owned = {
+	# 				limit = { is_core = PLC }
+	# 				secede_province = THIS
+	# 			}
+	# 		}
+	# 		change_tag = PLC
+	# 		capital = 703
+	# 		any_greater_power = {
+	# 			limit = {
+	# 				OR = {
+	# 					primary_culture = russian
+	# 					is_culture_group = germanic
+	# 				}
+	# 				neighbour = THIS
+	# 			}
+	# 			relation = { who = THIS value = -200 }
+	# 			leave_alliance = THIS
+	# 		}
+	# 	}
 
-		ai_will_do = {
-			factor = 1
-		}
-	}
+	# 	ai_will_do = {
+	# 		factor = 1
+	# 	}
+	# }
 	
 	stop_poland_lithuania = {
 		picture = become_poland_lithuania
@@ -479,8 +475,7 @@ political_decisions = {
 			LAT = { all_core = { add_core = UBD } }
 			LIT = { all_core = { add_core = UBD } }
 			EST = { all_core = { add_core = UBD } }
-			add_accepted_culture = latvian
-			add_accepted_culture = lithuanian
+			add_accepted_culture = polish
 			add_accepted_culture = estonian
 			change_tag = UBD
 			random_country = {

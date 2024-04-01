@@ -3,7 +3,6 @@ primary_culture = french
 culture = french_canadian
 culture = picard
 culture = occitan
-culture = breton
 religion = catholic
 government = hms_government
 plurality = 25

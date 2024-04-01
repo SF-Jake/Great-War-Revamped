@@ -212,31 +212,31 @@
 45 = {
 	
 	aristocrats = {
-		culture = french
+		culture = anglo_canadian
 		religion = catholic
 		size = 10
 	}
 	
 	clergymen = {
-		culture = french
+		culture = anglo_canadian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = anglo_canadian
 		religion = catholic
 		size = 55
 	}
 	
 	farmers = {
-		culture = french
+		culture = anglo_canadian
 		religion = catholic
 		size = 500
 	}
 
 	slaves = {
-		culture = afro_caribbean
+		culture = anglo_canadian
 		religion = catholic
 		size = 120
 	}

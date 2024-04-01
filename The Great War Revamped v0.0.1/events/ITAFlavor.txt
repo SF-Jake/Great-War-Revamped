@@ -151,7 +151,6 @@ country_event = {
 		name = "EVTOPTA35310" #We will be great again one day!
 		
 		change_tag = SVY
-		remove_accepted_culture = south_italian
 		primary_culture = north_italian
 		capital = 720
 	}
@@ -178,7 +177,7 @@ country_event = {
 		
 		change_tag = SRD
 		remove_accepted_culture = north_italian
-		primary_culture = south_italian
+		primary_culture = north_italian
 		capital = 765
 	}
 }

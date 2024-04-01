@@ -23,7 +23,7 @@
 		size = 15
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 219
 	 } 
@@ -33,7 +33,7 @@
 		size = 10
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 657
 	 } 

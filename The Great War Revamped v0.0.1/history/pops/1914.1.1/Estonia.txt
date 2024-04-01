@@ -73,12 +73,12 @@
 		size = 1347
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 1159
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 280
 	 } 
@@ -146,12 +146,12 @@
 		size = 83
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 346
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 83
 	 } 

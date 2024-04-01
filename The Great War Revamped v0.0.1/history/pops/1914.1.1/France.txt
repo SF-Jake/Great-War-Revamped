@@ -200,7 +200,7 @@
 		size = 6997
 	 } 
 	farmers = {
-		culture = flemish
+		culture = dutch
 		religion = catholic 
 		size = 1588
 	 } 
@@ -2317,17 +2317,17 @@
 		size = 2367
 	 } 
 	craftsmen = {
-		culture = breton
+		culture = french
 		religion =  catholic 
 		size = 9114
 	 } 
 	craftsmen = {
-		culture = breton
+		culture = french
 		religion = catholic 
 		size = 1866
 	 } 
 	farmers = {
-		culture = breton
+		culture = french
 		religion =  catholic 
 		size = 139787
 	 } 
@@ -2435,12 +2435,12 @@
 		size = 9319
 	 } 
 	farmers = {
-		culture = breton
+		culture = french
 		religion =  catholic 
 		size = 86600
 	 } 
 	farmers = {
-		culture = breton
+		culture = french
 		religion = catholic 
 		size = 9544
 	 } 
@@ -2548,12 +2548,12 @@
 		size = 17497
 	 } 
 	farmers = {
-		culture = breton
+		culture = french
 		religion =  catholic 
 		size = 66929
 	 } 
 	farmers = {
-		culture = breton
+		culture = french
 		religion = catholic 
 		size = 5515
 	 } 
@@ -6550,12 +6550,12 @@
 		size = 12954
 	 } 
 	farmers = {
-		culture = basque
+		culture = spanish
 		religion =  catholic 
 		size = 20489
 	 } 
 	farmers = {
-		culture = basque
+		culture = spanish
 		religion = catholic 
 		size = 2380
 	 } 
@@ -6974,12 +6974,12 @@
 		size = 5837
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 37691
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 6008
 	 } 

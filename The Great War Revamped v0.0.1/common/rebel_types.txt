@@ -1381,10 +1381,7 @@ pan_nationalist_rebels = {
 		
 		modifier = {
 			factor = 0
-			OR = {
-				culture = north_italian
-				culture = south_italian
-			}
+			culture = north_italian
 		}
 		
 		modifier = {
@@ -1640,14 +1637,6 @@ carlist_rebels = {
 		modifier = {
 			factor = 1.015
 			country = { plurality = 10 }
-		}
-		modifier = {
-			factor = 1.2
-			culture = basque
-		}
-		modifier = {
-			factor = 1.2
-			culture = catalan
 		}
 		modifier = {
 			factor = 0
@@ -2155,10 +2144,7 @@ red_shirts = {
 		modifier = {
 			factor = 0
 			NOT = {
-				OR = {
-					culture = south_italian
-					culture = north_italian
-				}
+				culture = north_italian
 			}
 		}
 		

@@ -73,12 +73,12 @@
 		size = 387
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 382391
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 14898
 	 } 
@@ -166,12 +166,12 @@
 		size = 385
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 5303
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 206
 	 } 
@@ -189,72 +189,72 @@
 #Kutaisi (120000/30000 POPS)
 1092 = {
 	officers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 416
 	 } 
 	officers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 16
 	 } 
 	soldiers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 1668
 	 } 
 	soldiers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 65
 	 } 
 	bureaucrats = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 6536
 	 } 
 	bureaucrats = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 254
 	 } 
 	clergymen = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 2781
 	 } 
 	clergymen = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 108
 	 } 
 	artisans = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 2564
 	 } 
 	artisans = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 99
 	 } 
 	craftsmen = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 8097
 	 } 
 	craftsmen = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 315
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 117015
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 4559
 	 } 
@@ -332,12 +332,12 @@
 		size = 1187
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 1925
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 75
 	 } 
@@ -345,62 +345,62 @@
 #Poti (104000/26000 POPS)
 1094 = {
 	officers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 340
 	 } 
 	officers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 13
 	 } 
 	soldiers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 1362
 	 } 
 	soldiers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 53
 	 } 
 	bureaucrats = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 5338
 	 } 
 	bureaucrats = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 207
 	 } 
 	clergymen = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 2271
 	 } 
 	clergymen = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 88
 	 } 
 	artisans = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 2093
 	 } 
 	artisans = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 81
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 102168
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 3980
 	 } 
@@ -468,12 +468,12 @@
 		size = 346
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 25366
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 3958
 	 } 
@@ -508,72 +508,72 @@
 #Batum (76000/19000 POPS) #now part of Georgia
 1096 = {
 	officers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 207
 	 } 
 	officers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 8
 	 } 
 	soldiers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 834
 	 } 
 	soldiers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 32
 	 } 
 	bureaucrats = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 3267
 	 } 
 	bureaucrats = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 127
 	 } 
 	clergymen = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 1390
 	 } 
 	clergymen = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 54
 	 } 
 	artisans = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 1282
 	 } 
 	artisans = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 49
 	 } 
 	craftsmen = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 4049
 	 } 
 	craftsmen = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 157
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion =  orthodox 
 		size = 58508
 	 } 
 	farmers = {
-		culture = georgian
+		culture = circassian
 		religion = orthodox 
 		size = 2279
 	 } 

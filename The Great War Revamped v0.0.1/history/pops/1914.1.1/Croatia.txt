@@ -163,12 +163,12 @@
 		size = 209
 	 } 
 	artisans = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 2076
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 6594
 	 } 

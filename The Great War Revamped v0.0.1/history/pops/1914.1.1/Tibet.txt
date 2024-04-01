@@ -611,13 +611,13 @@
     }
 
     farmers = {
-        culture = kachin
+        culture = burmese
         religion = animist
         size = 34577
     }
 
     farmers = {
-        culture = kachin
+        culture = burmese
         religion = animist
         size = 795
     }

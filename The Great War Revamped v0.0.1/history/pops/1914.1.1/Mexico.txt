@@ -181,7 +181,7 @@
 		size = 50881
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 6288
 	 } 
@@ -274,7 +274,7 @@
 		size = 7627
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 942
 	 } 
@@ -369,7 +369,7 @@
 		size = 19739
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 2439
 	 } 
@@ -462,7 +462,7 @@
 		size = 110688
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 13680
 	 } 
@@ -562,7 +562,7 @@
 		size = 22574
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 2790
 	 } 
@@ -655,7 +655,7 @@
 		size = 43211
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 5340
 	 } 
@@ -748,7 +748,7 @@
 		size = 18811
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 2325
 	 } 
@@ -841,7 +841,7 @@
 		size = 15376
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 1900
 	 } 
@@ -936,7 +936,7 @@
 		size = 13437
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 1660
 	 } 
@@ -1122,7 +1122,7 @@
 		size = 13437
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 1660
 	 } 
@@ -1205,7 +1205,7 @@
 		size = 6936
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 857
 	 } 
@@ -1215,7 +1215,7 @@
 		size = 45988
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 5683
 	 } 
@@ -1496,7 +1496,7 @@
 		size = 12091
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 1494
 	 } 
@@ -1591,7 +1591,7 @@
 		size = 46585
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 5757
 	 } 
@@ -1684,7 +1684,7 @@
 		size = 15078
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 1863
 	 } 
@@ -1767,7 +1767,7 @@
 		size = 7905
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 977
 	 } 
@@ -1777,7 +1777,7 @@
 		size = 52406
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 6477
 	 } 
@@ -1860,7 +1860,7 @@
 		size = 7905
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 977
 	 } 
@@ -1870,7 +1870,7 @@
 		size = 52406
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = catholic 
 		size = 6477
 	 } 
@@ -1950,7 +1950,7 @@
 		size = 286
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 8512
 	 } 
@@ -1965,7 +1965,7 @@
 		size = 56439
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = catholic 
 		size = 6975
 	 } 
@@ -2043,7 +2043,7 @@
 		size = 227
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 6755
 	 } 
@@ -2058,7 +2058,7 @@
 		size = 44794
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 5536
 	 } 
@@ -2136,7 +2136,7 @@
 		size = 204
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 6081
 	 } 
@@ -2151,7 +2151,7 @@
 		size = 40314
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = catholic 
 		size = 4982
 	 } 
@@ -2246,7 +2246,7 @@
 		size = 97949
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 12106
 	 } 
@@ -2339,7 +2339,7 @@
 		size = 207845
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 2688
 	 } 
@@ -2422,7 +2422,7 @@
 		size = 10427
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 1288
 	 } 
@@ -2432,7 +2432,7 @@
 		size = 9129
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 8544
 	 } 
@@ -2442,87 +2442,87 @@
 #Veracruz (140000/70000 POPS)
 2162 = {
 	officers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 583
 	 } 
 	officers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 72
 	 } 
 	soldiers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2338
 	 } 
 	soldiers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 288
 	 } 
 	aristocrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 223
 	 } 
 	aristocrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 1016
 	 } 
 	bureaucrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 411
 	 } 
 	bureaucrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 50
 	 } 
 	capitalists = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1027
 	 } 
 	capitalists = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 127
 	 } 
 	clergymen = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2055
 	 } 
 	clergymen = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 254
 	 } 
 	artisans = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 5671
 	 } 
 	artisans = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 700
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2806
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 2571
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 37965
 	 } 
@@ -2535,87 +2535,87 @@
 #Tampico (80000/20000 POPS)
 2163 = {
 	officers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 320
 	 } 
 	officers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 39
 	 } 
 	soldiers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1282
 	 } 
 	soldiers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 158
 	 } 
 	aristocrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 4512
 	 } 
 	aristocrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 557
 	 } 
 	bureaucrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 225
 	 } 
 	bureaucrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 27
 	 } 
 	capitalists = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 563
 	 } 
 	capitalists = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 69
 	 } 
 	clergymen = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1127
 	 } 
 	clergymen = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 139
 	 } 
 	artisans = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 3111
 	 } 
 	artisans = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 384
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 11418
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 1411
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 5698
 	 } 
@@ -2628,87 +2628,87 @@
 #Minatitlan (48000/12000 POPS)
 2164 = {
 	officers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 320
 	 } 
 	officers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 39
 	 } 
 	soldiers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1282
 	 } 
 	soldiers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 158
 	 } 
 	aristocrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 4512
 	 } 
 	aristocrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 557
 	 } 
 	bureaucrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 225
 	 } 
 	bureaucrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 27
 	 } 
 	capitalists = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 563
 	 } 
 	capitalists = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 69
 	 } 
 	clergymen = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1127
 	 } 
 	clergymen = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 139
 	 } 
 	artisans = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 3111
 	 } 
 	artisans = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 384
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 11418
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 1411
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 5698
 	 } 
@@ -2796,7 +2796,7 @@
 		size = 22900
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 2830
 	 } 
@@ -2806,7 +2806,7 @@
 		size = 4698
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 232
 	 } 
@@ -2886,7 +2886,7 @@
 		size = 707
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 21009
 	 } 
@@ -2901,7 +2901,7 @@
 		size = 9308
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 17217
 	 } 
@@ -2979,12 +2979,12 @@
 		size = 707
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 21009
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 2596
 	 } 
@@ -2994,7 +2994,7 @@
 		size = 9308
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 17217
 	 } 
@@ -3084,12 +3084,12 @@
 		size = 459
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 4634
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 3044
 	 } 
@@ -3172,17 +3172,17 @@
 		size = 10157
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 1255
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 7338
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 8322
 	 } 
@@ -3270,12 +3270,12 @@
 		size = 3072
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 64842
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 20373
 	 } 
@@ -3360,7 +3360,7 @@
 		size = 22956
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 1725
 	 } 
@@ -3375,12 +3375,12 @@
 		size = 3879
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 71697
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 8299
 	 } 
@@ -3468,12 +3468,12 @@
 		size = 846
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 2390
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 5610
 	 } 
@@ -3558,12 +3558,12 @@
 		size = 5221
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 1881
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 10935
 	 } 
@@ -3576,82 +3576,82 @@
 #Puebla (504000/126000 POPS)
 2176 = {
 	officers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 606
 	 } 
 	officers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = catholic 
 		size = 74
 	 } 
 	soldiers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2427
 	 } 
 	soldiers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = catholic 
 		size = 299
 	 } 
 	aristocrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 8535
 	 } 
 	aristocrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion = catholic 
 		size = 1054
 	 } 
 	bureaucrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 426
 	 } 
 	bureaucrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion = catholic 
 		size = 52
 	 } 
 	capitalists = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1066
 	 } 
 	capitalists = {
-		culture = nahua
+		culture = native_american_minor
 		religion = catholic 
 		size = 131
 	 } 
 	clergymen = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2133
 	 } 
 	clergymen = {
-		culture = nahua
+		culture = native_american_minor
 		religion = catholic 
 		size = 263
 	 } 
 	artisans = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 5886
 	 } 
 	artisans = {
-		culture = nahua
+		culture = native_american_minor
 		religion = catholic 
 		size = 727
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 22932
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = catholic 
 		size = 5306
 	 } 
@@ -3666,12 +3666,12 @@
 		size = 2637
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 10514
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 2423
 	 } 
@@ -3681,82 +3681,82 @@
 #Oaxaca (352000 88000 POPS)
 2177 = {
 	officers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 304
 	 } 
 	officers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 37
 	 } 
 	soldiers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1219
 	 } 
 	soldiers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 150
 	 } 
 	aristocrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 4289
 	 } 
 	aristocrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 530
 	 } 
 	bureaucrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 214
 	 } 
 	bureaucrats = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 26
 	 } 
 	capitalists = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 535
 	 } 
 	capitalists = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 66
 	 } 
 	clergymen = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1072
 	 } 
 	clergymen = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 132
 	 } 
 	artisans = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2958
 	 } 
 	artisans = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 365
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion =  catholic 
 		size = 9810
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 4920
 	 } 
@@ -3771,12 +3771,12 @@
 		size = 2651
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 1562
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 2665
 	 } 
@@ -3864,12 +3864,12 @@
 		size = 5318
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 3794
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 4918
 	 } 
@@ -3959,12 +3959,12 @@
 		size = 28
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 47545
 	 } 
 	farmers = {
-		culture = nahua
+		culture = native_american_minor
 		religion = animist
 		size = 18235
 	 } 
@@ -3972,82 +3972,82 @@
 #Chilpancingo (80000/20000 POPS)
 2180 = {
 	officers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 320
 	 } 
 	officers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 39
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 1282
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 158
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 4512
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 557
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 225
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 27
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 563
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 69
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 1127
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 139
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 3111
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 384
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 87117
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 10767
 	 } 
@@ -4057,7 +4057,7 @@
 #Tuxtla (84000/21000 POPS)
 2181 = {
 	officers = {
-		culture = mayan
+		culture = mexican
 		religion =  animist
 		size = 384
 	 } 
@@ -4067,7 +4067,7 @@
 		size = 47
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion =  animist
 		size = 1537
 	 } 
@@ -4077,7 +4077,7 @@
 		size = 190
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = mexican
 		religion =  animist
 		size = 5411
 	 } 
@@ -4087,7 +4087,7 @@
 		size = 668
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = mexican
 		religion =  animist
 		size = 270
 	 } 
@@ -4097,7 +4097,7 @@
 		size = 33
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = mexican
 		religion =  animist
 		size = 676
 	 } 
@@ -4107,7 +4107,7 @@
 		size = 83
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion =  animist
 		size = 1352
 	 } 
@@ -4117,7 +4117,7 @@
 		size = 167
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion =  animist
 		size = 3731
 	 } 
@@ -4127,7 +4127,7 @@
 		size = 461
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion =  animist
 		size = 40746
 	 } 
@@ -4137,12 +4137,12 @@
 		size = 5036
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 63725
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 7876
 	 } 
@@ -4150,82 +4150,82 @@
 #Tapachula (40000/10000 POPS)
 2182 = {
 	officers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 384
 	 } 
 	officers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 47
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 1537
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 190
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 5411
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 668
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 270
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 33
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 676
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 83
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 1352
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 167
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 3731
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 461
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 104472
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 12912
 	 } 
@@ -4235,92 +4235,92 @@
 #Merida (240000/60000 POPS)
 2183 = {
 	officers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 313
 	 } 
 	officers = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 38
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 1254
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 155
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 4414
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 545
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 220
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 27
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 551
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 68
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 1103
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 136
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 3043
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 376
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 49795
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 6154
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 35432
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 4379
 	 } 
@@ -4328,92 +4328,92 @@
 #Camnpeche (108000/27000 POPS)
 2184 = {
 	officers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 130
 	 } 
 	officers = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 16
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 525
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 65
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 1851
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 228
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 92
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 11
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 231
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 28
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 462
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 57
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 1276
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 157
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 9312
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 1151
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 26427
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 3266
 	 } 
@@ -4421,92 +4421,92 @@
 #Bacalar (92000/23000 POPS)
 2185 = {
 	officers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 211
 	 } 
 	officers = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 26
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 849
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 105
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 2990
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 369
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 149
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 18
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 373
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 46
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 747
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 92
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 2062
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 254
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 11304
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion = animist
 		size = 1397
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion =  catholic 
 		size = 46430
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mexican
 		religion = catholic 
 		size = 5738
 	 } 

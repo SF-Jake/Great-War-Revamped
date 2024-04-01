@@ -3,7 +3,7 @@
 #Reunion (98000/24500 POPS)
 2126 = {
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 339
 	 } 
@@ -13,7 +13,7 @@
 		size = 77
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 1361
 	 } 
@@ -23,7 +23,7 @@
 		size = 309
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 1702
 	 } 

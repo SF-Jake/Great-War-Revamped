@@ -1,7 +1,7 @@
 capital = 996
-primary_culture = ugrian #izhorian
+primary_culture = russian #izhorian
 culture = finnish
-#culture = ugrian
+#culture = russian
 religion = orthodox
 government = democracy
 plurality = 0.5

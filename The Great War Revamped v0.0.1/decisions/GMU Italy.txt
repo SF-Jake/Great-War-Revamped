@@ -91,10 +91,7 @@ political_decisions = {
 	# Italy rename Dalmatia
 	italian_dalmatia = {
 		potential = {
-			OR = {
-				primary_culture = north_italian
-				primary_culture = south_italian
-			}
+			culture = north_italian
 			AUS_780 = { owned_by = THIS }
 			NOT = { has_global_flag = italy_has_renamed_dalmatia }
 		}
@@ -127,7 +124,6 @@ political_decisions = {
 			OR = {
 				primary_culture = croat
 				primary_culture = serb
-				primary_culture = bosniak
 				tag = YUG
 			}
 			AUS_780 = { owned_by = THIS }
@@ -159,10 +155,7 @@ political_decisions = {
 	# Italy rename Tyrol
 	italian_trentino = {
 		potential = {
-			OR = {
-				primary_culture = north_italian
-				primary_culture = south_italian
-			}
+			primary_culture = north_italian
 			AUS_734 = { owned_by = THIS }
 			NOT = { has_global_flag = italy_has_renamed_trentino }
 		}

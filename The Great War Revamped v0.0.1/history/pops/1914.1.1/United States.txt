@@ -228,7 +228,7 @@
 		size = 35033
 	 } 
 	farmers = {
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size = 3464
 	 } 
@@ -321,7 +321,7 @@
 		size = 739
 	 } 
 	farmers = {
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size = 73
 	 } 
@@ -414,7 +414,7 @@
 		size = 739
 	 } 
 	farmers = {
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size = 73
 	 } 
@@ -569,7 +569,7 @@
 	}
 	
 	farmers = {
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size = 5000
 	}
@@ -1948,7 +1948,7 @@
 		size = 5552
 	 } 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 4999
 	 } 
@@ -1963,12 +1963,12 @@
 		size = 14999
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 5552
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 4999
 	 } 
@@ -2091,7 +2091,7 @@
 		size = 1027
 	 } 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 1684
 	 } 
@@ -2106,12 +2106,12 @@
 		size = 5052
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1727
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 1684
 	 } 
@@ -2748,12 +2748,12 @@
 		size = 1231
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 9964
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = protestant 
 		size = 985
 	 } 
@@ -3184,7 +3184,7 @@
 		size = 2848
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1520
 	 } 
@@ -3421,12 +3421,12 @@
 		size = 1762
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 16198
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 1602
 	 } 
@@ -3556,12 +3556,12 @@
 		size = 77
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1565
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 154
 	 } 
@@ -3690,12 +3690,12 @@
 		size = 77
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1565
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 154
 	 } 
@@ -3823,12 +3823,12 @@
 		size = 77
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1565
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 154
 	 } 
@@ -4277,12 +4277,12 @@
 		size = 233
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1178
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 116
 	 } 
@@ -6471,12 +6471,12 @@
 		size = 2872
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 24206
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 2394
 	 } 
@@ -6832,12 +6832,12 @@
 		size = 5458
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 8386
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 1818
 	 } 
@@ -7050,12 +7050,12 @@
 		size = 1219
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1225
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 1219
 	 } 
@@ -7180,12 +7180,12 @@
 		size = 2765
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1984
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 1185
 	 } 
@@ -7299,12 +7299,12 @@
 		size = 333
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 3367
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 333
 	 } 
@@ -7428,12 +7428,12 @@
 		size = 1574
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 9505
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 1929
 	 } 
@@ -7654,12 +7654,12 @@
 		size = 333
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 3367
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = catholic 
 		size = 333
 	 } 

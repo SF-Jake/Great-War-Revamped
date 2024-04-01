@@ -3,82 +3,82 @@
 #Tainan (1452000/363000 POPS) #now part of Taiwan   
 1485 = {
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 2312
 	 } 
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 271
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 9250
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 1085
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 46253
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 5426
 	 } 
 	bureaucrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 1156
 	 } 
 	bureaucrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 135
 	 } 
 	capitalists = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 5781
 	 } 
 	capitalists = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 678
 	 } 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 11563
 	 } 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 1356
 	 } 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 5337
 	 } 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 626
 	 } 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 161175
 	 } 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 18908
 	 } 
@@ -106,62 +106,62 @@
 #Taitung (67k - 268k) #now part of Taiwan  
 2562 = {
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 1258
 	 } 
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 147
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 5033
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 590
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 25167
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 2952
 	 } 
 	bureaucrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 629
 	 } 
 	bureaucrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 73
 	 } 
 	capitalists = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 3145
 	 } 
 	capitalists = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 369
 	 } 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 2516
 	 } 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 295
 	 } 
@@ -220,25 +220,25 @@
 #Penghu (15K - 60 K POPS) #british trade post 1836 - old cocos island
 2406 = {
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 150
 	}
 	
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 100
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 750
 	}
 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 1300
 	}

@@ -244,7 +244,7 @@
 		size = 9273
 	 } 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 1324
 	 } 
@@ -764,12 +764,12 @@
 		size = 1007
 	 } 
 	farmers = {
-		culture = tatar
+		culture = mongol
 		religion =  sunni
 		size = 42147
 	 } 
 	farmers = {
-		culture = tatar
+		culture = mongol
 		religion = gelugpa
 		size = 7292
 	 } 

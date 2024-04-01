@@ -2893,7 +2893,7 @@
 		size = 1149
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 17749
 	 } 
@@ -2984,7 +2984,7 @@
 #Chabahar (96000/24000 POPS)
 1146 = {
 	aristocrats = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 2440
 	 } 
@@ -2994,7 +2994,7 @@
 		size = 1505
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 19087
 	 } 

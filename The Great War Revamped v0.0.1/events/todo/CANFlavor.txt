@@ -2033,7 +2033,7 @@ country_event = {
 		}
 		any_pop = {
 			limit = {
-				has_pop_culture = cree
+				has_pop_culture = native_american_minor
 			}
 			militancy = 3
 			consciousness = 3

@@ -337,52 +337,52 @@
 #Graz (380000/95000 POPS)
 616 = {
 	officers = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 327
 	 } 
 	officers = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 47
 	 } 
 	soldiers = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 1308
 	 } 
 	soldiers = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 191
 	 } 
 	aristocrats = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 2726
 	 } 
 	aristocrats = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 398
 	 } 
 	bureaucrats = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 654
 	 } 
 	bureaucrats = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 95
 	 } 
 	capitalists = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 436
 	 } 
 	capitalists = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 63
 	 } 
@@ -513,82 +513,82 @@
 #Klagenfurt (188000/47000 POPS)
 618 = {
 	officers = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 294
 	 } 
 	officers = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 43
 	 } 
 	soldiers = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 1180
 	 } 
 	soldiers = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 172
 	 } 
 	aristocrats = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 2458
 	 } 
 	aristocrats = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 359
 	 } 
 	bureaucrats = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 589
 	 } 
 	bureaucrats = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 86
 	 } 
 	capitalists = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 589
 	 } 
 	capitalists = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 86
 	 } 
 	clergymen = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 1967
 	 } 
 	clergymen = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 287
 	 } 
 	artisans = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 2350
 	 } 
 	artisans = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 343
 	 } 
 	farmers = {
-		culture = slovene
+		culture = croat
 		religion =  catholic 
 		size = 405
 	 } 
 	farmers = {
-		culture = slovene
+		culture = croat
 		religion = catholic 
 		size = 59
 	 } 
@@ -638,22 +638,22 @@
 		size = 1608
 	 } 
 	bureaucrats = {
-		culture = slovak
+		culture = czech
 		religion =  catholic 
 		size = 628
 	 } 
 	bureaucrats = {
-		culture = slovak
+		culture = czech
 		religion = catholic 
 		size = 91
 	 } 
 	clergymen = {
-		culture = slovak
+		culture = czech
 		religion =  catholic 
 		size = 2517
 	 } 
 	clergymen = {
-		culture = slovak
+		culture = czech
 		religion = catholic 
 		size = 367
 	 } 

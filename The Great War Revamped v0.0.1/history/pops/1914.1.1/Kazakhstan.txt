@@ -167,7 +167,7 @@
 		size = 595
 	 } 
 	farmers = {
-		culture = tatar
+		culture = mongol
 		religion =  sunni 
 		size = 2647
 	 } 
@@ -272,7 +272,7 @@
 		size = 241
 	 } 
 	farmers = {
-		culture = tatar
+		culture = mongol
 		religion =  sunni 
 		size = 1072
 	 } 
@@ -375,7 +375,7 @@
 		size = 394
 	 } 
 	farmers = {
-		culture = tatar
+		culture = mongol
 		religion =  sunni 
 		size = 1755
 	 } 
@@ -574,7 +574,7 @@
 		size = 504
 	 } 
 	farmers = {
-		culture = tatar
+		culture = mongol
 		religion =  sunni 
 		size = 2242
 	 } 
@@ -711,7 +711,7 @@
 		size = 2247
 	 } 
 	farmers = {
-		culture = tatar
+		culture = mongol
 		religion =  sunni 
 		size = 9990
 	 } 
@@ -807,27 +807,27 @@
 #Shymkent (180000/45000 POPS) #now part of Kazakhstan   
 1197 = {
 	soldiers = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 3162
 	 } 
 	bureaucrats = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 12121
 	 } 
 	clergymen = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 5270
 	 } 
 	artisans = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 4937
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 21150
 	 } 

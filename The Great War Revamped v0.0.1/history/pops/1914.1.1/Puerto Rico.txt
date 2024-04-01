@@ -83,7 +83,7 @@
 		size = 32801
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 37788
 	 } 

@@ -91,7 +91,7 @@
 		size = 8619
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 1092
 	 } 
@@ -175,22 +175,22 @@
 #Pljevlja (52000/13000 POPS) #now part of Montenegro
 2577 = {
 	aristocrats = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 2240
 	 } 
 	clergymen = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 1120
 	 } 
 	artisans = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 1103
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 5225
 	 } 

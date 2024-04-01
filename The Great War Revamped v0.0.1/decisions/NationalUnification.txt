@@ -390,7 +390,6 @@ political_decisions = {
 			change_tag = ITA
 			capital = 749
 			add_accepted_culture = north_italian
-			add_accepted_culture = south_italian
 			any_country = {
 				limit = {
 					is_culture_group = italian
@@ -453,8 +452,6 @@ political_decisions = {
 			add_accepted_culture = danish
 			add_accepted_culture = norwegian
 			add_accepted_culture = finnish
-			add_accepted_culture = icelandic
-			add_accepted_culture = sami
 			any_country = {
 				limit = {
 					NOT = {
@@ -823,9 +820,7 @@ unite_moldavia_wallachia = {
 			BOS = { all_core = { add_core = YUG } }
 			SLO = { all_core = { add_core = YUG } }
 			add_accepted_culture = serb
-			add_accepted_culture = bosniak
 			add_accepted_culture = croat
-                        add_accepted_culture = slovene
 			change_tag = YUG
 			any_country = {
 				limit = {
@@ -929,10 +924,7 @@ unite_moldavia_wallachia = {
 			}
 			add_accepted_culture = avadhi
 			add_accepted_culture = marathi
-			add_accepted_culture = rajput
-			add_accepted_culture = bihari
 			add_accepted_culture = bengali
-			add_accepted_culture = kanauji
 			add_accepted_culture = panjabi
 		}
 		ai_will_do = {
@@ -995,8 +987,7 @@ unite_moldavia_wallachia = {
 			change_tag = IBR
 			add_accepted_culture = portuguese
 			add_accepted_culture = spanish
-			add_accepted_culture = catalan
-			add_accepted_culture = basque
+
 			SPA = { all_core = { add_core = IBR } }
 			POR = { all_core = { add_core = IBR } }
 		}
@@ -1262,8 +1253,6 @@ unite_moldavia_wallachia = {
 				add_accepted_culture = croat
 				add_accepted_culture = serb
 				add_accepted_culture = bulgarian
-				add_accepted_culture = slovene
-				add_accepted_culture = bosniak
 			}
 			any_country = {
 				limit = {

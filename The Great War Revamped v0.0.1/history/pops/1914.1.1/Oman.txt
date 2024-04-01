@@ -75,19 +75,19 @@
 	}
 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 925
 	}
@@ -267,19 +267,19 @@
 	}
 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 925
 	}
@@ -409,43 +409,43 @@
 #Khasab - Former Oyotuni/Chokurdakh
 2664 = {
 	aristocrats = {
-		culture = bedouin
+		culture = siberian
 		religion = ibadi
 		size = 5
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = siberian
 		religion = ibadi
 		size = 5
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = siberian
 		religion = ibadi
 		size = 10
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = siberian
 		religion = ibadi
 		size = 100
 	}
 	
 	farmers = {
-		culture = bedouin
+		culture = siberian
 		religion = ibadi
 		size = 230
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = siberian
 		religion = sunni
 		size = 730
 	}
 	
 	farmers = {
-		culture = baluchi
+		culture = siberian
 		religion = sunni
 		size = 100
 	}
@@ -454,49 +454,49 @@
 #Gwadar - Ziryanka (1000/250 POPS)
 2640 = {
 	aristocrats = {
-		culture = bedouin
+		culture = siberian
 		religion = ibadi
 		size = 5
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = siberian
 		religion = ibadi
 		size = 25
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = siberian
 		religion = ibadi
 		size = 25
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = siberian
 		religion = ibadi
 		size = 100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = siberian
 		religion = ibadi
 		size = 300
 	}
 	
 	farmers = {
-		culture = baluchi
+		culture = siberian
 		religion = sunni
 		size = 600
 	}
 	
 	slaves = {
-		culture = african
+		culture = siberian
 		religion = animist
 		size = 100
 	}
 	
 	farmers = {
-		culture = baluchi
+		culture = siberian
 		religion = shiite
 		size = 450
 	}

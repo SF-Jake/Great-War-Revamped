@@ -3,82 +3,82 @@
 #Katmandu (540000/135000 POPS)   
 1326 = {
 	officers = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 1296
 	 } 
 	officers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 16
 	 } 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 5186
 	 } 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 65
 	 } 
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 48575
 	 } 
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 614
 	 } 
 	bureaucrats = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 1213
 	 } 
 	bureaucrats = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 15
 	 } 
 	capitalists = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 6071
 	 } 
 	capitalists = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 76
 	 } 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 12143
 	 } 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 153
 	 } 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 13431
 	 } 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 170
 	 } 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 453694
 	 } 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 5742
 	 } 
@@ -93,7 +93,7 @@
 		size = 6225
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion =  sunni 
 		size = 56568
 	 } 
@@ -121,82 +121,82 @@
 #Jumla (412000/103000 POPS)   
 1327 = {
 	officers = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 1072
 	 } 
 	officers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 13
 	 } 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 4291
 	 } 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 54
 	 } 
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 40191
 	 } 
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 508
 	 } 
 	bureaucrats = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 1004
 	 } 
 	bureaucrats = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 12
 	 } 
 	capitalists = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 5023
 	 } 
 	capitalists = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 63
 	 } 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 10047
 	 } 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 127
 	 } 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 11113
 	 } 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 140
 	 } 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion =  hindu 
 		size = 375388
 	 } 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu 
 		size = 4751
 	 } 
@@ -211,7 +211,7 @@
 		size = 5151
 	 } 
 	farmers = {
-		culture = tamil
+		culture = telegu
 		religion =  sunni 
 		size = 46805
 	 } 

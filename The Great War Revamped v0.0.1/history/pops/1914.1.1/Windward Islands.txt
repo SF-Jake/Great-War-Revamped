@@ -42,7 +42,7 @@
 		size = 16
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 250
 	 } 
@@ -210,12 +210,12 @@
 		size = 764
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = afro_caribbean
 		religion =  catholic 
 		size = 2049
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = afro_caribbean
 		religion = catholic 
 		size = 102
 	 } 
@@ -303,12 +303,12 @@
 		size = 251
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = afro_caribbean
 		religion =  catholic 
 		size = 176
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = afro_caribbean
 		religion = catholic 
 		size = 4
 	 } 
@@ -406,12 +406,12 @@
 		size = 893
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = afro_caribbean
 		religion =  catholic 
 		size = 1679
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = afro_caribbean
 		religion = catholic 
 		size = 107
 	 } 
@@ -459,7 +459,7 @@
 		size = 15
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 313
 	 } 
@@ -469,12 +469,12 @@
 		size = 15
 	 } 
 	bureaucrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 15
 	 } 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 142
 	 } 
@@ -519,12 +519,12 @@
 		size = 517
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = afro_caribbean
 		religion =  catholic 
 		size = 2335
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = afro_caribbean
 		religion = catholic 
 		size = 116
 	 } 

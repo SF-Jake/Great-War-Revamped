@@ -411,7 +411,7 @@
 		size = 55138
 	 } 
 	farmers = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 3327
 	 } 
@@ -499,12 +499,12 @@
 		size = 1302
 	 } 
 	farmers = {
-		culture = ainu
+		culture = japanese
 		religion =  shinto 
 		size = 3587
 	 } 
 	farmers = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 774
 	 } 
@@ -592,12 +592,12 @@
 		size = 1302
 	 } 
 	farmers = {
-		culture = ainu
+		culture = japanese
 		religion =  shinto 
 		size = 3587
 	 } 
 	farmers = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 774
 	 } 
@@ -1026,7 +1026,7 @@
 		size = 69386
 	 } 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 14973
 	 } 
@@ -3400,7 +3400,7 @@
 		size = 4685
 	 } 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 1011
 	 } 
@@ -3504,25 +3504,25 @@
 12 = {
 
 	clergymen = {
-		culture = japanese
+		culture = anglo_canadian
 		religion = shinto
 		size = 250
 	}
 
 	artisans = {
-		culture = japanese
+		culture = anglo_canadian
 		religion = shinto
 		size = 3500
 	}
 
 	soldiers = {
-		culture = japanese
+		culture = anglo_canadian
 		religion = shinto
 		size = 1100
 	}
 
 	farmers = {
-		culture = japanese
+		culture = anglo_canadian
 		religion = shinto
 		size = 20150
 	}

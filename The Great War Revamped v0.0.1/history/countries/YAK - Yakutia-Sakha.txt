@@ -1,5 +1,5 @@
 capital = 2648
-primary_culture = yakut
+primary_culture = siberian
 culture = russian
 religion = animist
 government = absolute_monarchy

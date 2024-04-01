@@ -41,7 +41,7 @@ country_event = {
 		prestige = 5
 		any_pop = {
 			limit = {
-				has_pop_culture = flemish
+				has_pop_culture = dutch
 			}
 			consciousness = 2
 		}
@@ -89,7 +89,7 @@ country_event = {
 		name = "EVTOPTA36701" 
 		any_pop = {
 			limit = {
-				has_pop_culture = flemish
+				has_pop_culture = dutch
 			}
 			consciousness = 3
 			militancy = 1
@@ -246,8 +246,7 @@ country_event = {
 		change_tag = FLA
 		remove_accepted_culture = wallonian
 		remove_accepted_culture = picard
-		primary_culture = flemish
-		add_accepted_culture = dutch
+		primary_culture = dutch
 		capital = 387
 	}
 }
@@ -269,9 +268,7 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA36708" #We will be great again one day!
-		
 		change_tag = WLL
-		remove_accepted_culture = flemish
 		remove_accepted_culture = dutch
 		primary_culture = wallonian
 		add_accepted_culture = picard

@@ -113,12 +113,12 @@
 		size = 3381
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 23671
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 4508
 	 } 
@@ -226,12 +226,12 @@
 		size = 13421
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 10374
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 1976
 	 } 
@@ -339,12 +339,12 @@
 		size = 3225
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 2210
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 421
 	 } 
@@ -452,12 +452,12 @@
 		size = 4810
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 2889
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 550
 	 } 

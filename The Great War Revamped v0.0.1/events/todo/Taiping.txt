@@ -83,7 +83,7 @@ country_event = {
 		any_pop = {
 			limit = {
 				OR = {
-					has_pop_culture = nanfaren
+					has_pop_culture = beifaren
 					has_pop_culture = zhuang
 					has_pop_culture = yue
 				}
@@ -113,7 +113,7 @@ country_event = {
 			any_pop = {
 				limit = {
 					OR = {
-						has_pop_culture = nanfaren
+						has_pop_culture = beifaren
 						has_pop_culture = zhuang
 						has_pop_culture = yue
 					}
@@ -177,7 +177,7 @@ country_event = {
 		any_pop = {
 			limit = {
 				OR = {
-					has_pop_culture = nanfaren
+					has_pop_culture = beifaren
 					has_pop_culture = zhuang
 					has_pop_culture = yue
 				}
@@ -207,7 +207,7 @@ country_event = {
 			any_pop = {
 				limit = {
 					OR = {
-						has_pop_culture = nanfaren
+						has_pop_culture = beifaren
 						has_pop_culture = zhuang
 						has_pop_culture = yue
 					}
@@ -364,7 +364,7 @@ country_event = {
 			limit = {
 				any_core = {
 					NOT = {
-						primary_culture = nanfaren
+						primary_culture = beifaren
 						tag = CHI
 					}
 					exists = no
@@ -644,7 +644,7 @@ country_event = {
 			limit = {
 				any_core = {
 					NOT = {
-						primary_culture = nanfaren
+						primary_culture = beifaren
 						tag = CHI
 					}
 					exists = no
@@ -796,7 +796,7 @@ province_event = {
 		}
 		modifier = {
 			factor = 3
-			NOT = { culture = nanfaren }
+			NOT = { culture = beifaren }
 		}
 	}
 	
@@ -1106,7 +1106,7 @@ province_event = {
 		}
 		modifier = {
 			factor = 3
-			NOT = { culture = nanfaren }
+			NOT = { culture = beifaren }
 		}
 	}
 	
@@ -1231,7 +1231,7 @@ province_event = {
 		}
 		modifier = {
 			factor = 3
-			NOT = { culture = nanfaren }
+			NOT = { culture = beifaren }
 		}
 	}
 	
@@ -1294,7 +1294,7 @@ country_event = {
 			limit = {
 				any_core = {
 					NOT = {
-						primary_culture = nanfaren
+						primary_culture = beifaren
 						tag = CHI
 					}
 					exists = no
@@ -1385,7 +1385,7 @@ country_event = {
 			limit = {
 				any_core = {
 					NOT = {
-						primary_culture = nanfaren
+						primary_culture = beifaren
 						tag = CHI
 					}
 					exists = no

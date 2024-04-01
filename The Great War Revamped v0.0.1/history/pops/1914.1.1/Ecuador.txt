@@ -93,7 +93,7 @@
 		size = 80
 	 } 
 	craftsmen = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 2511
 	 } 
@@ -103,22 +103,22 @@
 		size = 12
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 5679
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 28
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 254876
 	 } 
 	farmers = {
-		culture = quechua
+		culture = south_andean
 		religion = catholic 
 		size = 1280
 	 } 
@@ -186,12 +186,12 @@
 		size = 1057
 	 } 
 	craftsmen = {
-		culture = quechua
+		culture = south_andean
 		religion = catholic 
 		size = 5
 	 } 
 	farmers = {
-		culture = quechua
+		culture = south_andean
 		religion =  catholic 
 		size = 11112
 	 } 
@@ -274,17 +274,17 @@
 		size = 10859
 	 } 
 	farmers = {
-		culture = quechua
+		culture = south_andean
 		religion = animist
 		size = 54
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 4290
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = animist
 		size = 21
 	 } 
@@ -374,32 +374,32 @@
 		size = 20
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 3257
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 16
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 23388
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 117
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 245585
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 1234
 	 } 
@@ -497,12 +497,12 @@
 		size = 49
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 77550
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 389
 	 } 
@@ -590,22 +590,22 @@
 		size = 27
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 642
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 3
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 64833
 	 } 
 	farmers = {
-		culture = quechua
+		culture = south_andean
 		religion = catholic 
 		size = 325
 	 } 
@@ -655,17 +655,17 @@
 		size = 9
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 19
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 1011
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 5
 	 } 

@@ -1,6 +1,5 @@
 capital = 1612
 primary_culture = beifaren
-culture = nanfaren
 culture = mongol
 culture = manchu
 culture = uighur

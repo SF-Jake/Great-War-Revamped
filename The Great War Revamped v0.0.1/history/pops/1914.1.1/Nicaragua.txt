@@ -103,12 +103,12 @@
 		size = 688
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 58464
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 2915
 	 } 
@@ -196,32 +196,32 @@
 		size = 3
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 1221
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 60
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 4117
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 205
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 51882
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 2587
 	 } 
@@ -309,32 +309,32 @@
 		size = 3
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 1451
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 72
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 4889
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 243
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 61596
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 3071
 	 } 
@@ -452,12 +452,12 @@
 		size = 622
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 3776
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 188
 	 } 

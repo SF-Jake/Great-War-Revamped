@@ -113,12 +113,12 @@
 		size = 1558
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = caribeno
 		religion =  catholic 
 		size = 394844
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = caribeno
 		religion = catholic 
 		size = 14320
 	 } 
@@ -226,12 +226,12 @@
 		size = 76
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = caribeno
 		religion =  catholic 
 		size = 19372
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = caribeno
 		religion = catholic 
 		size = 702
 	 } 

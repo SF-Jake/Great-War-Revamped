@@ -3,22 +3,22 @@
 #Dashhowuz (40000/10000 POPS) #now part of Turkmenistan  
 1196 = {
 	bureaucrats = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 3335
 	 } 
 	clergymen = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 1450
 	 } 
 	artisans = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 1234
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 3044
 	 } 
@@ -176,7 +176,7 @@
 		size = 147
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 16390
 	 } 

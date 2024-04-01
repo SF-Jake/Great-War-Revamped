@@ -436,77 +436,77 @@
 #Jian - Jian, Pingxiang (2780000/695000 POPS)
 1547 = {
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 1657
 	 } 
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 427
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 6630
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 1709
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 22100
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 5699
 	 } 
 	bureaucrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 552
 	 } 
 	bureaucrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 142
 	 } 
 	capitalists = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 2762
 	 } 
 	capitalists = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 712
 	 } 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 5525
 	 } 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 1424
 	 } 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 2674
 	 } 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 689
 	 } 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 510621
 	 } 
@@ -966,7 +966,7 @@
 		size = 5012
 	 } 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 1292
 	 } 
@@ -976,7 +976,7 @@
 		size = 2426
 	 } 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 625
 	 } 
@@ -986,7 +986,7 @@
 		size = 463233
 	 } 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 119450
 	 } 
@@ -994,77 +994,77 @@
 #Longan - Ngawa,  Mianyang, Guangyuan, Nanchong, Bazhong, Dazhou (3348000/837000 POPS)
 1582 = {
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 1996
 	 } 
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 514
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 7984
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 2059
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 26616
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 6863
 	 } 
 	bureaucrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 665
 	 } 
 	bureaucrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 171
 	 } 
 	capitalists = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 3327
 	 } 
 	capitalists = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 857
 	 } 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 6654
 	 } 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 1715
 	 } 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 3220
 	 } 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 830
 	 } 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 608295
 	 } 

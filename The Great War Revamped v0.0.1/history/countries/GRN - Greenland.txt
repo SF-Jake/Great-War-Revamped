@@ -1,6 +1,5 @@
 capital = 251
 primary_culture = danish
-culture = inuit
 religion = protestant
 government = democracy
 plurality = 0.0

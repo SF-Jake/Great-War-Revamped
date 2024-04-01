@@ -176,13 +176,13 @@
 	}
 
 	soldiers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 30
 	}
 
 	farmers = {
-		culture = cree
+		culture = native_american_minor
 		religion = animist
 		size = 720
 	}
@@ -311,12 +311,12 @@
 		size = 117
 	 } 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 326
 	 } 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 58
 	 } 
@@ -355,7 +355,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 500
 	}
@@ -481,22 +481,22 @@
 		size = 7
 	 } 
 	craftsmen = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 133
 	 } 
 	craftsmen = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 24
 	 } 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 1486
 	 } 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 267
 	 } 
@@ -1692,7 +1692,7 @@
 		size = 828
 	 } 
 	farmers = {
-		culture = cree
+		culture = native_american_minor
 		religion = animist
 		size = 149
 	 } 
@@ -2421,7 +2421,7 @@
 		size = 614
 	 } 
 	farmers = {
-		culture = cree
+		culture = native_american_minor
 		religion = animist
 		size = 110
 	 } 
@@ -2981,7 +2981,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 400
 	}
@@ -3064,7 +3064,7 @@
 		size = 2
 	 } 
 	craftsmen = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 42
 	 } 
@@ -3074,12 +3074,12 @@
 		size = 7
 	 } 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 497
 	 } 
 	farmers = {
-		culture = cree
+		culture = native_american_minor
 		religion = animist
 		size = 89
 	 } 
@@ -3489,12 +3489,12 @@
 		size = 21
 	 } 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 381
 	 } 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 68
 	 } 
@@ -4014,7 +4014,7 @@
 		size = 48527
 	 } 
 	farmers = {
-		culture = cree
+		culture = native_american_minor
 		religion = animist
 		size = 8731
 	 } 
@@ -4186,7 +4186,7 @@
 		size = 127
 	 } 
 	farmers = {
-		culture = cree
+		culture = native_american_minor
 		religion = animist
 		size = 22
 	 } 
@@ -5082,87 +5082,87 @@
 #Fort George (1600/400 POPS)
 2593 = {
 	officers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 1
 	 } 
 	soldiers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 9
 	 } 
 	soldiers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 1
 	 } 
 	aristocrats = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 33
 	 } 
 	aristocrats = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 6
 	 } 
 	bureaucrats = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 1
 	 } 
 	capitalists = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 4
 	 } 
 	clergymen = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 8
 	 } 
 	clergymen = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 1
 	 } 
 	clerks = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 25
 	 } 
 	clerks = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 4
 	 } 
 	artisans = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 23
 	 } 
 	artisans = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 4
 	 } 
 	craftsmen = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 77
 	 } 
 	craftsmen = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 13
 	 } 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 661
 	 } 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 119
 	 } 
@@ -6963,12 +6963,12 @@
 		size = 219
 	 } 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion =  protestant 
 		size = 63
 	 } 
 	farmers = {
-		culture = inuit
+		culture = anglo_canadian
 		religion = animist
 		size = 11
 	 } 
@@ -7051,7 +7051,7 @@
 		size = 2267
 	 } 
 	farmers = {
-		culture = cree
+		culture = native_american_minor
 		religion = animist
 		size = 408
 	 } 
@@ -7116,7 +7116,7 @@
 		size = 30
 	 } 
 	artisans = {
-		culture = breton
+		culture = french
 		religion = catholic 
 		size = 6
 	 } 

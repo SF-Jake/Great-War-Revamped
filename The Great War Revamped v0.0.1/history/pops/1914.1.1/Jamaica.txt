@@ -191,12 +191,12 @@
 		size = 71
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = afro_caribbean
 		religion =  catholic 
 		size = 442
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = afro_caribbean
 		religion = catholic 
 		size = 103
 	 } 

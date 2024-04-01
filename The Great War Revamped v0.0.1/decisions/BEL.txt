@@ -106,13 +106,13 @@ political_decisions = {
 		effect = {
 			prestige = 10
 			change_tag = BEL
-			add_accepted_culture = flemish
+			add_accepted_culture = dutch
 			add_accepted_culture = wallonian
 			capital = 392
 			any_country = {
 				limit = {
 					OR = {
-						primary_culture = flemish
+						primary_culture = dutch
 						primary_culture = wallonian
 					}
 					OR = {

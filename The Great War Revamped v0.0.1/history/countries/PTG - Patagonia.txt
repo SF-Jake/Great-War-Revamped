@@ -1,5 +1,5 @@
 capital = 2329
-primary_culture = patagonian
+primary_culture = south_andean
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

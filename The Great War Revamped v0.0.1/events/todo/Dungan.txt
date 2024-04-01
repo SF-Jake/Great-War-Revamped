@@ -258,9 +258,7 @@ country_event = {
 		XIN = { change_tag = UYG }
 		UYG = {
 			primary_culture = uighur
-			add_accepted_culture = tajik
 			add_accepted_culture = kazak
-			add_accepted_culture = kirgiz
 			capital = 1594
 			any_pop = {
 				consciousness = -5

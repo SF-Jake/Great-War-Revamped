@@ -436,7 +436,6 @@ country_event = {
 	option = {
 		name = "EVTOPTA33010"
 		add_accepted_culture = dutch
-		add_accepted_culture = flemish
 	}
 }
 

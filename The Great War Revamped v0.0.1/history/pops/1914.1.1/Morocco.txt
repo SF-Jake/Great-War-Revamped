@@ -387,92 +387,92 @@
 #Ceuta (old Ugolniye - Lutlin) (1000/250 POPS)
 2590 = {
 	officers = {
-		culture = african
+		culture = siberian
 		religion =  sunni
 		size = 360
 	 } 
 	officers = {
-		culture = spanish
+		culture = siberian
 		religion = catholic
 		size = 62
 	 } 
 	soldiers = {
-		culture = african
+		culture = siberian
 		religion =  sunni
 		size = 1442
 	 } 
 	soldiers = {
-		culture = african
+		culture = siberian
 		religion = sunni
 		size = 249
 	 } 
 	bureaucrats = {
-		culture = spanish
+		culture = siberian
 		religion =  catholic
 		size = 820
 	 } 
 	bureaucrats = {
-		culture = spanish
+		culture = siberian
 		religion = catholic
 		size = 142
 	 } 
 	clergymen = {
-		culture = african
+		culture = siberian
 		religion =  sunni
 		size = 456
 	 } 
 	clergymen = {
-		culture = spanish
+		culture = siberian
 		religion = catholic
 		size = 78
 	 } 
 	artisans = {
-		culture = african
+		culture = siberian
 		religion =  sunni
 		size = 555
 	 } 
 	artisans = {
-		culture = spanish
+		culture = siberian
 		religion = catholic
 		size = 96
 	 } 
 	craftsmen = {
-		culture = african
+		culture = siberian
 		religion =  sunni
 		size = 1755
 	 } 
 	craftsmen = {
-		culture = spanish
+		culture = siberian
 		religion = catholic
 		size = 303
 	 } 
 	farmers = {
-		culture = african
+		culture = siberian
 		religion =  sunni
 		size = 12396
 	 } 
 	farmers = {
-		culture = african
+		culture = siberian
 		religion = sunni
 		size = 2144
 	 } 
 	farmers = {
-		culture = spanish
+		culture = siberian
 		religion =  catholic
 		size = 1595
 	 } 
 	farmers = {
-		culture = spanish
+		culture = siberian
 		religion = catholic
 		size = 276
 	 } 
 	farmers = {
-		culture = african
+		culture = siberian
 		religion =  sunni
 		size = 3420
 	 } 
 	farmers = {
-		culture = african
+		culture = siberian
 		religion = sunni
 		size = 591
 	 } 

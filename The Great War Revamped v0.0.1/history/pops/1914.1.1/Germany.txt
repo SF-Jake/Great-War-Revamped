@@ -7795,7 +7795,7 @@
 		size = 11648
 	 } 
 	farmers = {
-		culture = lithuanian
+		culture = polish
 		religion =  protestant 
 		size = 1875
 	 } 
@@ -7808,22 +7808,22 @@
 #Gumbinnen (228000/57000 POPS) #now part of Russia 
 697 = {
 	officers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 376
 	 } 
 	officers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 65
 	 } 
 	soldiers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 100
 	 } 
 	soldiers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 17
 	 } 
@@ -7898,12 +7898,12 @@
 		size = 2965
 	 } 
 	farmers = {
-		culture = lithuanian
+		culture = polish
 		religion =  protestant 
 		size = 477
 	 } 
 	farmers = {
-		culture = lithuanian
+		culture = polish
 		religion = protestant 
 		size = 82
 	 } 

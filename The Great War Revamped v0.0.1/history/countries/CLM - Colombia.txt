@@ -1,6 +1,5 @@
 capital = 2247
 primary_culture = north_andean
-culture = mestizo
 religion = catholic
 government = democracy
 plurality = 25.0

@@ -8,7 +8,7 @@
 		size = 562
 	 } 
 	officers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 58
 	 } 
@@ -18,7 +18,7 @@
 		size = 2248
 	 } 
 	soldiers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 235
 	 } 
@@ -28,7 +28,7 @@
 		size = 7493
 	 } 
 	aristocrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 786
 	 } 
@@ -38,7 +38,7 @@
 		size = 187
 	 } 
 	bureaucrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 19
 	 } 
@@ -48,17 +48,17 @@
 		size = 2622
 	 } 
 	clergymen = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 275
 	 } 
 	clergymen = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 1242
 	 } 
 	artisans = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 3495
 	 } 
@@ -68,12 +68,12 @@
 		size = 5413
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 32960
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 4719
 	 } 
@@ -83,7 +83,7 @@
 		size = 41213
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 4326
 	 } 
@@ -101,12 +101,12 @@
 #Bihac (100000/25000 POPS)
 784 = {
 	aristocrats = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 1810
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 36524
 	 } 
@@ -129,7 +129,7 @@
 		size = 234
 	 } 
 	officers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 24
 	 } 
@@ -139,7 +139,7 @@
 		size = 939
 	 } 
 	soldiers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 98
 	 } 
@@ -149,7 +149,7 @@
 		size = 1174
 	 } 
 	aristocrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 123
 	 } 
@@ -159,7 +159,7 @@
 		size = 1956
 	 } 
 	aristocrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 205
 	 } 
@@ -169,7 +169,7 @@
 		size = 77
 	 } 
 	bureaucrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 8
 	 } 
@@ -179,7 +179,7 @@
 		size = 1565
 	 } 
 	clergymen = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 164
 	 } 
@@ -189,7 +189,7 @@
 		size = 1321
 	 } 
 	artisans = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 138
 	 } 
@@ -199,12 +199,12 @@
 		size = 49875
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 5235
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 14705
 	 } 
@@ -214,7 +214,7 @@
 		size = 7828
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 821
 	 } 
@@ -227,7 +227,7 @@
 		size = 304
 	 } 
 	officers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 32
 	 } 
@@ -237,7 +237,7 @@
 		size = 1221
 	 } 
 	soldiers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 128
 	 } 
@@ -247,7 +247,7 @@
 		size = 4072
 	 } 
 	aristocrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 427
 	 } 
@@ -257,7 +257,7 @@
 		size = 101
 	 } 
 	bureaucrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 10
 	 } 
@@ -267,7 +267,7 @@
 		size = 2036
 	 } 
 	clergymen = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 213
 	 } 
@@ -277,7 +277,7 @@
 		size = 1718
 	 } 
 	artisans = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 180
 	 } 
@@ -287,12 +287,12 @@
 		size = 725
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 76
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 75500
 	 } 
@@ -302,7 +302,7 @@
 		size = 16435
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 2565
 	 } 
@@ -312,7 +312,7 @@
 		size = 6108
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 641
 	 } 
@@ -325,7 +325,7 @@
 		size = 209
 	 } 
 	officers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 22
 	 } 
@@ -335,7 +335,7 @@
 		size = 841
 	 } 
 	soldiers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 88
 	 } 
@@ -345,7 +345,7 @@
 		size = 2805
 	 } 
 	aristocrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 294
 	 } 
@@ -355,7 +355,7 @@
 		size = 69
 	 } 
 	bureaucrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 7
 	 } 
@@ -365,7 +365,7 @@
 		size = 1402
 	 } 
 	clergymen = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 147
 	 } 
@@ -375,7 +375,7 @@
 		size = 982
 	 } 
 	artisans = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 103
 	 } 
@@ -385,12 +385,12 @@
 		size = 3303
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni 
 		size = 28055
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 2945
 	 } 
@@ -403,7 +403,7 @@
 		size = 219
 	 } 
 	officers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 23
 	 } 
@@ -413,7 +413,7 @@
 		size = 879
 	 } 
 	soldiers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 92
 	 } 
@@ -423,7 +423,7 @@
 		size = 1832
 	 } 
 	aristocrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 192
 	 } 
@@ -433,7 +433,7 @@
 		size = 1099
 	 } 
 	aristocrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 115
 	 } 
@@ -443,7 +443,7 @@
 		size = 73
 	 } 
 	bureaucrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 7
 	 } 
@@ -453,7 +453,7 @@
 		size = 1466
 	 } 
 	clergymen = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 153
 	 } 
@@ -463,7 +463,7 @@
 		size = 1237
 	 } 
 	artisans = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 129
 	 } 
@@ -473,12 +473,12 @@
 		size = 6441
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 3825
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion =  sunni 
 		size = 25110
 	 } 
@@ -488,7 +488,7 @@
 		size = 7330
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 769
 	 } 
@@ -501,7 +501,7 @@
 		size = 36
 	 } 
 	officers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 3
 	 } 
@@ -511,7 +511,7 @@
 		size = 146
 	 } 
 	soldiers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 15
 	 } 
@@ -521,7 +521,7 @@
 		size = 488
 	 } 
 	aristocrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 51
 	 } 
@@ -531,7 +531,7 @@
 		size = 11
 	 } 
 	bureaucrats = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 1
 	 } 
@@ -541,7 +541,7 @@
 		size = 244
 	 } 
 	clergymen = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 25
 	 } 
@@ -561,7 +561,7 @@
 		size = 11083
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = croat
 		religion = sunni
 		size = 1163
 	 } 

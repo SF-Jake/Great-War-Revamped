@@ -108,7 +108,7 @@
 		size = 3674
 	 } 
 	farmers = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic 
 		size = 5162
 	 } 
@@ -634,7 +634,7 @@
 		size = 59794
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 4848
 	 } 
@@ -737,7 +737,7 @@
 		size = 63606
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 5157
 	 } 
@@ -840,7 +840,7 @@
 		size = 59794
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 4848
 	 } 
@@ -945,7 +945,7 @@
 		size = 44369
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 3597
 	 } 
@@ -1151,7 +1151,7 @@
 		size = 14907
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 1208
 	 } 
@@ -1857,7 +1857,7 @@
 		size = 18895
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic 
 		size = 1532
 	 } 
@@ -1966,12 +1966,12 @@
 		size = 1087
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 8949
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic 
 		size = 725
 	 } 
@@ -2079,12 +2079,12 @@
 		size = 111
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 7992
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic 
 		size = 648
 	 } 
@@ -2229,7 +2229,7 @@
 		size = 44901
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 2430
 	 } 
@@ -2337,12 +2337,12 @@
 		size = 605
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 29970
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 2430
 	 } 
@@ -2440,22 +2440,22 @@
 		size = 74
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 862
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 69
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 12827
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 1040
 	 } 
@@ -2553,22 +2553,22 @@
 		size = 49
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 568
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 46
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 8496
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 688
 	 } 
@@ -2666,22 +2666,22 @@
 		size = 43
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 499
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 40
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion =  catholic 
 		size = 7455
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = platinean
 		religion = catholic 
 		size = 604
 	 } 
@@ -3190,7 +3190,7 @@
 		size = 14560
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic 
 		size = 1180
 	 } 
@@ -3806,7 +3806,7 @@
 		size = 7455
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 604
 	 } 
@@ -3909,7 +3909,7 @@
 		size = 7455
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 604
 	 } 
@@ -4720,7 +4720,7 @@
 		size = 7436
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 3035
 	 } 
@@ -4823,7 +4823,7 @@
 		size = 2308
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 998
 	 } 
@@ -4926,7 +4926,7 @@
 		size = 4883
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 801
 	 } 
@@ -5029,7 +5029,7 @@
 		size = 5093
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 899
 	 } 
@@ -5134,7 +5134,7 @@
 		size = 16173
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 2122
 	 } 
@@ -5237,7 +5237,7 @@
 		size = 11614
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 941
 	 } 
@@ -5340,7 +5340,7 @@
 		size = 11093
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 899
 	 } 
@@ -5443,7 +5443,7 @@
 		size = 9014
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 730
 	 } 
@@ -5546,7 +5546,7 @@
 		size = 9361
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 759
 	 } 
@@ -5651,7 +5651,7 @@
 		size = 82150
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 6660
 	 } 

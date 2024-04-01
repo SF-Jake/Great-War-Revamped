@@ -88,7 +88,7 @@
 		size = 1471
 	 } 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 65
 	 } 
@@ -98,27 +98,27 @@
 		size = 2908
 	 } 
 	craftsmen = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 129
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 3529
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 156
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 70940
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 3148
 	 } 
@@ -186,47 +186,47 @@
 		size = 762
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 33
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 1868
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 82
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 1775
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 78
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 5699
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 252
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 62799
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 2787
 	 } 
@@ -344,12 +344,12 @@
 		size = 336
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 26541
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 1178
 	 } 

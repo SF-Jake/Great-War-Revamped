@@ -1,7 +1,6 @@
 capital = 995
-primary_culture = ugrian
+primary_culture = russian
 culture = finnish
-culture = russian
 religion = protestant
 government = democracy
 plurality = 0.5

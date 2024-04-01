@@ -82,7 +82,7 @@
 		size = 43141
 	 } 
 	craftsmen = {
-		culture = flemish
+		culture = dutch
 		religion = protestant 
 		size = 31380
 	 } 
@@ -190,7 +190,7 @@
 		size = 40245
 	 } 
 	farmers = {
-		culture = flemish
+		culture = dutch
 		religion = catholic 
 		size = 24018
 	 } 

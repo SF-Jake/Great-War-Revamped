@@ -148,7 +148,6 @@ country_event = {
 		any_pop = {
 			limit = {
 				OR = {
-					has_pop_culture = slovak
 					has_pop_culture = croat
 					has_pop_culture = romanian
 				}
@@ -217,7 +216,6 @@ country_event = {
 				OR = {
 					has_pop_culture = croat
 					has_pop_culture = serb
-					has_pop_culture = slovene
 				}
 			}
 			consciousness  =1
@@ -695,8 +693,6 @@ country_event = {
 		change_tag = AUS
 		primary_culture = south_german
 		remove_accepted_culture = hungarian
-		remove_accepted_culture = slovak
-		remove_accepted_culture = slovene
 		remove_accepted_culture = czech
 		remove_accepted_culture = romanian
 		remove_accepted_culture = croat

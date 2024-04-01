@@ -2045,7 +2045,7 @@
 		size = 800
 	 } 
 	craftsmen = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 10763
 	 } 

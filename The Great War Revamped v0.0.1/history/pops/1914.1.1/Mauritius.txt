@@ -3,33 +3,33 @@
 #Mauritius (98000/24500 POPS)
 2125 = {
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  nanfaren
 		size = 341
 	 } 
 	officers = {
 		culture = yue
-		religion = nanfaren
+		religion = beifaren
 		size = 18
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  nanfaren
 		size = 1367
 	 } 
 	soldiers = {
 		culture = yue
-		religion = nanfaren
+		religion = beifaren
 		size = 75
 	 } 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  nanfaren
 		size = 1709
 	 } 
 	aristocrats = {
 		culture = yue
-		religion = nanfaren
+		religion = beifaren
 		size = 94
 	 } 
 	aristocrats = {

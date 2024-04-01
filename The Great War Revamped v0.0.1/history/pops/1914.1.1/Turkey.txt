@@ -1639,22 +1639,22 @@
 #Jezira/Cizre (92000/23000 POPS)
 2414 = {
 	officers = {
-		culture = turkish
+		culture = brazilian
 		religion =  sunni
 		size = 98
 	 } 
 	officers = {
-		culture = turkish
+		culture = brazilian
 		religion = sunni
 		size = 2
 	 } 
 	soldiers = {
-		culture = turkish
+		culture = brazilian
 		religion =  sunni
 		size = 80
 	 } 
 	soldiers = {
-		culture = turkish
+		culture = brazilian
 		religion = sunni
 		size = 48
 	 } 
@@ -1664,17 +1664,17 @@
 		size = 103
 	 } 
 	aristocrats = {
-		culture = turkish
+		culture = brazilian
 		religion = sunni
 		size = 264
 	 } 
 	bureaucrats = {
-		culture = turkish
+		culture = brazilian
 		religion =  sunni
 		size = 257
 	 } 
 	bureaucrats = {
-		culture = turkish
+		culture = brazilian
 		religion = sunni
 		size = 6
 	 } 
@@ -1684,7 +1684,7 @@
 		size = 289
 	 } 
 	capitalists = {
-		culture = turkish
+		culture = brazilian
 		religion = sunni
 		size = 33
 	 } 
@@ -1694,27 +1694,27 @@
 		size = 5
 	 } 
 	clergymen = {
-		culture = turkish
+		culture = brazilian
 		religion = sunni
 		size = 132
 	 } 
 	clerks = {
-		culture = turkish
+		culture = brazilian
 		religion =  sunni
 		size = 402
 	 } 
 	clerks = {
-		culture = turkish
+		culture = brazilian
 		religion = sunni
 		size = 112
 	 } 
 	artisans = {
-		culture = turkish
+		culture = brazilian
 		religion =  sunni
 		size = 181
 	 } 
 	artisans = {
-		culture = turkish
+		culture = brazilian
 		religion = sunni
 		size = 107
 	 } 
@@ -1724,7 +1724,7 @@
 		size = 1
 	 } 
 	craftsmen = {
-		culture = turkish
+		culture = brazilian
 		religion = sunni
 		size = 338
 	 } 
@@ -1734,7 +1734,7 @@
 		size = 15
 	 } 
 	farmers = {
-		culture = turkish
+		culture = brazilian
 		religion = sunni
 		size = 92
 	 } 
@@ -1744,17 +1744,17 @@
 		size = 5
 	 } 
 	farmers = {
-		culture = kurdish
+		culture = brazilian
 		religion = sunni
 		size = 3
 	 } 
 	farmers = {
-		culture = greek
+		culture = brazilian
 		religion =  orthodox 
 		size = 8862
 	 } 
 	farmers = {
-		culture = kurdish
+		culture = brazilian
 		religion = sunni
 		size = 3
 	 } 

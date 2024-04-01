@@ -1,6 +1,5 @@
 capital = 2324
 primary_culture = south_andean
-culture = mestizo
 religion = catholic
 government = democracy
 plurality = 25.0

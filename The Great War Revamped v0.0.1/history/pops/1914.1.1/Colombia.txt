@@ -121,97 +121,97 @@
 #Ibaque (88000/22000 POPS)
 2248 = {
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 220
 	 } 
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 7
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 883
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 29
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 3202
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 107
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 79
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 2
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 399
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 13
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 800
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 26
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 2244
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 75
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 2132
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 71
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 6846
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 230
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 2124
 	 } 
@@ -219,97 +219,97 @@
 #Tunja (56000/14000 POPS)
 2249 = {
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 237
 	 } 
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 7
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 950
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 31
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 3444
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 115
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 86
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 2
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 430
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 14
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 861
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 28
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 2413
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 81
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 2292
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 77
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 7363
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 247
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 2285
 	 } 
@@ -317,102 +317,102 @@
 #Manizales (116000/29000 POPS)
 2250 = {
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 475
 	 } 
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 15
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 1901
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 63
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 6888
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 231
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 172
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 5
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 861
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 28
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 1722
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 57
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 4828
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 162
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 4586
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 154
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 14728
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 494
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 16050
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 4570
 	 } 
@@ -420,102 +420,102 @@
 #Cucuta (84000/21000 POPS)
 2251 = {
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 602
 	 } 
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 20
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 2413
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 81
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 8746
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 293
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 218
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 7
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 1093
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 36
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 2186
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 73
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 6131
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 205
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 5824
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 195
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 18700
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 628
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 22737
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 5802
 	 } 
@@ -635,7 +635,7 @@
 		size = 2361
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 10288
 	 } 
@@ -743,12 +743,12 @@
 		size = 33
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 8866
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 633
 	 } 
@@ -856,7 +856,7 @@
 		size = 6051
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 20813
 	 } 
@@ -969,7 +969,7 @@
 		size = 553
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 28169
 	 } 
@@ -1089,12 +1089,12 @@
 		size = 2228
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 62054
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 5107
 	 } 
@@ -1102,102 +1102,102 @@
 #Popayan (68000/17000 POPS)
 2257 = {
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 167
 	 } 
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 5
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 669
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 22
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 2428
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 81
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 59
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 2
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 302
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 10
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 606
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 20
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 1701
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 57
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 1616
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 54
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 5191
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 174
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 27965
 	 } 
 	farmers = {
-		culture = quechua
+		culture = south_andean
 		religion = catholic 
 		size = 1611
 	 } 
@@ -1205,102 +1205,102 @@
 #Buenaventura (60000/15000 POPS)
 2258 = {
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 529
 	 } 
 	officers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 17
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 2117
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 71
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 7672
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 257
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 191
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 6
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 958
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 32
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 1917
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 64
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 5378
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 180
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 5109
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 171
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 16403
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 551
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 51527
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 5090
 	 } 
@@ -1403,12 +1403,12 @@
 		size = 69
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 6084
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 540
 	 } 
@@ -1508,17 +1508,17 @@
 		size = 211
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 832
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 27
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 35925
 	 } 
@@ -1606,7 +1606,7 @@
 		size = 38
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 387
 	 } 
@@ -1699,32 +1699,32 @@
 		size = 3
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 1111
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 37
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 3888
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 130
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 35925
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion = catholic 
 		size = 1206
 	 } 
@@ -1817,7 +1817,7 @@
 		size = 63
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = north_andean
 		religion =  catholic 
 		size = 1935
 	 } 

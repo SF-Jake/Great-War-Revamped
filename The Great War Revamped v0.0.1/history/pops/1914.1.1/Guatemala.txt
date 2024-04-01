@@ -103,12 +103,12 @@
 		size = 1714
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 198095
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 5079
 	 } 
@@ -116,107 +116,107 @@
 #Quetzaltenango (112000/28000 POPS)
 2187 = {
 	officers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 430
 	 } 
 	officers = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 11
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 1726
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 44
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 10686
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 274
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 267
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 6
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 1335
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 34
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 2671
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 68
 	 } 
 	clerks = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 4982
 	 } 
 	clerks = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 127
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 4733
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 121
 	 } 
 	craftsmen = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 15197
 	 } 
 	craftsmen = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 389
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 171688
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 4402
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 53430
 	 } 
@@ -309,32 +309,32 @@
 		size = 48
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 46
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 1
 	 } 
 	craftsmen = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 6240
 	 } 
 	craftsmen = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 160
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 57330
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 1470
 	 } 
@@ -349,12 +349,12 @@
 		size = 421
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 18646
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 478
 	 } 
@@ -362,107 +362,107 @@
 #Sayaxche (16000/4000 POPS)
 2189 = {
 	officers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 51
 	 } 
 	officers = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 1
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 207
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 5
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 1287
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 33
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 32
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 160
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 4
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 321
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 8
 	 } 
 	clerks = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 599
 	 } 
 	clerks = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 15
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 569
 	 } 
 	artisans = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 14
 	 } 
 	craftsmen = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 1830
 	 } 
 	craftsmen = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 46
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion =  catholic 
 		size = 4592
 	 } 
 	farmers = {
-		culture = mayan
+		culture = mexican
 		religion = catholic 
 		size = 117
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion =  catholic 
 		size = 22522
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = central_american
 		religion = catholic 
 		size = 577
 	 } 
@@ -514,7 +514,7 @@
 	}
 
 	clergymen = {
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size = 165
 	}
@@ -526,7 +526,7 @@
 	}
 
 	soldiers = {
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size = 375
 	}

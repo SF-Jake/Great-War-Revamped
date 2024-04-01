@@ -3,72 +3,72 @@
 #Grodno (288000/72000 POPS)
 936 = {
 	officers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 212
 	 } 
 	officers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 30
 	 } 
 	soldiers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 853
 	 } 
 	soldiers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 121
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 3340
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 477
 	 } 
 	clergymen = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 1421
 	 } 
 	clergymen = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 203
 	 } 
 	artisans = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 1862
 	 } 
 	artisans = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 266
 	 } 
 	craftsmen = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 5880
 	 } 
 	craftsmen = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 840
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 9179
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 1311
 	 } 
@@ -180,12 +180,12 @@
 		size = 2295
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 56010
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 8001
 	 } 
@@ -221,72 +221,72 @@
 #Pinsk (276000/69000 POPS)
 940 = {
 	officers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 372
 	 } 
 	officers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 53
 	 } 
 	soldiers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 3200
 	 } 
 	soldiers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 213
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 5839
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 834
 	 } 
 	clergymen = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 2485
 	 } 
 	clergymen = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 355
 	 } 
 	artisans = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 3254
 	 } 
 	artisans = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 464
 	 } 
 	craftsmen = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 10276
 	 } 
 	craftsmen = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 1468
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 27223
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 3889
 	 } 
@@ -334,7 +334,7 @@
 		size = 190
 	 } 
 	soldiers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 3200
 	 } 
@@ -394,12 +394,12 @@
 		size = 14540
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 257683
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 36811
 	 } 
@@ -411,7 +411,7 @@
 	}
 
 	farmers = {
-		culture = lithuanian
+		culture = polish
 		religion = catholic
 		size = 4875
 	}
@@ -425,72 +425,72 @@
 #Lida (192000/48000 POPS)
 938 = {
 	officers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 144
 	 } 
 	officers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 20
 	 } 
 	soldiers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 580
 	 } 
 	soldiers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 82
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 2271
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 324
 	 } 
 	clergymen = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 966
 	 } 
 	clergymen = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 138
 	 } 
 	artisans = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 1266
 	 } 
 	artisans = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 180
 	 } 
 	craftsmen = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 3998
 	 } 
 	craftsmen = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 571
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 11076
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 1582
 	 } 
@@ -526,72 +526,72 @@
 #Baranovichi (196000/49000 POPS)
 939 = {
 	officers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 212
 	 } 
 	officers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 30
 	 } 
 	soldiers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 853
 	 } 
 	soldiers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 121
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 3340
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 477
 	 } 
 	clergymen = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 1421
 	 } 
 	clergymen = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 203
 	 } 
 	artisans = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 1862
 	 } 
 	artisans = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 266
 	 } 
 	craftsmen = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 5880
 	 } 
 	craftsmen = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 840
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 31929
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 4561
 	 } 
@@ -691,12 +691,12 @@
 		size = 4947
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 87670
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 12524
 	 } 
@@ -791,12 +791,12 @@
 		size = 1552
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 52322
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 7474
 	 } 
@@ -877,12 +877,12 @@
 		size = 2957
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 52398
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 7485
 	 } 
@@ -962,12 +962,12 @@
 		size = 2176
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 43706
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 6243
 	 } 
@@ -1051,18 +1051,18 @@
 		size = 2592
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 40792
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 5827
 	 } 
 
 	farmers = {
-		culture = lithuanian
+		culture = polish
 		religion = catholic
 		size = 3625
 	}
@@ -1140,12 +1140,12 @@
 		size = 3008
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 37878
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 5411
 	 } 
@@ -1223,12 +1223,12 @@
 		size = 2906
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 51510
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 7358
 	 } 
@@ -1306,12 +1306,12 @@
 		size = 3529
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion =  orthodox 
 		size = 119008
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = russian
 		religion = orthodox 
 		size = 17001
 	 } 

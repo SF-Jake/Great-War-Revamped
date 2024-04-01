@@ -93,22 +93,22 @@
 		size = 160
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 815
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 59
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 22869
 	 } 
 	farmers = {
-		culture = aimara
+		culture = south_andean
 		religion = catholic 
 		size = 1655
 	 } 
@@ -116,97 +116,97 @@
 #Calama (32000/8000 POPS)
 2309 = {
 	officers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 13
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 54
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 3
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 690
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 49
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 16
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 1
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 85
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 6
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 172
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 12
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 578
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 41
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 549
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 39
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 1764
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 127
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 13327
 	 } 
 	farmers = {
-		culture = aimara
+		culture = south_andean
 		religion = catholic 
 		size = 964
 	 } 
@@ -215,102 +215,102 @@
 #Iquique (32000/8000 POPS)
 2307 = {
 	officers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 19
 	 } 
 	officers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 1
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 81
 	 } 
 	soldiers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 5
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 1035
 	 } 
 	aristocrats = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 74
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 25
 	 } 
 	bureaucrats = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 1
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 128
 	 } 
 	capitalists = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 9
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 258
 	 } 
 	clergymen = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 18
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 868
 	 } 
 	clerks = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 62
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 824
 	 } 
 	artisans = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 59
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 2647
 	 } 
 	craftsmen = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 191
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 19989
 	 } 
 	farmers = {
-		culture = aimara
+		culture = south_andean
 		religion = catholic 
 		size = 1446
 	 } 
@@ -398,42 +398,42 @@
 		size = 8
 	 } 
 	artisans = {
-		culture = aimara
+		culture = south_andean
 		religion =  catholic 
 		size = 463
 	 } 
 	artisans = {
-		culture = aimara
+		culture = south_andean
 		religion = catholic 
 		size = 33
 	 } 
 	craftsmen = {
-		culture = aimara
+		culture = south_andean
 		religion =  catholic 
 		size = 1883
 	 } 
 	craftsmen = {
-		culture = aimara
+		culture = south_andean
 		religion = catholic 
 		size = 136
 	 } 
 	farmers = {
-		culture = aimara
+		culture = south_andean
 		religion =  catholic 
 		size = 6861
 	 } 
 	farmers = {
-		culture = aimara
+		culture = south_andean
 		religion = catholic 
 		size = 496
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 7366
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 533
 	 } 
@@ -543,12 +543,12 @@
 		size = 233
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 17122
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 1239
 	 } 
@@ -656,12 +656,12 @@
 		size = 559
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 19104
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 1382
 	 } 
@@ -771,12 +771,12 @@
 		size = 7263
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 337760
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 24449
 	 } 
@@ -894,12 +894,12 @@
 		size = 2910
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 56124
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 4062
 	 } 
@@ -1007,12 +1007,12 @@
 		size = 1081
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 5222
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 378
 	 } 
@@ -1120,12 +1120,12 @@
 		size = 3476
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 16785
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 1215
 	 } 
@@ -1235,12 +1235,12 @@
 		size = 1304
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 6294
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 455
 	 } 
@@ -1348,17 +1348,17 @@
 		size = 2702
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 15805
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 1144
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion =  animist
 		size = 7902
 	 } 
@@ -1471,12 +1471,12 @@
 		size = 4611
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion =  catholic 
 		size = 34222
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = south_andean
 		religion = catholic 
 		size = 2477
 	 } 
@@ -1709,7 +1709,7 @@
 		size = 852
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion =  animist
 		size = 40983
 	 } 
@@ -1808,7 +1808,7 @@
 		size = 6482
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 469
 	 } 
@@ -1901,7 +1901,7 @@
 		size = 6664
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 482
 	 } 
@@ -1994,7 +1994,7 @@
 		size = 3963
 	 } 
 	farmers = {
-		culture = patagonian
+		culture = south_andean
 		religion = animist
 		size = 286
 	 } 

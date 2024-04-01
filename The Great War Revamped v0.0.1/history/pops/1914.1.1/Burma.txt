@@ -8,7 +8,7 @@
 		size = 1415
 	 } 
 	officers = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 1729
 	 } 
@@ -18,7 +18,7 @@
 		size = 5661
 	 } 
 	soldiers = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 6919
 	 } 
@@ -28,7 +28,7 @@
 		size = 16812
 	 } 
 	aristocrats = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 20548
 	 } 
@@ -38,7 +38,7 @@
 		size = 840
 	 } 
 	bureaucrats = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 1027
 	 } 
@@ -48,7 +48,7 @@
 		size = 2101
 	 } 
 	capitalists = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 2568
 	 } 
@@ -58,7 +58,7 @@
 		size = 4203
 	 } 
 	clergymen = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 5137
 	 } 
@@ -68,7 +68,7 @@
 		size = 5143
 	 } 
 	clerks = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 6286
 	 } 
@@ -78,7 +78,7 @@
 		size = 4886
 	 } 
 	artisans = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 5971
 	 } 
@@ -88,7 +88,7 @@
 		size = 15687
 	 } 
 	craftsmen = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 19174
 	 } 
@@ -98,7 +98,7 @@
 		size = 224849
 	 } 
 	farmers = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 274816
 	 } 
@@ -284,7 +284,7 @@
 		size = 2864
 	 } 
 	clergymen = {
-		culture = karen
+		culture = burmese
 		religion =  theravada
 		size = 4687
 	 } 
@@ -294,7 +294,7 @@
 		size = 5729
 	 } 
 	clerks = {
-		culture = karen
+		culture = burmese
 		religion =  theravada
 		size = 5736
 	 } 
@@ -309,12 +309,12 @@
 		size = 5449
 	 } 
 	artisans = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 6661
 	 } 
 	craftsmen = {
-		culture = karen
+		culture = burmese
 		religion =  theravada
 		size = 17497
 	 } 
@@ -324,7 +324,7 @@
 		size = 21385
 	 } 
 	farmers = {
-		culture = karen
+		culture = burmese
 		religion =  theravada
 		size = 405490
 	 } 
@@ -337,97 +337,97 @@
 #Toungoo (308000/77000 POPS)
 1333 = {
 	officers = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 442
 	 } 
 	officers = {
-		culture = karen
+		culture = burmese
 		religion = theravada
 		size = 541
 	 } 
 	soldiers = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 1771
 	 } 
 	soldiers = {
-		culture = karen
+		culture = burmese
 		religion = theravada
 		size = 2164
 	 } 
 	aristocrats = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 5260
 	 } 
 	aristocrats = {
-		culture = karen
+		culture = burmese
 		religion = theravada
 		size = 6429
 	 } 
 	bureaucrats = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 262
 	 } 
 	bureaucrats = {
-		culture = karen
+		culture = burmese
 		religion = theravada
 		size = 321
 	 } 
 	capitalists = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 657
 	 } 
 	capitalists = {
-		culture = karen
+		culture = burmese
 		religion = theravada
 		size = 803
 	 } 
 	clergymen = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 1314
 	 } 
 	clergymen = {
-		culture = karen
+		culture = burmese
 		religion = theravada
 		size = 1607
 	 } 
 	clerks = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 1609
 	 } 
 	clerks = {
-		culture = karen
+		culture = burmese
 		religion = theravada
 		size = 1966
 	 } 
 	artisans = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 1528
 	 } 
 	artisans = {
-		culture = karen
+		culture = burmese
 		religion = theravada
 		size = 1868
 	 } 
 	craftsmen = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 4908
 	 } 
 	craftsmen = {
-		culture = karen
+		culture = burmese
 		religion = theravada
 		size = 5999
 	 } 
 	farmers = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 113756
 	 } 
@@ -665,7 +665,7 @@
 		size = 28829
 	 } 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion =  theravada
 		size = 104835
 	 } 
@@ -881,97 +881,97 @@
 #Taunggye (416000/104000 POPS)
 1338 = {
 	officers = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 79
 	 } 
 	officers = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 97
 	 } 
 	soldiers = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 319
 	 } 
 	soldiers = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 390
 	 } 
 	aristocrats = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 949
 	 } 
 	aristocrats = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 1160
 	 } 
 	bureaucrats = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 47
 	 } 
 	bureaucrats = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 57
 	 } 
 	capitalists = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 118
 	 } 
 	capitalists = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 144
 	 } 
 	clergymen = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 237
 	 } 
 	clergymen = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 289
 	 } 
 	clerks = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 290
 	 } 
 	clerks = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 354
 	 } 
 	artisans = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 275
 	 } 
 	artisans = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 337
 	 } 
 	craftsmen = {
-		culture = shan
+		culture = burmese
 		religion =  protestant 
 		size = 885
 	 } 
 	craftsmen = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 1082
 	 } 
 	farmers = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 20534
 	 } 
@@ -1074,32 +1074,32 @@
 		size = 1253
 	 } 
 	craftsmen = {
-		culture = shan
+		culture = burmese
 		religion =  theravada
 		size = 15619
 	 } 
 	craftsmen = {
-		culture = shan
+		culture = burmese
 		religion = protestant 
 		size = 19090
 	 } 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion =  theravada
 		size = 350059
 	 } 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion = protestant 
 		size = 427850
 	 } 
 	farmers = {
-		culture = kachin
+		culture = burmese
 		religion =  protestant 
 		size = 35676
 	 } 
 	farmers = {
-		culture = karen
+		culture = burmese
 		religion = protestant 
 		size = 43604
 	 } 
@@ -1199,7 +1199,7 @@
 		size = 13841
 	 } 
 	farmers = {
-		culture = kachin
+		culture = burmese
 		religion =  animist
 		size = 262444
 	 } 
@@ -1312,22 +1312,22 @@
 		size = 4888
 	 } 
 	farmers = {
-		culture = kachin
+		culture = burmese
 		religion =  protestant 
 		size = 33845
 	 } 
 	farmers = {
-		culture = kachin
+		culture = burmese
 		religion = protestant 
 		size = 41366
 	 } 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion =  theravada
 		size = 15384
 	 } 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion = protestant 
 		size = 18802
 	 } 
@@ -1365,92 +1365,92 @@
 		size = 2234
 	 } 
 	aristocrats = {
-		culture = kachin
+		culture = burmese
 		religion =  protestant 
 		size = 376
 	 } 
 	aristocrats = {
-		culture = kachin
+		culture = burmese
 		religion = protestant 
 		size = 460
 	 } 
 	bureaucrats = {
-		culture = kachin
+		culture = burmese
 		religion =  protestant 
 		size = 110
 	 } 
 	bureaucrats = {
-		culture = kachin
+		culture = burmese
 		religion = protestant 
 		size = 134
 	 } 
 	capitalists = {
-		culture = kachin
+		culture = burmese
 		religion =  protestant 
 		size = 275
 	 } 
 	capitalists = {
-		culture = kachin
+		culture = burmese
 		religion = protestant 
 		size = 336
 	 } 
 	clergymen = {
-		culture = kachin
+		culture = burmese
 		religion =  protestant 
 		size = 551
 	 } 
 	clergymen = {
-		culture = kachin
+		culture = burmese
 		religion = protestant 
 		size = 673
 	 } 
 	clerks = {
-		culture = kachin
+		culture = burmese
 		religion =  protestant 
 		size = 674
 	 } 
 	clerks = {
-		culture = kachin
+		culture = burmese
 		religion = protestant 
 		size = 824
 	 } 
 	artisans = {
-		culture = kachin
+		culture = burmese
 		religion =  protestant 
 		size = 640
 	 } 
 	artisans = {
-		culture = kachin
+		culture = burmese
 		religion = protestant 
 		size = 783
 	 } 
 	craftsmen = {
-		culture = kachin
+		culture = burmese
 		religion =  protestant 
 		size = 2056
 	 } 
 	craftsmen = {
-		culture = kachin
+		culture = burmese
 		religion = protestant 
 		size = 2514
 	 } 
 	farmers = {
-		culture = kachin
+		culture = burmese
 		religion =  protestant 
 		size = 29491
 	 } 
 	farmers = {
-		culture = kachin
+		culture = burmese
 		religion = protestant 
 		size = 36045
 	 } 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion =  theravada
 		size = 18191
 	 } 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion = protestant 
 		size = 22233
 	 } 
@@ -1570,12 +1570,12 @@
 		size = 110825
 	 } 
 	farmers = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 68006
 	 } 
 	farmers = {
-		culture = karen
+		culture = burmese
 		religion = protestant
 		size = 83118
 	 } 
@@ -1683,7 +1683,7 @@
 		size = 60174
 	 } 
 	farmers = {
-		culture = karen
+		culture = burmese
 		religion =  protestant 
 		size = 58585
 	 } 

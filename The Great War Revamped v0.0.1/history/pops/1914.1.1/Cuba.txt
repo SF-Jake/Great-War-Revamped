@@ -356,37 +356,37 @@
 #Baker/Repulse Bay/ Echo Bay - Now Guantanamo Bay (5036/1259 POPS)
 44 = {
 	aristocrats = {
-		culture = caribeno
+		culture = anglo_canadian
 		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = anglo_canadian
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = anglo_canadian
 		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = anglo_canadian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = anglo_canadian
 		religion = catholic
 		size = 240
 	}
 	
 	farmers = {
-		culture = afro_caribeno
+		culture = anglo_canadian
 		religion = catholic
 		size = 879
 	}

@@ -195,10 +195,7 @@ political_decisions = {
 			prestige = 20
 			change_tag = TKS
 			add_accepted_culture = turkmen
-			add_accepted_culture = uzbek
 			add_accepted_culture = kazak
-			add_accepted_culture = kirgiz
-			add_accepted_culture = tajik
 			add_accepted_culture = uighur
 			RUS_1182 = { add_core = TKS } #Guryev region
 			RUS_1184 = { add_core = TKS } #Qaraganda region
@@ -246,12 +243,7 @@ political_decisions = {
 			1202 = { add_core = TKS } #Kokand
 			any_country = {
 				limit = {
-					OR = {
-						primary_culture = turkmen
-						primary_culture = uzbek
-						primary_culture = kirgiz
-						primary_culture = tajik
-					}
+					primary_culture = turkmen
 					in_sphere = THIS
 					NOT = { tag = THIS }
 				}

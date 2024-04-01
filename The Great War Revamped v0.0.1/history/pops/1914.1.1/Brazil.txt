@@ -1069,12 +1069,12 @@
 		size = 41
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion =  catholic 
 		size = 799
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 20
 	 } 
@@ -1261,7 +1261,7 @@
 		size = 1287
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 33
 	 } 
@@ -1364,12 +1364,12 @@
 		size = 66
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion =  catholic 
 		size = 1287
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 33
 	 } 
@@ -4100,7 +4100,7 @@
 		size = 3602
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 92
 	 } 
@@ -4440,7 +4440,7 @@
 		size = 8731
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 223
 	 } 
@@ -4506,7 +4506,7 @@
 		size = 8731
 	 } 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic 
 		size = 223
 	 } 

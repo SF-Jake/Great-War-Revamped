@@ -502,7 +502,7 @@
 		size = 65782
 	 } 
 	farmers = {
-		culture = basque
+		culture = spanish
 		religion = catholic 
 		size = 2562
 	 } 
@@ -605,7 +605,7 @@
 		size = 41557
 	 } 
 	farmers = {
-		culture = basque
+		culture = spanish
 		religion = catholic 
 		size = 1619
 	 } 
@@ -1922,7 +1922,7 @@
 		size = 15323
 	 } 
 	farmers = {
-		culture = basque
+		culture = spanish
 		religion =  catholic 
 		size = 40113
 	 } 
@@ -2031,7 +2031,7 @@
 		size = 14708
 	 } 
 	farmers = {
-		culture = basque
+		culture = spanish
 		religion =  catholic 
 		size = 15274
 	 } 
@@ -2241,12 +2241,12 @@
 		size = 3993
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 5582
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 217
 	 } 
@@ -2354,12 +2354,12 @@
 		size = 949
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 981
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 38
 	 } 
@@ -2567,12 +2567,12 @@
 		size = 5371
 	 } 
 	craftsmen = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 174271
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 12478
 	 } 
@@ -2610,82 +2610,82 @@
 		size = 98
 	 } 
 	aristocrats = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 1775
 	 } 
 	aristocrats = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 69
 	 } 
 	bureaucrats = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 215
 	 } 
 	bureaucrats = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 8
 	 } 
 	capitalists = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 539
 	 } 
 	capitalists = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 21
 	 } 
 	clergymen = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 1078
 	 } 
 	clergymen = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 42
 	 } 
 	clerks = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 3063
 	 } 
 	clerks = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 119
 	 } 
 	artisans = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 2910
 	 } 
 	artisans = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 113
 	 } 
 	craftsmen = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 9343
 	 } 
 	craftsmen = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 364
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 63483
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 3252
 	 } 
@@ -2783,22 +2783,22 @@
 		size = 27
 	 } 
 	craftsmen = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 4744
 	 } 
 	craftsmen = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 184
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 28638
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 1894
 	 } 
@@ -2906,12 +2906,12 @@
 		size = 109
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 46625
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 3375
 	 } 
@@ -3019,12 +3019,12 @@
 		size = 2622
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 55499
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 2162
 	 } 
@@ -3144,12 +3144,12 @@
 		size = 4305
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 32098
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion = catholic 
 		size = 3588
 	 } 
@@ -3257,7 +3257,7 @@
 		size = 251
 	 } 
 	farmers = {
-		culture = catalan
+		culture = spanish
 		religion =  catholic 
 		size = 60636
 	 } 

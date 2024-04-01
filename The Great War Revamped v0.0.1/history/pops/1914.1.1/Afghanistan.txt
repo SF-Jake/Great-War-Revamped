@@ -38,7 +38,7 @@
 		size = 278817
 	 } 
 	farmers = {
-		culture = tajik
+		culture = pashtun
 		religion =  sunni 
 		size = 134700
 	 } 
@@ -46,37 +46,37 @@
 #Balkh (516000/129000 POPS)
 1211 = {
 	soldiers = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 3221
 	 } 
 	aristocrats = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 10940
 	 } 
 	capitalists = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 1367
 	 } 
 	clergymen = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 2735
 	 } 
 	artisans = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 2271
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 142488
 	 } 
 	farmers = {
-		culture = tajik
+		culture = pashtun
 		religion =  sunni 
 		size = 68375
 	 } 
@@ -119,7 +119,7 @@
 		size = 62461
 	 } 
 	farmers = {
-		culture = tajik
+		culture = pashtun
 		religion =  sunni 
 		size = 92200
 	 } 
@@ -157,12 +157,12 @@
 		size = 2518
 	 } 
 	farmers = {
-		culture = hazara
+		culture = persian
 		religion =  shiite 
 		size = 67200
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 40800
 	 } 
@@ -195,7 +195,7 @@
 		size = 79734
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 40455
 	 } 
@@ -218,7 +218,7 @@
 		size = 78058
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 10587
 	 } 
@@ -251,7 +251,7 @@
 		size = 129968
 	 } 
 	farmers = {
-		culture = tajik
+		culture = pashtun
 		religion =  sunni 
 		size = 2885
 	 } 
@@ -294,37 +294,37 @@
 #Faizabad (340000/85000 POPS)
 1210 = {
 	soldiers = {
-		culture = tajik
+		culture = pashtun
 		religion =  sunni 
 		size = 3828
 	 } 
 	aristocrats = {
-		culture = tajik
+		culture = pashtun
 		religion =  sunni 
 		size = 13000
 	 } 
 	capitalists = {
-		culture = tajik
+		culture = pashtun
 		religion =  sunni 
 		size = 1625
 	 } 
 	clergymen = {
-		culture = tajik
+		culture = pashtun
 		religion =  sunni 
 		size = 3250
 	 } 
 	artisans = {
-		culture = tajik
+		culture = pashtun
 		religion =  sunni 
 		size = 2699
 	 } 
 	farmers = {
-		culture = tajik
+		culture = pashtun
 		religion =  sunni 
 		size = 227816
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = turkmen
 		religion =  sunni 
 		size = 70500
 	 } 

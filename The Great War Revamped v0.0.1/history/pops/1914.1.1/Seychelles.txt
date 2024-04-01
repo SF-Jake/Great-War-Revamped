@@ -3,12 +3,12 @@
 #Seychelles (5000/1250 POPS)
 2127 = {
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 23
 	 } 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion =  mahayana
 		size = 56
 	 } 

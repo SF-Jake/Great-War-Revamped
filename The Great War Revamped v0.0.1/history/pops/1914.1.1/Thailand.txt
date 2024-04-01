@@ -914,12 +914,12 @@
 		size = 756
 	 } 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion =  theravada
 		size = 7788
 	 } 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 39
 	 } 
@@ -1002,7 +1002,7 @@
 		size = 188445
 	 } 
 	farmers = {
-		culture = lao
+		culture = thai
 		religion = theravada
 		size = 1449
 	 } 
@@ -1087,7 +1087,7 @@
 		size = 35625
 	 } 
 	farmers = {
-		culture = lao
+		culture = thai
 		religion = theravada
 		size = 1686
 	 } 
@@ -1170,17 +1170,17 @@
 		size = 59872
 	 } 
 	farmers = {
-		culture = lao
+		culture = thai
 		religion = theravada
 		size = 1557
 	 } 
 	farmers = {
-		culture = khmer
+		culture = thai
 		religion =  theravada
 		size = 34496
 	 } 
 	farmers = {
-		culture = khmer
+		culture = thai
 		religion = theravada
 		size = 374
 	 } 
@@ -1270,12 +1270,12 @@
 		size = 52
 	 } 
 	farmers = {
-		culture = khmer
+		culture = thai
 		religion =  theravada
 		size = 12978
 	 } 
 	farmers = {
-		culture = khmer
+		culture = thai
 		religion = theravada
 		size = 65
 	 } 

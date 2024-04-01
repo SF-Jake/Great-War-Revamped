@@ -78,7 +78,7 @@
 		size = 258
 	 } 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 25
 	 } 
@@ -88,17 +88,17 @@
 		size = 806
 	 } 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
 		size = 79
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = micronesian
 		religion =  catholic 
 		size = 1774
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = micronesian
 		religion = catholic 
 		size = 175
 	 } 
