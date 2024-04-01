@@ -6,7 +6,7 @@ trade_goods = tea
 life_rating = 35
 
 1914.1.1 = {
-owner = BLC
-controller = BLC
+owner = HND
+controller = HND
 add_core = BLC
 }

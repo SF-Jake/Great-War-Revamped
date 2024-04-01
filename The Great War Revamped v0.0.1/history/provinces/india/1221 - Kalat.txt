@@ -6,7 +6,7 @@ trade_goods = wool
 life_rating = 32
 
 1914.1.1 = {
-owner = BLC
-controller = BLC
+owner = HND
+controller = HND
 add_core = BLC
 }

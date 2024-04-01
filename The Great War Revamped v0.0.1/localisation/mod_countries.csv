@@ -2527,13 +2527,13 @@ RSF_proletarian_dictatorship;Russian SFSR;x
 RSF_absolute_monarchy;Russian Empire;x
 RSF_prussian_constitutionalism;Russian Empire;x
 JAP;Empire of Japan;;;;;;;;;;;x
-USA;United States;;;;;;;;;;;x
-USA_democracy;United States;x
 ITA_absolute_monarchy;Kingdom of Italy;x
 ITA_prussian_constitutionalism;Kingdom of Italy;x
 ITA_hms_government;Kingdom of Italy;x
 ROM;Rumania;;;;;;;;;;;x
-HND;The Raj;;;;;;;;;x;
-HND_hms_government;The Raj;x
-USA_democracy;United States;;;;;;;;;;;;;x;;;;
-USA;United States of America;;;;;;;;;;;;;x;;;;
+HND;India;;;;;;;;;x;
+HND_hms_government;India;x
+USA_democracy;The United States of America;;;;;;;;;;;;;x;;;;
+USA;The United States of America;;;;;;;;;;;;;x;;;;
+COM;Commonwealth;;;;;;;;;;;;
+COM_ADJ;Commonwealth;;;;;;;;;;;;

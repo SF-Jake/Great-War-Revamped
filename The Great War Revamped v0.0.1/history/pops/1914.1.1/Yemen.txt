@@ -46,7 +46,7 @@
 	}
 
 	farmers = {
-		culture = kefficho
+		culture = african
 		religion = animist
 		size = 3000
 	}

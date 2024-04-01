@@ -43,77 +43,77 @@
 		size = 61
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 8664
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 154
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 345
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 1386
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 24
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 345
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 3465
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 61
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 3991
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 71
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 26786
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 5108
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 422
 	 } 
@@ -121,82 +121,82 @@
 #Fianarantsoa (280000/7000 POPS)
 2116 = {
 	officers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 361
 	 } 
 	officers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 1447
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 25
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 4824
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 85
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 119
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 602
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 10
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 1205
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 21
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 1388
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 24
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 58049
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 1924
 	 } 
@@ -204,82 +204,82 @@
 #Tolanaro (176000/44000 POPS)
 2118 = {
 	officers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 234
 	 } 
 	officers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 940
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 16
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 3134
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 55
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 77
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 391
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 783
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 13
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 901
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 16
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 20199
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion = sunni
 		size = 1250
 	 } 
@@ -287,92 +287,92 @@
 #Toamasina (116000/29000 POPS)
 2119 = {
 	officers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 552
 	 } 
 	officers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 9
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 2210
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 39
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 7368
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 131
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 183
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 920
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 16
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 1842
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 32
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 2121
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 37
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 154281
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 2748
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  catholic 
 		size = 10764
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 191
 	 } 
@@ -380,92 +380,92 @@
 #Antsiranana (104000/26000 POPS)
 2120 = {
 	officers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 249
 	 } 
 	officers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 999
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 17
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 3330
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 59
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 82
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 415
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 832
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 14
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 958
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 17
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 72234
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 1286
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  catholic 
 		size = 2365
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 42
 	 } 
@@ -475,92 +475,92 @@
 #Ampanihy (228000/57000 POPS)
 2117 = {
 	officers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 361
 	 } 
 	officers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 1447
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 25
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 4824
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 85
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 119
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 602
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 10
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 1205
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 21
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 1388
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 24
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 5728
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 102
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 40320
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 1822
 	 } 
@@ -568,37 +568,37 @@
 #Mahajanga (188000/47000 POPS)
 2121 = {
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion =  sunni 
 		size = 1494
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion =  sunni 
 		size = 4980
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion =  sunni 
 		size = 1245
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion =  sunni 
 		size = 1434
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion =  sunni 
 		size = 69408
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  catholic 
 		size = 41396
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 737
 	 } 
@@ -606,92 +606,92 @@
 #Toliara (172000/43000 POPS)
 2122 = {
 	officers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 234
 	 } 
 	officers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 940
 	 } 
 	soldiers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 16
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 3134
 	 } 
 	aristocrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 55
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 77
 	 } 
 	bureaucrats = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 391
 	 } 
 	capitalists = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 783
 	 } 
 	clergymen = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 13
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 901
 	 } 
 	artisans = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 16
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion =  catholic 
 		size = 60921
 	 } 
 	farmers = {
-		culture = malagasy
+		culture = african
 		religion = animist
 		size = 1085
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  catholic 
 		size = 9277
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 165
 	 } 

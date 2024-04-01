@@ -5,6 +5,6 @@ add_core = KAS
 trade_goods = tea
 life_rating = 35
 1861.1.1 = {
-	owner = KAS
-	controller = KAS
+	owner = HND
+	controller = HND
 }

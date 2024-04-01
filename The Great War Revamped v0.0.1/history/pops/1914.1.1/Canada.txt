@@ -4307,12 +4307,12 @@
 		size = 895
 	 } 
 	farmers = {
-		culture = yoruba
+		culture = african
 		religion =  protestant 
 		size = 1916
 	 } 
 	farmers = {
-		culture = ibo
+		culture = african
 		religion = protestant 
 		size = 3583
 	 } 
@@ -4734,12 +4734,12 @@
 		size = 4559
 	 } 
 	farmers = {
-		culture = yoruba
+		culture = african
 		religion =  protestant 
 		size = 2203
 	 } 
 	farmers = {
-		culture = ibo
+		culture = african
 		religion = protestant 
 		size = 396
 	}

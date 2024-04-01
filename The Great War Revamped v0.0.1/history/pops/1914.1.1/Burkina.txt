@@ -3,57 +3,57 @@
 #Wagadugu (440000/110000 POPS)
 1901 = {
 	officers = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 1011
 	 } 
 	officers = {
-		culture = mossi
+		culture = african
 		religion = animist
 		size = 15
 	 } 
 	soldiers = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 4048
 	 } 
 	soldiers = {
-		culture = mossi
+		culture = african
 		religion = animist
 		size = 61
 	 } 
 	aristocrats = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 1687
 	 } 
 	aristocrats = {
-		culture = mossi
+		culture = african
 		religion = animist
 		size = 25
 	 } 
 	aristocrats = {
-		culture = mossi
+		culture = african
 		religion =  sunni 
 		size = 11987
 	 } 
 	capitalists = {
-		culture = mossi
+		culture = african
 		religion =  sunni 
 		size = 1712
 	 } 
 	clergymen = {
-		culture = mossi
+		culture = african
 		religion =  sunni 
 		size = 3425
 	 } 
 	artisans = {
-		culture = mossi
+		culture = african
 		religion =  sunni 
 		size = 3207
 	 } 
 	farmers = {
-		culture = mossi
+		culture = african
 		religion =  sunni 
 		size = 12561
 	 } 
@@ -61,7 +61,7 @@
 #Wahiguya (332000/83000 POPS)
 1902 = {
 	farmers = {
-		culture = mossi
+		culture = african
 		religion =  sunni 
 		size = 20134
 	 } 
@@ -69,42 +69,42 @@
 #Dori (268000/67000 POPS)
 1903 = {
 	soldiers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 1983
 	 } 
 	aristocrats = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 6610
 	 } 
 	clergymen = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 1652
 	 } 
 	artisans = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 1547
 	 } 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 95787
 	 } 
 	farmers = {
-		culture = mossi
+		culture = african
 		religion =  sunni 
 		size = 9660
 	 } 
 	farmers = {
-		culture = gur
+		culture = african
 		religion =  catholic 
 		size = 5128
 	 } 
 	farmers = {
-		culture = gur
+		culture = african
 		religion = animist
 		size = 230
 	 } 
@@ -112,27 +112,27 @@
 #Fada Ngoura (172000/43000 POPS)
 1904 = {
 	soldiers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 1197
 	 } 
 	aristocrats = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 3990
 	 } 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 13856
 	 } 
 	farmers = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 16467
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 707
 	 } 
@@ -142,87 +142,87 @@
 #Bobo Dioulasso (140000/35000 POPS)
 1905 = {
 	officers = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 409
 	 } 
 	officers = {
-		culture = dyula
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	soldiers = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 1640
 	 } 
 	soldiers = {
-		culture = dyula
+		culture = african
 		religion = animist
 		size = 24
 	 } 
 	aristocrats = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 5466
 	 } 
 	aristocrats = {
-		culture = dyula
+		culture = african
 		religion = animist
 		size = 83
 	 } 
 	bureaucrats = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 135
 	 } 
 	bureaucrats = {
-		culture = dyula
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 682
 	 } 
 	capitalists = {
-		culture = dyula
+		culture = african
 		religion = animist
 		size = 10
 	 } 
 	clergymen = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 1366
 	 } 
 	clergymen = {
-		culture = dyula
+		culture = african
 		religion = animist
 		size = 20
 	 } 
 	artisans = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 1279
 	 } 
 	artisans = {
-		culture = dyula
+		culture = african
 		religion = animist
 		size = 19
 	 } 
 	farmers = {
-		culture = mossi
+		culture = african
 		religion =  catholic 
 		size = 14186
 	 } 
 	farmers = {
-		culture = dyula
+		culture = african
 		religion = animist
 		size = 977
 	 } 
 	farmers = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 21457
 	 } 
@@ -230,82 +230,82 @@
 #Orodaro (360000/90000 POPS)
 1906 = {
 	officers = {
-		culture = mande
+		culture = african
 		religion =  catholic 
 		size = 438
 	 } 
 	officers = {
-		culture = dyula
+		culture = african
 		religion = catholic 
 		size = 6
 	 } 
 	soldiers = {
-		culture = dyula
+		culture = african
 		religion =  catholic 
 		size = 1755
 	 } 
 	soldiers = {
-		culture = mande
+		culture = african
 		religion = catholic 
 		size = 26
 	 } 
 	aristocrats = {
-		culture = mande
+		culture = african
 		religion =  catholic 
 		size = 5850
 	 } 
 	aristocrats = {
-		culture = dyula
+		culture = african
 		religion = catholic 
 		size = 89
 	 } 
 	bureaucrats = {
-		culture = mande
+		culture = african
 		religion =  catholic 
 		size = 145
 	 } 
 	bureaucrats = {
-		culture = mande
+		culture = african
 		religion = catholic 
 		size = 2
 	 } 
 	capitalists = {
-		culture = mande
+		culture = african
 		religion =  catholic 
 		size = 730
 	 } 
 	capitalists = {
-		culture = dyula
+		culture = african
 		religion = catholic 
 		size = 11
 	 } 
 	clergymen = {
-		culture = mande
+		culture = african
 		religion =  catholic 
 		size = 1462
 	 } 
 	clergymen = {
-		culture = dyula
+		culture = african
 		religion = catholic 
 		size = 22
 	 } 
 	artisans = {
-		culture = mande
+		culture = african
 		religion =  catholic 
 		size = 1369
 	 } 
 	artisans = {
-		culture = dyula
+		culture = african
 		religion = catholic 
 		size = 20
 	 } 
 	farmers = {
-		culture = mande
+		culture = african
 		religion =  catholic 
 		size = 3487
 	 } 
 	farmers = {
-		culture = gur
+		culture = african
 		religion = animist
 		size = 2032
 	 } 

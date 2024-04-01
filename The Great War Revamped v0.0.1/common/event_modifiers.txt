@@ -1028,3 +1028,14 @@ kinda_bad_badboy = {
 	icon = 8
 
 }
+
+#### Revamped Modifiers ####
+capital_supply_depot = {
+	max_attrition = -100
+	icon = 17
+}
+
+english_puppet = {
+	prestige = -40
+	icon = 17
+}

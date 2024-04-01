@@ -53,52 +53,52 @@
 		size = 44
 	 } 
 	aristocrats = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 2957
 	 } 
 	aristocrats = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 22
 	 } 
 	bureaucrats = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 295
 	 } 
 	bureaucrats = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	clergymen = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 2957
 	 } 
 	clergymen = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 22
 	 } 
 	artisans = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 2508
 	 } 
 	artisans = {
-		culture = nilotic
+		culture = african
 		religion = animist
 		size = 18
 	 } 
 	farmers = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 271932
 	 } 
 	farmers = {
-		culture = maasai
+		culture = african
 		religion = animist
 		size = 2054
 	 } 
@@ -106,87 +106,87 @@
 #Lodwar (36000/9000 POPS)
 2026 = {
 	officers = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 187
 	 } 
 	officers = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	soldiers = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 750
 	 } 
 	soldiers = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 5
 	 } 
 	aristocrats = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 2501
 	 } 
 	aristocrats = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 18
 	 } 
 	bureaucrats = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 62
 	 } 
 	capitalists = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 312
 	 } 
 	capitalists = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	clergymen = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 625
 	 } 
 	clergymen = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	artisans = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 529
 	 } 
 	artisans = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 12538
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 94
 	 } 
 	farmers = {
-		culture = maasai
+		culture = african
 		religion =  protestant 
 		size = 44950
 	 } 
 	farmers = {
-		culture = maasai
+		culture = african
 		religion = animist
 		size = 339
 	 } 
@@ -194,122 +194,122 @@
 #Nakuru (128000/32000 POPS)
 2027 = {
 	officers = {
-		culture = maasai
+		culture = african
 		religion =  protestant 
 		size = 992
 	 } 
 	officers = {
-		culture = maasai
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	soldiers = {
-		culture = maasai
+		culture = african
 		religion =  protestant 
 		size = 3971
 	 } 
 	soldiers = {
-		culture = maasai
+		culture = african
 		religion = animist
 		size = 30
 	 } 
 	aristocrats = {
-		culture = maasai
+		culture = african
 		religion =  protestant 
 		size = 13239
 	 } 
 	aristocrats = {
-		culture = maasai
+		culture = african
 		religion = animist
 		size = 100
 	 } 
 	bureaucrats = {
-		culture = maasai
+		culture = african
 		religion =  protestant 
 		size = 330
 	 } 
 	bureaucrats = {
-		culture = maasai
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = maasai
+		culture = african
 		religion =  protestant 
 		size = 1654
 	 } 
 	capitalists = {
-		culture = maasai
+		culture = african
 		religion = animist
 		size = 12
 	 } 
 	clergymen = {
-		culture = maasai
+		culture = african
 		religion =  protestant 
 		size = 3309
 	 } 
 	clergymen = {
-		culture = maasai
+		culture = african
 		religion = animist
 		size = 25
 	 } 
 	artisans = {
-		culture = maasai
+		culture = african
 		religion =  protestant 
 		size = 2805
 	 } 
 	artisans = {
-		culture = maasai
+		culture = african
 		religion = animist
 		size = 21
 	 } 
 	farmers = {
-		culture = maasai
+		culture = african
 		religion =  protestant 
 		size = 3484
 	 } 
 	farmers = {
-		culture = maasai
+		culture = african
 		religion = animist
 		size = 26
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  protestant 
 		size = 46339
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 350
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 36409
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 275
 	 } 
 	farmers = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 135709
 	 } 
 	farmers = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 1025
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  protestant 
 		size = 82383
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 622
 	 } 
@@ -318,92 +318,92 @@
 #Kisumu (196000/49000POPS)
 2028 = {
 	officers = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 1152
 	 } 
 	officers = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 8
 	 } 
 	soldiers = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 4612
 	 } 
 	soldiers = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 34
 	 } 
 	aristocrats = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 15373
 	 } 
 	aristocrats = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 116
 	 } 
 	bureaucrats = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 384
 	 } 
 	bureaucrats = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 1921
 	 } 
 	capitalists = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 14
 	 } 
 	clergymen = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 3842
 	 } 
 	clergymen = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 29
 	 } 
 	artisans = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 3258
 	 } 
 	artisans = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 24
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 146253
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 1105
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 161425
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 1219
 	 } 
@@ -423,22 +423,22 @@
 #Marsabit (52000/13000 POPS
 2025 = {
 	officers = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 33
 	 } 
 	soldiers = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 136
 	 } 
 	soldiers = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	aristocrats = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 456
 	 } 
@@ -448,7 +448,7 @@
 		size = 3
 	 } 
 	bureaucrats = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 10
 	 } 
@@ -458,7 +458,7 @@
 		size = 56
 	 } 
 	clergymen = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 114
 	 } 
@@ -468,7 +468,7 @@
 		size = 96
 	 } 
 	farmers = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 10494
 	 } 
@@ -481,22 +481,22 @@
 #Wajir (100000/25000 POPS)
 2031 = {
 	soldiers = {
-		culture = somali
+		culture = african
 		religion =  sunni 
 		size = 1098
 	 } 
 	aristocrats = {
-		culture = somali
+		culture = african
 		religion =  sunni 
 		size = 3660
 	 } 
 	farmers = {
-		culture = somali
+		culture = african
 		religion =  sunni 
 		size = 22925
 	 } 
 	farmers = {
-		culture = swahili
+		culture = african
 		religion =  sunni 
 		size = 61201
 	 } 
@@ -504,102 +504,102 @@
 #Garissa (172000/43000 POPS)
 2032 = {
 	officers = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 634
 	 } 
 	officers = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	soldiers = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 2536
 	 } 
 	soldiers = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 19
 	 } 
 	aristocrats = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 8456
 	 } 
 	aristocrats = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 63
 	 } 
 	bureaucrats = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 211
 	 } 
 	bureaucrats = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	capitalists = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 1057
 	 } 
 	capitalists = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	clergymen = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 2114
 	 } 
 	clergymen = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 15
 	 } 
 	artisans = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 1792
 	 } 
 	artisans = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 13
 	 } 
 	farmers = {
-		culture = kikuyu
+		culture = african
 		religion =  protestant 
 		size = 23364
 	 } 
 	farmers = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 176
 	 } 
 	farmers = {
-		culture = somali
+		culture = african
 		religion =  protestant 
 		size = 80332
 	 } 
 	farmers = {
-		culture = somali
+		culture = african
 		religion = animist
 		size = 607
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  protestant 
 		size = 90669
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 685
 	 } 
@@ -679,17 +679,17 @@
 		size = 61
 	 } 
 	farmers = {
-		culture = swahili
+		culture = african
 		religion =  sunni 
 		size = 22135
 	 } 
 	farmers = {
-		culture = swahili
+		culture = african
 		religion =  protestant 
 		size = 84278
 	 } 
 	farmers = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 636
 	 } 
@@ -697,42 +697,42 @@
 #Lamu (100000/25000 POPS)
 2030 = {
 	officers = {
-		culture = swahili
+		culture = african
 		religion =  sunni 
 		size = 12
 	 } 
 	soldiers = {
-		culture = swahili
+		culture = african
 		religion =  sunni 
 		size = 48
 	 } 
 	aristocrats = {
-		culture = swahili
+		culture = african
 		religion =  sunni 
 		size = 160
 	 } 
 	bureaucrats = {
-		culture = swahili
+		culture = african
 		religion =  sunni 
 		size = 4
 	 } 
 	capitalists = {
-		culture = swahili
+		culture = african
 		religion =  sunni 
 		size = 20
 	 } 
 	clergymen = {
-		culture = swahili
+		culture = african
 		religion =  sunni 
 		size = 40
 	 } 
 	artisans = {
-		culture = swahili
+		culture = african
 		religion =  sunni 
 		size = 34
 	 } 
 	farmers = {
-		culture = swahili
+		culture = african
 		religion =  sunni 
 		size = 3676
 	 } 
@@ -741,31 +741,31 @@
 #Voi (104000/26000 POPS)
 2033 = {
 	aristocrats = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 475
 	}
 
 	clergymen = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 1300
 	}
 
 	soldiers = {
-		culture = kikuyu
+		culture = african
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = swahili
+		culture = african
 		religion = sunni 
 		size = 23725
 	}

@@ -381,40 +381,15 @@ vassal = {
 # UK - CAN
 vassal = {
 	first = ENG
-	second = CAN
+	second = COM
 	start_date = 1867.1.1
 	end_date = 1953.1.1
 }
 
-# UK - AST
 vassal = {
 	first = ENG
-	second = AST
-	start_date = 1901.1.1
-	end_date = 1953.1.1
-}
-
-# UK - NZL
-vassal = {
-	first = ENG
-	second = NZL
-	start_date = 1907.1.1
-	end_date = 1953.1.1
-}
-
-# UK - NEW
-vassal = {
-	first = ENG
-	second = NEW
-	start_date = 1907.1.1
-	end_date = 1949.1.1
-}
-
-# UK - SAF
-vassal = {
-	first = ENG
-	second = SAF
-	start_date = 1910.1.1
+	second = HND
+	start_date = 1867.1.1
 	end_date = 1953.1.1
 }
 

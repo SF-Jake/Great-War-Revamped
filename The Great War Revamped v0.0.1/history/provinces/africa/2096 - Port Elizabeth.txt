@@ -6,8 +6,8 @@ life_rating = 35
 colonial = 2
 naval_base = 5
 1914.1.1 = {
-	owner = SAF
-	controller = SAF
-	add_core = SAF
+	owner = COM
+	controller = COM
+	add_core = COM
 	colonial = 0
 }

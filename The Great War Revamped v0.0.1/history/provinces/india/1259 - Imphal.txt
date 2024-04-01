@@ -6,7 +6,7 @@ trade_goods = tea
 life_rating = 32
 colonial = 2 railroad = 3
 1914.1.1 = {
-	owner = ASM
-	controller = ASM
+	owner = HND
+	controller = HND
 	colonial = 0
 }

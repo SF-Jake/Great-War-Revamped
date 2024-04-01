@@ -3,112 +3,112 @@
 #Cotonou (544000/136000 POPS)
 1919 = {
 	officers = {
-		culture = east_kwa
+		culture = = african
 		religion =  catholic 
 		size = 542
 	 } 
 	officers = {
-		culture = east_kwa
+		culture = = african
 		religion = animist
 		size = 8
 	 } 
 	soldiers = {
-		culture = east_kwa
+		culture = = african
 		religion =  catholic 
 		size = 2171
 	 } 
 	soldiers = {
-		culture = east_kwa
+		culture = = african
 		religion = animist
 		size = 33
 	 } 
 	aristocrats = {
-		culture = east_kwa
+		culture = = african
 		religion =  catholic 
 		size = 905
 	 } 
 	aristocrats = {
-		culture = east_kwa
+		culture = = african
 		religion = animist
 		size = 13
 	 } 
 	aristocrats = {
-		culture = yoruba
+		culture = african
 		religion =  protestant 
 		size = 6334
 	 } 
 	aristocrats = {
-		culture = yoruba
+		culture = african
 		religion = animist
 		size = 96
 	 } 
 	bureaucrats = {
-		culture = yoruba
+		culture = african
 		religion =  protestant 
 		size = 180
 	 } 
 	bureaucrats = {
-		culture = yoruba
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = yoruba
+		culture = african
 		religion =  protestant 
 		size = 904
 	 } 
 	capitalists = {
-		culture = yoruba
+		culture = african
 		religion = animist
 		size = 13
 	 } 
 	clergymen = {
-		culture = yoruba
+		culture = african
 		religion =  protestant 
 		size = 1809
 	 } 
 	clergymen = {
-		culture = yoruba
+		culture = african
 		religion = animist
 		size = 27
 	 } 
 	artisans = {
-		culture = yoruba
+		culture = african
 		religion =  protestant 
 		size = 2871
 	 } 
 	artisans = {
-		culture = yoruba
+		culture = african
 		religion = animist
 		size = 43
 	 } 
 	farmers = {
-		culture = yoruba
+		culture = african
 		religion =  protestant 
 		size = 11428
 	 } 
 	farmers = {
-		culture = yoruba
+		culture = african
 		religion = animist
 		size = 174
 	 } 
 	farmers = {
-		culture = fon
+		culture = african
 		religion =  protestant 
 		size = 90496
 	 } 
 	farmers = {
-		culture = fon
+		culture = african
 		religion = animist
 		size = 1378
 	 } 
 	farmers = {
-		culture = ewe
+		culture = african
 		religion =  catholic 
 		size = 54146
 	 } 
 	farmers = {
-		culture = ewe
+		culture = african
 		religion = animist
 		size = 824
 	 } 
@@ -116,92 +116,92 @@
 #Abomey (480000/120000 POPS)
 1920 = {
 	officers = {
-		culture = fon
+		culture = african
 		religion =  protestant 
 		size = 286
 	 } 
 	officers = {
-		culture = fon
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	soldiers = {
-		culture = fon
+		culture = african
 		religion =  protestant 
 		size = 1146
 	 } 
 	soldiers = {
-		culture = fon
+		culture = african
 		religion = animist
 		size = 17
 	 } 
 	aristocrats = {
-		culture = fon
+		culture = african
 		religion =  protestant 
 		size = 3821
 	 } 
 	aristocrats = {
-		culture = fon
+		culture = african
 		religion = animist
 		size = 58
 	 } 
 	bureaucrats = {
-		culture = fon
+		culture = african
 		religion =  protestant 
 		size = 95
 	 } 
 	bureaucrats = {
-		culture = fon
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	capitalists = {
-		culture = fon
+		culture = african
 		religion =  protestant 
 		size = 477
 	 } 
 	capitalists = {
-		culture = fon
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	clergymen = {
-		culture = fon
+		culture = african
 		religion =  protestant 
 		size = 955
 	 } 
 	clergymen = {
-		culture = fon
+		culture = african
 		religion = animist
 		size = 14
 	 } 
 	artisans = {
-		culture = fon
+		culture = african
 		religion =  protestant 
 		size = 1514
 	 } 
 	artisans = {
-		culture = fon
+		culture = african
 		religion = animist
 		size = 23
 	 } 
 	farmers = {
-		culture = fon
+		culture = african
 		religion =  protestant 
 		size = 62404
 	 } 
 	farmers = {
-		culture = fon
+		culture = african
 		religion = animist
 		size = 950
 	 } 
 	farmers = {
-		culture = yoruba
+		culture = african
 		religion =  protestant 
 		size = 19984
 	 } 
 	farmers = {
-		culture = east_kwa
+		culture = = african
 		religion = animist
 		size = 304
 	 } 
@@ -211,7 +211,7 @@
 #Nikki (48000/12000 POPS)
 1921 = {
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 25054
 	 } 
@@ -219,12 +219,12 @@
 #Jugu (28000/7000 POPS)
 1922 = {
 	aristocrats = {
-		culture = gur
+		culture = african
 		religion =  sunni 
 		size = 2120
 	 } 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 45702
 	 } 

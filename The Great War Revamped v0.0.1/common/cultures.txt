@@ -2180,6 +2180,18 @@ african_diaspora_cultures = {
 	
 }
 
+african = {
+	unit = AfricanGC
+	african = {
+		color = {88 68 147}
+		first_names = { Amanquatia Agyeman Onsei Kwaku Kofi Atakora Kwabena Mensa Owusu Akyampon Kwame Opoku 
+		}
+
+		last_names = { Prempeh Bonsu Dua Karikari Dwomo Panyin Sekyere Fofie Asiba
+		}
+	}
+}
+
 west_african = {
 	leader = african
 	is_overseas = no
@@ -2359,7 +2371,7 @@ central_african = {
 		}
 	}
 	baguirmi = {
-		color = {48 192 75}
+		color = {48 192 75} 
 		first_names = { Abdul Abu-Sekkin Burkomanda Ngarmane "Abd al-Rahman" Uthman Muhammad Malam Ngarmaba
 		}
 
@@ -2450,6 +2462,14 @@ east_african = {
 		}
 
 		last_names = { Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+		}
+	}
+	oromo = {
+		color = {162 23 199}
+		first_names = { Ras Debela Alemayehu Dirribi Heile Gobana Tsegaye Tilahun Waqo Ahmad Galasa Hailu Yilma Abadula Abdus
+		}
+
+		last_names = { Makonnen Dacche Mideksa Dinsa Turnsaa Gemeda Eabisa Demissie Gessesse
 		}
 	}
 	afar = {
@@ -2554,14 +2574,6 @@ east_african = {
 		}
 
 		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
-		}
-	}
-	oromo = {
-		color = {162 23 199}
-		first_names = { Ras Debela Alemayehu Dirribi Heile Gobana Tsegaye Tilahun Waqo Ahmad Galasa Hailu Yilma Abadula Abdus
-		}
-
-		last_names = { Makonnen Dacche Mideksa Dinsa Turnsaa Gemeda Eabisa Demissie Gessesse
 		}
 	}
 	ruanda = {

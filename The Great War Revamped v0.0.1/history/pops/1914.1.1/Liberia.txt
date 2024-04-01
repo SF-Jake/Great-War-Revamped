@@ -33,72 +33,72 @@
 		size = 1
 	 } 
 	aristocrats = {
-		culture = kru
+		culture = african
 		religion =  protestant 
 		size = 3327
 	 } 
 	aristocrats = {
-		culture = kru
+		culture = african
 		religion = animist
 		size = 59
 	 } 
 	bureaucrats = {
-		culture = kru
+		culture = african
 		religion =  protestant 
 		size = 85
 	 } 
 	bureaucrats = {
-		culture = kru
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	capitalists = {
-		culture = kru
+		culture = african
 		religion =  protestant 
 		size = 428
 	 } 
 	capitalists = {
-		culture = kru
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	clergymen = {
-		culture = kru
+		culture = african
 		religion =  protestant 
 		size = 856
 	 } 
 	clergymen = {
-		culture = kru
+		culture = african
 		religion = animist
 		size = 15
 	 } 
 	artisans = {
-		culture = kru
+		culture = african
 		religion =  protestant 
 		size = 1424
 	 } 
 	artisans = {
-		culture = kru
+		culture = african
 		religion = animist
 		size = 25
 	 } 
 	farmers = {
-		culture = kru
+		culture = african
 		religion =  protestant 
 		size = 734
 	 } 
 	farmers = {
-		culture = kru
+		culture = african
 		religion = animist
 		size = 13
 	 } 
 	farmers = {
-		culture = mande
+		culture = african
 		religion =  sunni
 		size = 70642
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 1258
 	 } 
@@ -106,77 +106,77 @@
 #Harper (204000/51000 POPS) 
 1888 = {
 	officers = {
-		culture = kru
+		culture = african
 		religion =  catholic 
 		size = 224
 	 } 
 	officers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	soldiers = {
-		culture = kru
+		culture = african
 		religion =  catholic 
 		size = 899
 	 } 
 	soldiers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 16
 	 } 
 	aristocrats = {
-		culture = kru
+		culture = african
 		religion =  catholic 
 		size = 1159
 	 } 
 	aristocrats = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 20
 	 } 
 	bureaucrats = {
-		culture = kru
+		culture = african
 		religion =  catholic 
 		size = 28
 	 } 
 	capitalists = {
-		culture = kru
+		culture = african
 		religion =  catholic 
 		size = 144
 	 } 
 	capitalists = {
-		culture = western_nigritic
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	clergymen = {
-		culture = kru
+		culture = african
 		religion =  catholic 
 		size = 289
 	 } 
 	clergymen = {
-		culture = western_nigritic
+		culture = african
 		religion = animist
 		size = 5
 	 } 
 	artisans = {
-		culture = kru
+		culture = african
 		religion =  catholic 
 		size = 481
 	 } 
 	artisans = {
-		culture = western_nigritic
+		culture = african
 		religion = animist
 		size = 8
 	 } 
 	farmers = {
-		culture = kru
+		culture = african
 		religion =  catholic 
 		size = 24134
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 429
 	 } 
@@ -185,82 +185,82 @@
 #Bopulu (124000/31000 POPS) 
 1889 = {
 	officers = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 224
 	 } 
 	officers = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 4
 	 } 
 	soldiers = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 899
 	 } 
 	soldiers = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 16
 	 } 
 	aristocrats = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 1159
 	 } 
 	aristocrats = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 20
 	 } 
 	bureaucrats = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 28
 	 } 
 	capitalists = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 144
 	 } 
 	capitalists = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 2
 	 } 
 	clergymen = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 289
 	 } 
 	clergymen = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 5
 	 } 
 	artisans = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 481
 	 } 
 	artisans = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 8
 	 } 
 	farmers = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 1119
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 19
 	 } 
 	farmers = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 23425
 	 } 
@@ -268,77 +268,77 @@
 #Gbarnga (132000/33000 POPS) 
 1890 = {
 	officers = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 224
 	 } 
 	officers = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 4
 	 } 
 	soldiers = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 899
 	 } 
 	soldiers = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 16
 	 } 
 	aristocrats = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 1159
 	 } 
 	aristocrats = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 20
 	 } 
 	bureaucrats = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 28
 	 } 
 	capitalists = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 144
 	 } 
 	capitalists = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 2
 	 } 
 	clergymen = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 289
 	 } 
 	clergymen = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 5
 	 } 
 	artisans = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 481
 	 } 
 	artisans = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 8
 	 } 
 	farmers = {
-		culture = mande
+		culture = african
 		religion =  protestant 
 		size = 24134
 	 } 
 	farmers = {
-		culture = mande
+		culture = african
 		religion = sunni
 		size = 429
 	 } 
@@ -351,7 +351,7 @@
 		size = 224
 	 } 
 	officers = {
-		culture = kru
+		culture = african
 		religion = protestant
 		size = 4
 	 } 
@@ -361,7 +361,7 @@
 		size = 899
 	 } 
 	soldiers = {
-		culture = kru
+		culture = african
 		religion = protestant
 		size = 16
 	 } 
@@ -371,7 +371,7 @@
 		size = 1159
 	 } 
 	aristocrats = {
-		culture = kru
+		culture = african
 		religion = protestant
 		size = 20
 	 } 
@@ -386,7 +386,7 @@
 		size = 144
 	 } 
 	capitalists = {
-		culture = kru
+		culture = african
 		religion = protestant
 		size = 2
 	 } 
@@ -396,7 +396,7 @@
 		size = 289
 	 } 
 	clergymen = {
-		culture = kru
+		culture = african
 		religion = protestant
 		size = 5
 	 } 
@@ -406,7 +406,7 @@
 		size = 481
 	 } 
 	artisans = {
-		culture = kru
+		culture = african
 		religion = protestant
 		size = 8
 	 } 
@@ -416,7 +416,7 @@
 		size = 24134
 	 } 
 	farmers = {
-		culture = western_nigritic
+		culture = african
 		religion = animist
 		size = 429
 	 } 

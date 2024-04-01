@@ -21,3 +21,6 @@ forty_eighters;Forty-Eighters;;;;;;;;;;;;x;;;;,,
 forty_eighters_desc;With the lack of change from the liberal revolutions of 1848, many of our citizens are dissatisfied with living under our rule, and so are emigrating en masse to America.;;;;;;;;;;;;x;;;;
 rus_mil;Peace Land and Bread;;;;;;;;;;;;x;;;;,,
 rus_mil_desc;Our people are tired of war and our soldiers do not want to fight anymore.;;;;;;;;;;;;x;;;;,,
+english_puppet;English Puppet;;;;;;;;;;;;x;;;;,,
+english_puppet_desc;All puppets of the United Kingdom gain no prestige;;;;;;;;;;;;x;;;;,,
+capital_supply_depot;Capital Supply Depot\n§WCapital Supply Depots will not be destroyed unless the capital is moved somewhere else.;;;;;;;;;;;;;x

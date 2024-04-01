@@ -122,12 +122,12 @@
 		size = 2009
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 11175
 	 } 
 	farmers = {
-		culture = ovimbundu
+		culture = african
 		religion = catholic 
 		size = 1004
 	 } 
@@ -473,12 +473,12 @@
 		size = 1554
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 8642
 	 } 
 	farmers = {
-		culture = ovimbundu
+		culture = african
 		religion = catholic 
 		size = 777
 	 } 

@@ -1,7 +1,7 @@
 capital = 1865
-primary_culture = harari
+primary_culture = african
 culture = oromo
-culture = somali
+culture = african
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

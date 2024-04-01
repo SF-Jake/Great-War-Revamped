@@ -6,8 +6,8 @@ life_rating = 30
 	colonial = 2
 }
 1914.1.1 = {
-	owner = NZL
-	controller = NZL
-	add_core = NZL
+	owner = COM
+	controller = COM
+	add_core = COM
 	colonial = 0
 }

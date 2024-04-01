@@ -73,7 +73,7 @@
 		size = 76232
 	 } 
 	farmers = {
-		culture = tigray
+		culture = african
 		religion = sunni
 		size = 8108
 	 } 
@@ -259,12 +259,12 @@
 		size = 150
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  catholic 
 		size = 19310
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion = catholic 
 		size = 751
 	 } 
@@ -397,62 +397,62 @@
 		size = 215
 	 } 
 	aristocrats = {
-		culture = tigray
+		culture = african
 		religion =  orthodox 
 		size = 3259
 	 } 
 	aristocrats = {
-		culture = tigray
+		culture = african
 		religion = coptic
 		size = 83
 	 } 
 	bureaucrats = {
-		culture = tigray
+		culture = african
 		religion =  orthodox 
 		size = 290
 	 } 
 	bureaucrats = {
-		culture = tigray
+		culture = african
 		religion = coptic
 		size = 7
 	 } 
 	capitalists = {
-		culture = tigray
+		culture = african
 		religion =  orthodox 
 		size = 1455
 	 } 
 	capitalists = {
-		culture = tigray
+		culture = african
 		religion = coptic
 		size = 37
 	 } 
 	clergymen = {
-		culture = tigray
+		culture = african
 		religion =  orthodox 
 		size = 2912
 	 } 
 	clergymen = {
-		culture = tigray
+		culture = african
 		religion = coptic
 		size = 74
 	 } 
 	artisans = {
-		culture = tigray
+		culture = african
 		religion =  orthodox 
 		size = 1773
 	 } 
 	artisans = {
-		culture = tigray
+		culture = african
 		religion = coptic
 		size = 45
 	 } 
 	farmers = {
-		culture = tigray
+		culture = african
 		religion =  orthodox 
 		size = 172850
 	 } 
 	farmers = {
-		culture = nilotic
+		culture = african
 		religion = animist
 		size = 6996
 	 } 
@@ -535,7 +535,7 @@
 		size = 116232
 	 } 
 	farmers = {
-		culture = tigray
+		culture = african
 		religion = coptic
 		size = 8108
 	 } 
@@ -598,12 +598,12 @@
 		size = 6
 	 } 
 	farmers = {
-		culture = afar
+		culture = african
 		religion =  sunni 
 		size = 86458
 	 } 
 	farmers = {
-		culture = cushitic
+		culture = african
 		religion =  animist
 		size = 4875
 	 } 
@@ -698,22 +698,22 @@
 		size = 1171
 	 } 
 	farmers = {
-		culture = tigray
+		culture = african
 		religion =  orthodox 
 		size = 18271
 	 } 
 	farmers = {
-		culture = tigray
+		culture = african
 		religion = sunni 
 		size = 468
 	 } 
 	farmers = {
-		culture = harari
+		culture = african
 		religion =  catholic 
 		size = 20246
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 1288
 	 } 
@@ -886,12 +886,12 @@
 		size = 14485
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  catholic 
 		size = 27518
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 1731
 	 } 
@@ -901,7 +901,7 @@
 #Bonga (516000/129000 POPS)
 1862 = {
 	officers = {
-		culture = kefficho
+		culture = african
 		religion =  protestant 
 		size = 3
 	 } 
@@ -911,7 +911,7 @@
 		size = 18
 	 } 
 	aristocrats = {
-		culture = kefficho
+		culture = african
 		religion =  protestant 
 		size = 819
 	 } 
@@ -921,12 +921,12 @@
 		size = 21
 	 } 
 	bureaucrats = {
-		culture = kefficho
+		culture = african
 		religion =  protestant 
 		size = 20
 	 } 
 	capitalists = {
-		culture = kefficho
+		culture = african
 		religion =  protestant 
 		size = 102
 	 } 
@@ -936,7 +936,7 @@
 		size = 2
 	 } 
 	clergymen = {
-		culture = kefficho
+		culture = african
 		religion =  protestant 
 		size = 204
 	 } 
@@ -946,7 +946,7 @@
 		size = 5
 	 } 
 	artisans = {
-		culture = kefficho
+		culture = african
 		religion =  protestant 
 		size = 124
 	 } 
@@ -956,7 +956,7 @@
 		size = 3
 	 } 
 	farmers = {
-		culture = kefficho
+		culture = african
 		religion =  protestant 
 		size = 8943
 	 } 
@@ -971,7 +971,7 @@
 		size = 10237
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion = sunni 
 		size = 262
 	 } 
@@ -1132,7 +1132,7 @@
 		size = 318972
 	 } 
 	farmers = {
-		culture = cushitic
+		culture = african
 		religion = animist
 		size = 8178
 	 } 
@@ -1142,12 +1142,12 @@
 #Harer (384000/96000 POPS)
 1865 = {
 	aristocrats = {
-		culture = somali
+		culture = african
 		religion =  sunni 
 		size = 3640
 	 } 
 	farmers = {
-		culture = somali
+		culture = african
 		religion =  sunni 
 		size = 85243
 	 } 
@@ -1187,7 +1187,7 @@
 	}
 	
 	slaves = {
-		culture = cushitic
+		culture = african
 		religion = animist
 		size = 5000
 	}
@@ -1221,31 +1221,31 @@
 	}
 
 	aristocrats = {
-		culture = somali
+		culture = african
 		religion = sunni
 		size = 1575
 	}
 	
 	clergymen = {
-		culture = somali
+		culture = african
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = somali
+		culture = african
 		religion = sunni
 		size = 1150
 	}
 	
 	artisans = {
-		culture = somali
+		culture = african
 		religion = sunni
 		size = 3425
 	}
 
 	farmers = {
-		culture = somali
+		culture = african
 		religion = sunni
 		size = 50625
 	}

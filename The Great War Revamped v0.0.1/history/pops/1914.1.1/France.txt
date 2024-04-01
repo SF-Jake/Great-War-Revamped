@@ -2883,32 +2883,32 @@
 		size = 18965
 	 } 
 	farmers = {
-		culture = mande
+		culture = african
 		religion =  catholic 
 		size = 17165
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion = catholic 
 		size = 3896
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 42125
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  orthodox 
 		size = 17165
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion = orthodox 
 		size = 3896
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni
 		size = 17165
 	 } 

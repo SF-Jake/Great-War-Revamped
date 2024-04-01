@@ -2125,3 +2125,26 @@ country_event = {
 		change_tag = ENL
 	}
 }
+
+country_event = {
+	id = 36971
+	title = "English Puppet"
+	desc = "Modifier to reduce prestige and other things"
+	picture = ""
+
+	trigger = {
+		OR = {
+			tag = COM
+			tag = HND
+		}
+		NOT = { has_country_modifier = english_puppet }
+	}
+
+	option = {
+		name = "Ok."
+		add_country_modifier = {
+			name = english_puppet
+			duration = -1
+		}
+	}
+}

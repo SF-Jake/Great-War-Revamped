@@ -709,7 +709,7 @@
 		size = 3924
 	 } 
 	farmers = {
-		culture = forest_bantu
+		culture = african
 		religion =  protestant 
 		size = 1894
 	 } 

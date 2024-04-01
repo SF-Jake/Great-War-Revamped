@@ -28,7 +28,7 @@
 		size = 7
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 190
 	 } 
@@ -71,7 +71,7 @@
 		size = 50
 	 } 
 	farmers = {
-		culture = maures
+		culture = african
 		religion =  sunni 
 		size = 1332
 	 } 

@@ -83,7 +83,7 @@
 		size = 5
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 85209
 	 } 
@@ -91,12 +91,12 @@
 #Gharyan (40000/10000 POPS)
 1732 = {
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 8271
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 1388
 	 } 
@@ -104,31 +104,31 @@
 #Misratah (84000/21000 POPS)
 1733 = {
 	aristocrats = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 10125
 	}
@@ -164,7 +164,7 @@
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = african
 		religion = animist
 		size = 5000
 	}
@@ -184,31 +184,31 @@
 #Sirt (100000/25000 POPS)
 1734 = {
 	aristocrats = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 7300
 	}
@@ -244,7 +244,7 @@
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = african
 		religion = animist
 		size = 4000
 	}
@@ -254,7 +254,7 @@
 #Benghazi (124000/31000 POPS)
 1735 = {
 	aristocrats = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 1550
 	 } 
@@ -264,7 +264,7 @@
 		size = 1063
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 29941
 	 } 
@@ -272,31 +272,31 @@
 #Darnah (60000/15000 POPS)
 1736 = {
 	aristocrats = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 4575
 	}
@@ -332,7 +332,7 @@
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = african
 		religion = animist
 		size = 2000
 	}
@@ -340,31 +340,31 @@
 #Tobruk (48000/12000 POPS)
 1737 = {
 	aristocrats = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = berber
+		culture = african
 		religion = sunni
 		size = 2700
 	}
@@ -400,7 +400,7 @@
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = african
 		religion = animist
 		size = 3000
 	}
@@ -410,42 +410,42 @@
 #Jaghbub (12000/3000 POPS)
 1738 = {
 	officers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 9
 	 } 
 	soldiers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 39
 	 } 
 	aristocrats = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 130
 	 } 
 	bureaucrats = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 3
 	 } 
 	capitalists = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 16
 	 } 
 	clergymen = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 32
 	 } 
 	artisans = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 89
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 2512
 	 } 
@@ -454,42 +454,42 @@
 #Waddan (16000/4000 POPS)
 1740 = {
 	officers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 8
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 33
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 110
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 2
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 13
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 27
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 75
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 2125
 	 } 
@@ -497,42 +497,42 @@
 #Matan al Sarah (4000/1000 POPS)
 2585 = {
 	officers = {
-		culture = teda
+		culture = african
 		religion =  sunni 
 		size = 4
 	 } 
 	soldiers = {
-		culture = teda
+		culture = african
 		religion =  sunni 
 		size = 18
 	 } 
 	aristocrats = {
-		culture = teda
+		culture = african
 		religion =  sunni 
 		size = 60
 	 } 
 	bureaucrats = {
-		culture = teda
+		culture = african
 		religion =  sunni 
 		size = 1
 	 } 
 	capitalists = {
-		culture = teda
+		culture = african
 		religion =  sunni 
 		size = 7
 	 } 
 	clergymen = {
-		culture = teda
+		culture = african
 		religion =  sunni 
 		size = 15
 	 } 
 	artisans = {
-		culture = teda
+		culture = african
 		religion =  sunni 
 		size = 41
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 1159
 	 } 
@@ -542,42 +542,42 @@
 #Murzuk (16000/4000 POPS)
 1741 = {
 	officers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 8
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 33
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 110
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 2
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 13
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 27
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 75
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 2125
 	 } 
@@ -585,42 +585,42 @@
 #Sabha (14000/3500 POPS)
 1742 = {
 	officers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 15
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 60
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 200
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 5
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 25
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 50
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 137
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 3862
 	 } 
@@ -629,42 +629,42 @@
 #Ghadamis - Now Sabha (24000/6000 POPS)
 1744 = {
 	officers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 9
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 39
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 130
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 3
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 16
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 32
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 89
 	 } 
 	farmers = {
-		culture = berber
+		culture = african
 		religion =  sunni 
 		size = 2512
 	 } 

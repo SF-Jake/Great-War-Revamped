@@ -3,12 +3,12 @@
 #Comoro Islands (56000/14000 POPS) 
 2123 = {
 	aristocrats = {
-		culture = kilombero
+		culture = asian_minor
 		religion =  sunni 
 		size = 1480
 	 } 
 	farmers = {
-		culture = kilombero
+		culture = asian_minor
 		religion =  sunni 
 		size = 33615
 	 } 
@@ -16,72 +16,72 @@
 #Mayotte (8000/2000 POPS) 
 2124 = {
 	officers = {
-		culture = kilombero
+		culture = asian_minor
 		religion =  catholic 
 		size = 85
 	 } 
 	officers = {
-		culture = kilombero
+		culture = asian_minor
 		religion = catholic 
 		size = 19
 	 } 
 	soldiers = {
-		culture = kilombero
+		culture = asian_minor
 		religion =  catholic 
 		size = 342
 	 } 
 	soldiers = {
-		culture = kilombero
+		culture = asian_minor
 		religion = catholic 
 		size = 77
 	 } 
 	aristocrats = {
-		culture = kilombero
+		culture = asian_minor
 		religion =  catholic 
 		size = 713
 	 } 
 	aristocrats = {
-		culture = kilombero
+		culture = asian_minor
 		religion = catholic 
 		size = 161
 	 } 
 	bureaucrats = {
-		culture = kilombero
+		culture = asian_minor
 		religion =  catholic 
 		size = 171
 	 } 
 	bureaucrats = {
-		culture = kilombero
+		culture = asian_minor
 		religion = catholic 
 		size = 38
 	 } 
 	capitalists = {
-		culture = kilombero
+		culture = asian_minor
 		religion =  catholic 
 		size = 171
 	 } 
 	capitalists = {
-		culture = kilombero
+		culture = asian_minor
 		religion = catholic 
 		size = 38
 	 } 
 	clergymen = {
-		culture = kilombero
+		culture = asian_minor
 		religion =  catholic 
 		size = 513
 	 } 
 	clergymen = {
-		culture = kilombero
+		culture = asian_minor
 		religion = catholic 
 		size = 116
 	 } 
 	artisans = {
-		culture = kilombero
+		culture = asian_minor
 		religion =  sunni 
 		size = 1059
 	 } 
 	farmers = {
-		culture = kilombero
+		culture = asian_minor
 		religion =  sunni 
 		size = 26272
 	 } 

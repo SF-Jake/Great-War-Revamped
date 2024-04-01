@@ -3,37 +3,37 @@
 #Boffa (192000/48000 POPS) #now part of Guinea
 1879 = {
 	soldiers = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 3282
 	 } 
 	aristocrats = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 10940
 	 } 
 	capitalists = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 1367
 	 } 
 	clergymen = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 2735
 	 } 
 	artisans = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 3420
 	 } 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 17605
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 98
 	 } 
@@ -43,27 +43,27 @@
 #Timbo (540000/135000 POPS)  
 1880 = {
 	soldiers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 1314
 	 } 
 	aristocrats = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 4380
 	 } 
 	clergymen = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 1095
 	 } 
 	artisans = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 1369
 	 } 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 47265
 	 } 
@@ -71,12 +71,12 @@
 #Dinguiraye (272000/68000 POPS)  
 1881 = {
 	aristocrats = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 1250
 	 } 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 16143
 	 } 
@@ -86,27 +86,27 @@
 #Kankan (236000/59000 POPS)  
 1882 = {
 	soldiers = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 1512
 	 } 
 	aristocrats = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 5040
 	 } 
 	clergymen = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 1260
 	 } 
 	artisans = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 1575
 	 } 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 9043
 	 } 
@@ -115,32 +115,32 @@
 #Beyla (184000/46000 POPS)  
 1883 = {
 	soldiers = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 1266
 	 } 
 	aristocrats = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 4220
 	 } 
 	clergymen = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 1055
 	 } 
 	artisans = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 1319
 	 } 
 	farmers = {
-		culture = mande
+		culture = african
 		religion =  sunni 
 		size = 28712
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 175
 	 } 

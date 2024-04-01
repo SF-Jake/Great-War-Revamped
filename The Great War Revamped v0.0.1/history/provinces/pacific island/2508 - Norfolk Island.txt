@@ -3,8 +3,8 @@ controller = ENG
 trade_goods = fish
 life_rating = 30
 1914.1.1 = {
-	owner = AST
-	controller = AST
-	add_core = AST
+	owner = COM
+	controller = COM
+	add_core = COM
 	colonial = 0
 }

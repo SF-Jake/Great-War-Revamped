@@ -36,7 +36,7 @@ country_event = {
 		prestige = 5
 		badboy = 5
 		any_pop = {
-			limit = { has_pop_culture = zulu }
+			limit = { has_pop_culture = african }
 			reduce_pop = 0.95
 		}
 		random_list = {
@@ -108,7 +108,7 @@ country_event = {
 			}
 		}
 		any_pop = {
-			limit = { has_pop_culture = zulu }
+			limit = { has_pop_culture = african }
 			militancy = 4
 		}
 		ai_chance = {
@@ -333,7 +333,7 @@ country_event = {
 					is_slave = yes
 					any_pop = {
 						limit = {
-							has_pop_culture = nguni
+							has_pop_culture = african
 							location = {
 								OR = {
 									province_id = 2108

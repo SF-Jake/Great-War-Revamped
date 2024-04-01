@@ -240,8 +240,8 @@ political_decisions = {
 			}
 			prestige = 2
 			years_of_research = 0.02
-			add_accepted_culture = tigray
-			add_accepted_culture = sidama
+			add_accepted_culture = african
+			add_accepted_culture = african
 			TIG = {
 				all_core = { remove_core = TIG }
 			}
@@ -318,7 +318,7 @@ political_decisions = {
 
 	unite_somalia = {
 		potential = {
-			primary_culture = somali
+			primary_culture = african
 			NOT = { exists = SOM }
 		}
 

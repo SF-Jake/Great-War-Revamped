@@ -407,7 +407,7 @@ country_event = {
 			any_owned = {
 				limit = {
 					is_core = EGY
-					culture = misri
+					culture = mashriqi
 				}
 				add_province_modifier = {
 					name = nationalist_agitation
@@ -416,7 +416,7 @@ country_event = {
 			}
 			any_pop = {
 				limit = {
-					has_pop_culture = misri
+					has_pop_culture = mashriqi
 					location = { is_core = EGY }
 				}
 				militancy = 4
@@ -460,7 +460,7 @@ country_event = {
 		any_owned = {
 			limit = {
 				is_core = EGY
-				culture = misri
+				culture = mashriqi
 			}
 			add_province_modifier = {
 				name = nationalist_agitation
@@ -469,7 +469,7 @@ country_event = {
 		}
 		any_pop = {
 			limit = {
-				has_pop_culture = misri
+				has_pop_culture = mashriqi
 				location = { is_core = EGY }
 			}
 			militancy = 8
@@ -493,9 +493,9 @@ province_event = {
 	
 	trigger = {
 		is_core = EGY
-		culture = misri
+		culture = mashriqi
 		NOT = {
-			owner = { accepted_culture = misri }
+			owner = { accepted_culture = mashriqi }
 			average_militancy = 8
 			has_province_modifier = nationalist_agitation
 			controlled_by = REB
@@ -549,7 +549,7 @@ province_event = {
 		name = "Put down the uprising at once!"
 		state_scope = {
 			any_pop = {
-				limit = { has_pop_culture = misri }
+				limit = { has_pop_culture = mashriqi }
 				militancy = 6
 			}
 			any_owned = {
@@ -585,7 +585,7 @@ country_event = {
 		remove_random_economic_reforms = 3
 		remove_random_military_reforms = 3
 		any_pop = {
-			limit = { is_primary_culture = misri }
+			limit = { is_primary_culture = mashriqi }
 			ideology = {
 				value = reactionary
 				factor = 0.20
@@ -602,7 +602,7 @@ country_event = {
 		clr_country_flag = surrendered_to_OE
 		prestige = 5
 		any_pop = {
-			limit = { is_primary_culture = misri }
+			limit = { is_primary_culture = mashriqi }
 			ideology = {
 				value = reactionary
 				factor = 0.20
@@ -610,7 +610,7 @@ country_event = {
 			militancy = 6
 		}
 		any_owned = {
-			limit = { culture = misri }
+			limit = { culture = mashriqi }
 			add_province_modifier = {
 				name = peasant_revolt
 				duration = 730
@@ -895,7 +895,7 @@ country_event = {
 		war_exhaustion = 20
 		prestige = -25
 		any_pop = {
-			limit = { is_primary_culture = misri }
+			limit = { is_primary_culture = mashriqi }
 			ideology = {
 				value = reactionary
 				factor = 0.10

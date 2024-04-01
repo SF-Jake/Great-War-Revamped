@@ -3,12 +3,12 @@
 #Bangui (104000/26000 POPS)
 1965 = { 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  catholic 
 		size = 11035
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 27
 	 } 
@@ -16,22 +16,22 @@
 #Nola (40000/10000 POPS)
 1966 = {
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  catholic 
 		size = 12344
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 30
 	 } 
 	farmers = {
-		culture = sara
+		culture = african
 		religion =  protestant 
 		size = 13632
 	 } 
 	farmers = {
-		culture = sara
+		culture = african
 		religion = animist
 		size = 34
 	 } 
@@ -41,7 +41,7 @@
 #Bouar (28000/7000 POPS)
 1967 = {
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 21299
 	 } 
@@ -49,27 +49,27 @@
 #Bossangoa (56000/14000 POPS)
 1968 = {
 	artisans = {
-		culture = baguirmi
+		culture = african
 		religion = sunni
 		size = 1
 	 } 
 	farmers = {
-		culture = ubangian
+		culture = african
 		religion =  catholic 
 		size = 11730
 	 } 
 	farmers = {
-		culture = baguirmi
+		culture = african
 		religion = sunni
 		size = 29
 	 } 
 	farmers = {
-		culture = sara
+		culture = african
 		religion =  protestant 
 		size = 14329
 	 } 
 	farmers = {
-		culture = baguirmi
+		culture = african
 		religion = sunni
 		size = 35
 	 } 
@@ -79,52 +79,52 @@
 #Zemio (44000/11000 POPS)
 1969 = {
 	officers = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 73
 	 } 
 	soldiers = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 296
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 987
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	bureaucrats = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 23
 	 } 
 	capitalists = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 122
 	 } 
 	clergymen = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 246
 	 } 
 	artisans = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 341
 	 } 
 	farmers = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 21679
 	 } 
 	farmers = {
-		culture = ubangian
+		culture = african
 		religion = animist
 		size = 54
 	 } 
@@ -132,67 +132,67 @@
 #Bangassou (56000/14000 POPS)
 1970 = {
 	officers = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 125
 	 } 
 	soldiers = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 505
 	 } 
 	soldiers = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 1685
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	bureaucrats = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 41
 	 } 
 	capitalists = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 210
 	 } 
 	clergymen = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 420
 	 } 
 	clergymen = {
-		culture = ubangian
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	artisans = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 581
 	 } 
 	artisans = {
-		culture = ubangian
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	farmers = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 37010
 	 } 
 	farmers = {
-		culture = ubangian
+		culture = african
 		religion = animist
 		size = 92
 	 } 
@@ -201,7 +201,7 @@
 #Ndele (28000/7000 POPS)
 1971 = {
 	farmers = {
-		culture = fur
+		culture = african
 		religion =  sunni 
 		size = 5721
 	 } 

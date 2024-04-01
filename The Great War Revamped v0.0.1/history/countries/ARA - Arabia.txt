@@ -1,7 +1,7 @@
 capital = 354
 primary_culture = mashriqi
 culture = bedouin
-culture = misri
+culture = mashriqi
 culture = maghrebi
 religion = sunni
 government = absolute_monarchy

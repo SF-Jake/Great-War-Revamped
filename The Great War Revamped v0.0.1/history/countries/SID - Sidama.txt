@@ -1,5 +1,5 @@
 capital = 1864
-primary_culture = sidama
+primary_culture = african
 culture = oromo
 religion = animist
 government = absolute_monarchy

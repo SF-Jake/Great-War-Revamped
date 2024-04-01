@@ -28,52 +28,52 @@
 		size = 40
 	 } 
 	aristocrats = {
-		culture = kreol
+		culture = african
 		religion =  catholic 
 		size = 283
 	 } 
 	aristocrats = {
-		culture = kreol
+		culture = african
 		religion = animist
 		size = 5
 	 } 
 	bureaucrats = {
-		culture = kreol
+		culture = african
 		religion =  catholic 
 		size = 7
 	 } 
 	capitalists = {
-		culture = kreol
+		culture = african
 		religion =  catholic 
 		size = 40
 	 } 
 	clergymen = {
-		culture = kreol
+		culture = african
 		religion =  catholic 
 		size = 80
 	 } 
 	clergymen = {
-		culture = kreol
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	artisans = {
-		culture = kreol
+		culture = african
 		religion =  catholic 
 		size = 152
 	 } 
 	artisans = {
-		culture = kreol
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	farmers = {
-		culture = kreol
+		culture = african
 		religion =  catholic 
 		size = 6778
 	 } 
 	farmers = {
-		culture = kreol
+		culture = african
 		religion = animist
 		size = 138
 	 } 

@@ -1089,12 +1089,12 @@
 		size = 912
 	 } 
 	farmers = {
-		culture = forest_bantu
+		culture = african
 		religion =  protestant 
 		size = 8958
 	 } 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion = sunni
 		size = 1368
 	 } 

@@ -71,7 +71,7 @@ country_event = {
 		prestige = 5
 		any_pop = {
 			limit = {
-				has_pop_culture = swahili
+				has_pop_culture = african
 				location = { is_core = ZAN }
 			}
 			militancy = -8
@@ -92,7 +92,7 @@ country_event = {
 		}
 		any_pop = {
 			limit = {
-				has_pop_culture = swahili
+				has_pop_culture = african
 				location = { is_core = ZAN }
 			}
 			militancy = 8

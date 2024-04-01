@@ -3,139 +3,139 @@
 #Niamey (288000/72000 POPS)
 1808 = {
 	aristocrats = {
-		culture = fulbe
+		culture = african
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = african
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = african
 		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = african
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion = sunni
 		size = 16450
 	}
 
 	aristocrats = {
-		culture = dyula
+		culture = african
 		religion = sunni
 		size = 170
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = african
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = dyula
+		culture = african
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = african
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = dyula
+		culture = african
 		religion = sunni
 		size = 9150
 	}
 
 	aristocrats = {
-		culture = songhai
+		culture = african
 		religion = sunni
 		size = 450
 	}
 	
 	bureaucrats = {
-		culture = songhai
+		culture = african
 		religion = sunni
 		size = 450
 	}
 	
 	bureaucrats = {
-		culture = hausa
+		culture = african
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = songhai
+		culture = african
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = songhai
+		culture = african
 		religion = sunni
 		size = 1150
 	}
 
 	soldiers = {
-		culture = songhai
+		culture = african
 		religion = sunni
 		size = 2280
 	}
 
 	farmers = {
-		culture = songhai
+		culture = african
 		religion = sunni
 		size = 4050
 	}
 
 	farmers = {
-		culture = gur
+		culture = african
 		religion = animist
 		size = 2000
 	}
 
 	aristocrats = {
-		culture = tuareg
+		culture = african
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african
 		religion = sunni
 		size = 10750
 	}
@@ -143,97 +143,97 @@
 #Say (136000/34000 POPS)
 1809 = {
 	aristocrats = {
-		culture = fulbe
+		culture = african
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = african
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = african
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = african
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion = sunni
 		size = 7150
 	}
 
 	aristocrats = {
-		culture = dyula
+		culture = african
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = african
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = dyula
+		culture = african
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = african
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = dyula
+		culture = african
 		religion = sunni
 		size = 3600
 	}
 
 	aristocrats = {
-		culture = songhai
+		culture = african
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = songhai
+		culture = african
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = songhai
+		culture = african
 		religion = sunni
 		size = 1000
 	}
 
 	soldiers = {
-		culture = songhai
+		culture = african
 		religion = sunni
 		size = 1200
 	}
 
 	farmers = {
-		culture = songhai
+		culture = african
 		religion = sunni
 		size = 5350
 	}
 
 	farmers = {
-		culture = gur
+		culture = african
 		religion = animist
 		size = 4000
 	}
@@ -241,17 +241,17 @@
 #Dosso (280000/70000 POPS)
 1810 = {
 	soldiers = {
-		culture = songhai
+		culture = african
 		religion =  sunni 
 		size = 1164
 	 } 
 	aristocrats = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 3880
 	 } 
 	farmers = {
-		culture = hausa
+		culture = african
 		religion =  sunni 
 		size = 89503
 	 } 
@@ -259,27 +259,27 @@
 #Maradi (280000/70000 POPS)
 1811 = {
 	soldiers = {
-		culture = songhai
+		culture = african
 		religion =  sunni 
 		size = 1947
 	 } 
 	aristocrats = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 6490
 	 } 
 	clergymen = {
-		culture = hausa
+		culture = african
 		religion =  sunni 
 		size = 1622
 	 } 
 	artisans = {
-		culture = songhai
+		culture = african
 		religion =  sunni 
 		size = 1020
 	 } 
 	farmers = {
-		culture = hausa
+		culture = african
 		religion =  sunni 
 		size = 9712
 	 } 
@@ -289,67 +289,67 @@
 #Agades (168000/42000 POPS)
 1812 = {
 	aristocrats = {
-		culture = tuareg
+		culture = african
 		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = african
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = african
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = african
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = african
 		religion = sunni
 		size = 15000
 	}
 
 	aristocrats = {
-		culture = hausa
+		culture = african
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = hausa
+		culture = african
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = hausa
+		culture = african
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = hausa
+		culture = african
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = hausa
+		culture = african
 		religion = sunni
 		size = 2750
 	}
 
 	farmers = {
-		culture = baguirmi
+		culture = african
 		religion = animist
 		size = 2000
 	}
@@ -357,32 +357,32 @@
 #Arlit (16000/4000 POPS)
 1813 = {
 	soldiers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 1905
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 6350
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 1587
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 62345
 	 } 
 	farmers = {
-		culture = hausa
+		culture = african
 		religion =  sunni 
 		size = 15562
 	 } 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 18575
 	 } 
@@ -390,42 +390,42 @@
 #Madama (44000/11000 POPS)
 1814 = {
 	officers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 5
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 21
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 1
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 8
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 17
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 11
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 1617
 	 } 
@@ -435,42 +435,42 @@
 #Zinder (464000/116000 POPS)
 1815 = {
 	soldiers = {
-		culture = hausa
+		culture = african
 		religion =  sunni 
 		size = 2025
 	 } 
 	aristocrats = {
-		culture = hausa
+		culture = african
 		religion =  sunni 
 		size = 6750
 	 } 
 	clergymen = {
-		culture = hausa
+		culture = african
 		religion =  sunni 
 		size = 1687
 	 } 
 	artisans = {
-		culture = hausa
+		culture = african
 		religion =  sunni 
 		size = 1061
 	 } 
 	farmers = {
-		culture = hausa
+		culture = african
 		religion =  sunni 
 		size = 23647
 	 } 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 8562
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = african
 		religion =  catholic 
 		size = 13432
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = african
 		religion = sunni
 		size = 67
 	 } 
@@ -479,22 +479,22 @@
 #Kufe (384000/96000 POPS)
 1816 = {
 	aristocrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 1130
 	 } 
 	farmers = {
-		culture = fulbe
+		culture = african
 		religion =  sunni 
 		size = 3469
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = african
 		religion =  catholic 
 		size = 2487
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = african
 		religion = catholic 
 		size = 113
 	 } 
@@ -502,42 +502,42 @@
 #Bilma (36000/9000 POPS)
 1817 = {
 	officers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 5
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 21
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 1
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 8
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 17
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 11
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = african
 		religion =  sunni 
 		size = 1617
 	 } 

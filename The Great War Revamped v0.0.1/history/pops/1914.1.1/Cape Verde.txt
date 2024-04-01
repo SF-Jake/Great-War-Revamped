@@ -73,7 +73,7 @@
 		size = 15
 	 } 
 	artisans = {
-		culture = kreol
+		culture = african
 		religion =  catholic 
 		size = 772
 	 } 
@@ -83,7 +83,7 @@
 		size = 34
 	 } 
 	farmers = {
-		culture = kreol
+		culture = african
 		religion =  catholic 
 		size = 21910
 	 } 
@@ -93,12 +93,12 @@
 		size = 972
 	 } 
 	farmers = {
-		culture = kreol
+		culture = african
 		religion =  catholic 
 		size = 6535
 	 } 
 	farmers = {
-		culture = kreol
+		culture = african
 		religion = catholic
 		size = 290
 	 } 

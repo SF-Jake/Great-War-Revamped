@@ -3,102 +3,102 @@
 #Kinshasa (1408000/352000 POPS)
 1982 = {
 	officers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 1349
 	 } 
 	officers = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 17
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 5400
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 68
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 18002
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 227
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 449
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 5
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 2249
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 28
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 4500
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 56
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 5453
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 69
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 25601
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 324
 	 } 
 	farmers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 225026
 	 } 
 	farmers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 2848
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 150493
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 1904
 	 } 
@@ -106,92 +106,92 @@
 #Boma (396000/99000 POPS)
 1983 = {
 	officers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 674
 	 } 
 	officers = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 8
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 2698
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 34
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 8996
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 113
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 224
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 1123
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 14
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 2248
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 28
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 2725
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 34
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 149985
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 1898
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion =  catholic 
 		size = 50464
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 638
 	 } 
@@ -201,47 +201,47 @@
 #Kananga (2024000/506000 POPS)
 1984 = {
 	officers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 799
 	 } 
 	officers = {
-		culture = lunda
+		culture = african
 		religion = animist
 		size = 10
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 3202
 	 } 
 	soldiers = {
-		culture = lunda
+		culture = african
 		religion = animist
 		size = 40
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 10674
 	 } 
 	aristocrats = {
-		culture = lunda
+		culture = african
 		religion = animist
 		size = 135
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 266
 	 } 
 	bureaucrats = {
-		culture = lunda
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 1334
 	 } 
@@ -251,42 +251,42 @@
 		size = 16
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 2668
 	 } 
 	clergymen = {
-		culture = lunda
+		culture = african
 		religion = animist
 		size = 33
 	 } 
 	artisans = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 3234
 	 } 
 	artisans = {
-		culture = lunda
+		culture = african
 		religion = animist
 		size = 40
 	 } 
 	farmers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 180642
 	 } 
 	farmers = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 2286
 	 } 
 	farmers = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 57213
 	 } 
 	farmers = {
-		culture = south_forest_bantu
+		culture = african
 		religion = animist
 		size = 724
 	 } 
@@ -294,92 +294,92 @@
 #Kumbana (1364000/341000 POPS)
 1985 = {
 	officers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 1202
 	 } 
 	officers = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 15
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 4814
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 60
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 16046
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 203
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 400
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 5
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 2005
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 25
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 4011
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 50
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 4861
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = african
 		religion = animist
 		size = 61
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = african
 		religion =  catholic 
 		size = 211371
 	 } 
 	farmers = {
-		culture = kavango
+		culture = african
 		religion = animist
 		size = 2675
 	 } 
 	farmers = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 146184
 	 } 
 	farmers = {
-		culture = chokwe
+		culture = african
 		religion = animist
 		size = 1850
 	 } 
@@ -388,82 +388,82 @@
 #Lusambo (2068000/517000 POPS)
 1986 = {
 	officers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 305
 	 } 
 	officers = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 1223
 	 } 
 	soldiers = {
-		culture = african_minor
+		culture = african
 		religion = animist
 		size = 15
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 4078
 	 } 
 	aristocrats = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 51
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 101
 	 } 
 	bureaucrats = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 509
 	 } 
 	capitalists = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 1019
 	 } 
 	clergymen = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 12
 	 } 
 	artisans = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 1235
 	 } 
 	artisans = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 15
 	 } 
 	farmers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 90874
 	 } 
 	farmers = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 1150
 	 } 
@@ -473,92 +473,92 @@
 #Bunkeya (4888400/1222100 POPS)
 1987 = {
 	officers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 538
 	 } 
 	officers = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 2153
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 27
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 6281
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 79
 	 } 
 	aristocrats = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 897
 	 } 
 	aristocrats = {
-		culture = lunda
+		culture = african
 		religion = animist
 		size = 11
 	 } 
 	bureaucrats = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 178
 	 } 
 	bureaucrats = {
-		culture = lunda
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 896
 	 } 
 	capitalists = {
-		culture = lunda
+		culture = african
 		religion = animist
 		size = 11
 	 } 
 	clergymen = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 1794
 	 } 
 	clergymen = {
-		culture = south_forest_bantu
+		culture = african
 		religion = animist
 		size = 22
 	 } 
 	artisans = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 2174
 	 } 
 	artisans = {
-		culture = south_forest_bantu
+		culture = african
 		religion = animist
 		size = 27
 	 } 
 	farmers = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 159963
 	 } 
 	farmers = {
-		culture = south_forest_bantu
+		culture = african
 		religion = animist
 		size = 2024
 	 } 
@@ -567,77 +567,77 @@
 #Mussumba (1188000/297000 POPS)
 1988 = {
 	officers = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 148
 	 } 
 	officers = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	soldiers = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 595
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	aristocrats = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 1984
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 25
 	 } 
 	bureaucrats = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 49
 	 } 
 	capitalists = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 247
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	clergymen = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 495
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	artisans = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 600
 	 } 
 	artisans = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	farmers = {
-		culture = lunda
+		culture = african
 		religion =  catholic 
 		size = 44227
 	 } 
 	farmers = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 559
 	 } 
@@ -646,77 +646,77 @@
 #Munza (3080000/770000 POPS)
 1989 = {
 	officers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 148
 	 } 
 	officers = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	soldiers = {
-		culture = kingwana
+		culture = african
 		religion =  catholic 
 		size = 595
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 1984
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 25
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 49
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 247
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 495
 	 } 
 	clergymen = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	artisans = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 600
 	 } 
 	artisans = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	farmers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 44227
 	 } 
 	farmers = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 559
 	 } 
@@ -726,82 +726,82 @@
 #Nyangwe (1144000/286000 POPS)
 1990 = {
 	officers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 688
 	 } 
 	officers = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 8
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 2755
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 34
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 9183
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 116
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 229
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 1147
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 14
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 2295
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 29
 	 } 
 	artisans = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 2781
 	 } 
 	artisans = {
-		culture = luba
+		culture = african
 		religion = animist
 		size = 35
 	 } 
 	farmers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 204631
 	 } 
 	farmers = {
-		culture = kingwana
+		culture = african
 		religion = sunni
 		size = 2590
 	 } 
@@ -809,92 +809,92 @@
 #Uvira (836000/209000 POPS)
 1991 = {
 	officers = {
-		culture = kingwana
+		culture = african
 		religion =  catholic 
 		size = 860
 	 } 
 	officers = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 10
 	 } 
 	soldiers = {
-		culture = kingwana
+		culture = african
 		religion =  catholic 
 		size = 3442
 	 } 
 	soldiers = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 43
 	 } 
 	aristocrats = {
-		culture = kingwana
+		culture = african
 		religion =  catholic 
 		size = 11474
 	 } 
 	aristocrats = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 145
 	 } 
 	bureaucrats = {
-		culture = kingwana
+		culture = african
 		religion =  catholic 
 		size = 286
 	 } 
 	bureaucrats = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	capitalists = {
-		culture = kingwana
+		culture = african
 		religion =  catholic 
 		size = 1433
 	 } 
 	capitalists = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 18
 	 } 
 	clergymen = {
-		culture = kingwana
+		culture = african
 		religion =  catholic 
 		size = 2868
 	 } 
 	clergymen = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 36
 	 } 
 	artisans = {
-		culture = kingwana
+		culture = african
 		religion =  catholic 
 		size = 3476
 	 } 
 	artisans = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 44
 	 } 
 	farmers = {
-		culture = kingwana
+		culture = african
 		religion =  catholic 
 		size = 240077
 	 } 
 	farmers = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 3038
 	 } 
 	farmers = {
-		culture = ruanda
+		culture = african
 		religion =  catholic 
 		size = 15602
 	 } 
 	farmers = {
-		culture = forest_bantu
+		culture = african
 		religion = animist
 		size = 197
 	 } 
@@ -902,87 +902,87 @@
 #Basoko (1324400/331100 POPS)
 1992 = {
 	officers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 148
 	 } 
 	officers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	soldiers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 595
 	 } 
 	soldiers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	aristocrats = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 1984
 	 } 
 	aristocrats = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 25
 	 } 
 	bureaucrats = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 49
 	 } 
 	capitalists = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 247
 	 } 
 	capitalists = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	clergymen = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 495
 	 } 
 	clergymen = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	artisans = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 600
 	 } 
 	artisans = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	farmers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 20689
 	 } 
 	farmers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 261
 	 } 
 	farmers = {
-		culture = forest_bantu
+		culture = african
 		religion =  catholic 
 		size = 23538
 	 } 
 	farmers = {
-		culture = forest_bantu
+		culture = african
 		religion = animist
 		size = 297
 	 }
@@ -992,82 +992,82 @@
 #Irebu (660000/165000 POPS)
 1993 = {
 	officers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 821
 	 } 
 	officers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 10
 	 } 
 	soldiers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 3288
 	 } 
 	soldiers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 41
 	 } 
 	aristocrats = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 10961
 	 } 
 	aristocrats = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 138
 	 } 
 	bureaucrats = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 273
 	 } 
 	bureaucrats = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	capitalists = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 1369
 	 } 
 	capitalists = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 17
 	 } 
 	clergymen = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 2740
 	 } 
 	clergymen = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 34
 	 } 
 	artisans = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 3320
 	 } 
 	artisans = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 42
 	 } 
 	farmers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 244238
 	 } 
 	farmers = {
-		culture = forest_bantu
+		culture = african
 		religion = animist
 		size = 3091
 	 } 
@@ -1075,92 +1075,92 @@
 #Nsheng (660000/165000 POPS)
 1994 = {
 	officers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 977
 	 } 
 	officers = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 12
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 3913
 	 } 
 	soldiers = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 49
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 13044
 	 } 
 	aristocrats = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 165
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 325
 	 } 
 	bureaucrats = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 1630
 	 } 
 	capitalists = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 20
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 3260
 	 } 
 	clergymen = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 41
 	 } 
 	artisans = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 3951
 	 } 
 	artisans = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 50
 	 } 
 	farmers = {
-		culture = luba
+		culture = african
 		religion =  catholic 
 		size = 191396
 	 } 
 	farmers = {
-		culture = kuba
+		culture = african
 		religion = animist
 		size = 2422
 	 } 
 	farmers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 99268
 	 } 
 	farmers = {
-		culture = forest_bantu
+		culture = african
 		religion = animist
 		size = 1256
 	 } 
@@ -1168,87 +1168,87 @@
 #Gemena (1232000/308000 POPS)
 1995 = {
 	officers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 148
 	 } 
 	officers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	soldiers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 595
 	 } 
 	soldiers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	aristocrats = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 1984
 	 } 
 	aristocrats = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 25
 	 } 
 	bureaucrats = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 49
 	 } 
 	capitalists = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 247
 	 } 
 	capitalists = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	clergymen = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 495
 	 } 
 	clergymen = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	artisans = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 600
 	 } 
 	artisans = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	farmers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 20689
 	 } 
 	farmers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 261
 	 } 
 	farmers = {
-		culture = ubangian
+		culture = african
 		religion =  catholic 
 		size = 23538
 	 } 
 	farmers = {
-		culture = ubangian
+		culture = african
 		religion = animist
 		size = 297
 	 } 
@@ -1258,92 +1258,92 @@
 #Kisangani (1716000/429000 POPS)
 1996 = {
 	officers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 441
 	 } 
 	officers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 5
 	 } 
 	soldiers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 1765
 	 } 
 	soldiers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 22
 	 } 
 	aristocrats = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 5885
 	 } 
 	aristocrats = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 74
 	 } 
 	bureaucrats = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 147
 	 } 
 	bureaucrats = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	capitalists = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 735
 	 } 
 	capitalists = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 9
 	 } 
 	clergymen = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 1471
 	 } 
 	clergymen = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 18
 	 } 
 	artisans = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 1782
 	 } 
 	artisans = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 22
 	 } 
 	farmers = {
-		culture = mongo
+		culture = african
 		religion =  catholic 
 		size = 61339
 	 } 
 	farmers = {
-		culture = mongo
+		culture = african
 		religion = animist
 		size = 776
 	 } 
 	farmers = {
-		culture = lendu
+		culture = african
 		religion =  catholic 
 		size = 69799
 	 } 
 	farmers = {
-		culture = kingwana
+		culture = african
 		religion = animist
 		size = 883
 	 } 
@@ -1352,102 +1352,102 @@
 #Mungbane (836000/209000 POPS)
 1997 = {
 	officers = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 632
 	 } 
 	officers = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 8
 	 } 
 	soldiers = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 2532
 	 } 
 	soldiers = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 32
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 8443
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 106
 	 } 
 	bureaucrats = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 210
 	 } 
 	bureaucrats = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 1054
 	 } 
 	capitalists = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 13
 	 } 
 	clergymen = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 2110
 	 } 
 	clergymen = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 26
 	 } 
 	artisans = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 2557
 	 } 
 	artisans = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 32
 	 } 
 	farmers = {
-		culture = azande
+		culture = african
 		religion =  catholic 
 		size = 136544
 	 } 
 	farmers = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 1728
 	 } 
 	farmers = {
-		culture = lendu
+		culture = african
 		religion =  catholic 
 		size = 48547
 	 } 
 	farmers = {
-		culture = ruanda
+		culture = african
 		religion = animist
 		size = 614
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion =  protestant 
 		size = 3036
 	 } 
 	farmers = {
-		culture = ruanda
+		culture = african
 		religion = animist
 		size = 38
 	 } 
@@ -1455,77 +1455,77 @@
 #Baramo (1188000/297000 POPS)
 1998 = {
 	officers = {
-		culture = azande
+		culture = african
 		religion =  protestant 
 		size = 148
 	 } 
 	officers = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	soldiers = {
-		culture = azande
+		culture = african
 		religion =  protestant 
 		size = 595
 	 } 
 	soldiers = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african
 		religion =  protestant 
 		size = 1984
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 25
 	 } 
 	bureaucrats = {
-		culture = azande
+		culture = african
 		religion =  protestant 
 		size = 49
 	 } 
 	capitalists = {
-		culture = azande
+		culture = african
 		religion =  protestant 
 		size = 247
 	 } 
 	capitalists = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	clergymen = {
-		culture = azande
+		culture = african
 		religion =  protestant 
 		size = 495
 	 } 
 	clergymen = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 6
 	 } 
 	artisans = {
-		culture = azande
+		culture = african
 		religion =  protestant 
 		size = 600
 	 } 
 	artisans = {
-		culture = azande
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	farmers = {
-		culture = azande
+		culture = african
 		religion =  protestant 
 		size = 44227
 	 } 
 	farmers = {
-		culture = luo
+		culture = african
 		religion = animist
 		size = 559
 	}

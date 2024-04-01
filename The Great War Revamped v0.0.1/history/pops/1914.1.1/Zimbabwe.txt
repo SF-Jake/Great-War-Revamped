@@ -53,52 +53,52 @@
 		size = 4
 	 } 
 	bureaucrats = {
-		culture = sena
+		culture = african
 		religion =  protestant 
 		size = 45
 	 } 
 	bureaucrats = {
-		culture = sena
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	clergymen = {
-		culture = sena
+		culture = african
 		religion =  protestant 
 		size = 2287
 	 } 
 	clergymen = {
-		culture = sena
+		culture = african
 		religion = animist
 		size = 52
 	 } 
 	artisans = {
-		culture = sena
+		culture = african
 		religion =  protestant 
 		size = 3153
 	 } 
 	artisans = {
-		culture = sena
+		culture = african
 		religion = animist
 		size = 72
 	 } 
 	artisans = {
-		culture = sena
+		culture = african
 		religion =  protestant 
 		size = 17386
 	 } 
 	farmers = {
-		culture = sena
+		culture = african
 		religion = animist
 		size = 400
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 185997
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 4281
 	 } 
@@ -146,67 +146,67 @@
 		size = 1
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 4166
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 95
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 105
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 1042
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 24
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 19
 	 } 
 	artisans = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 1465
 	 } 
 	artisans = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 33
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 88872
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 2045
 	 } 
 	farmers = {
-		culture = nguni
+		culture = african
 		religion =  protestant 
 		size = 5648
 	 } 
 	farmers = {
-		culture = nguni
+		culture = african
 		religion = animist
 		size = 130
 	 } 
@@ -214,87 +214,87 @@
 #Mutare (96000/24000 POPS) 
 2070 = {
 	officers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 96
 	 } 
 	officers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	soldiers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 388
 	 } 
 	soldiers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 8
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 4623
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 106
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 115
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 555
 	 } 
 	capitalists = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 12
 	 } 
 	capitalists = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 22
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 1155
 	 } 
 	clergymen = {
-		culture = southern_bantu
+		culture = african
 		religion = animist
 		size = 26
 	 } 
 	artisans = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 1593
 	 } 
 	artisans = {
-		culture = southern_bantu
+		culture = african
 		religion = animist
 		size = 36
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 102779
 	 } 
 	farmers = {
-		culture = southern_bantu
+		culture = african
 		religion = animist
 		size = 2365
 	 } 
@@ -302,87 +302,87 @@
 #Kariba (36000/9000 POPS) 
 2635 = {
 	officers = {
-		culture = sena
+		culture = african
 		religion =  protestant 
 		size = 146
 	 } 
 	officers = {
-		culture = sena
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	soldiers = {
-		culture = sena
+		culture = african
 		religion =  protestant 
 		size = 588
 	 } 
 	soldiers = {
-		culture = sena
+		culture = african
 		religion = animist
 		size = 13
 	 } 
 	aristocrats = {
-		culture = sena
+		culture = african
 		religion =  protestant 
 		size = 6998
 	 } 
 	aristocrats = {
-		culture = sena
+		culture = african
 		religion = animist
 		size = 161
 	 } 
 	bureaucrats = {
-		culture = sena
+		culture = african
 		religion =  protestant 
 		size = 174
 	 } 
 	bureaucrats = {
-		culture = sena
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	capitalists = {
-		culture = sena
+		culture = african
 		religion =  protestant 
 		size = 839
 	 } 
 	capitalists = {
-		culture = sena
+		culture = african
 		religion = animist
 		size = 19
 	 } 
 	capitalists = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 35
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 1749
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 40
 	 } 
 	artisans = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 2412
 	 } 
 	artisans = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 55
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 155580
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 3581
 	 } 
@@ -432,57 +432,57 @@
 		size = 39
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 9
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 488
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 11
 	 } 
 	artisans = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 673
 	 } 
 	artisans = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 15
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 1271
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 29
 	 } 
 	farmers = {
-		culture = nguni
+		culture = african
 		religion =  protestant 
 		size = 34212
 	 } 
 	farmers = {
-		culture = nguni
+		culture = african
 		religion = animist
 		size = 787
 	 } 
 	farmers = {
-		culture = sotho
+		culture = african
 		religion =  protestant 
 		size = 7973
 	 } 
 	farmers = {
-		culture = sotho
+		culture = african
 		religion = animist
 		size = 183
 	 } 
@@ -490,92 +490,92 @@
 #Hwange (96000/24000 POPS)
 2072 = {
 	officers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 153
 	 } 
 	officers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 3
 	 } 
 	soldiers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 615
 	 } 
 	soldiers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 14
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 7321
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 168
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 182
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 4
 	 } 
 	capitalists = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 914
 	 } 
 	capitalists = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 21
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 1829
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 42
 	 } 
 	artisans = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 2522
 	 } 
 	artisans = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 58
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 17574
 	 } 
 	farmers = {
-		culture = southern_bantu
+		culture = african
 		religion = animist
 		size = 404
 	 } 
 	farmers = {
-		culture = nguni
+		culture = african
 		religion =  protestant 
 		size = 145176
 	 } 
 	farmers = {
-		culture = nguni
+		culture = african
 		religion = animist
 		size = 3341
 	 } 
@@ -583,92 +583,92 @@
 #Masvingo (72000/18000 POPS) 
 2073 = {
 	officers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 82
 	 } 
 	officers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 1
 	 } 
 	soldiers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 328
 	 } 
 	soldiers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 7
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 3910
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 90
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 97
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 2
 	 } 
 	capitalists = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 488
 	 } 
 	capitalists = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 11
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 977
 	 } 
 	clergymen = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 22
 	 } 
 	artisans = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 1346
 	 } 
 	artisans = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 31
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 2543
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 58
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion =  protestant 
 		size = 84372
 	 } 
 	farmers = {
-		culture = shona
+		culture = african
 		religion = animist
 		size = 1942
 	 } 

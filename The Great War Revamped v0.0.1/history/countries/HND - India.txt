@@ -56,8 +56,7 @@ patent_law = no_patents
 penal_system = capital_punishment
 arts_endowment = no_endowment
 
-}
-
+1914.1.1 = {
 	#Economic Reforms
 	admin_reform = yes_admin_reform
 	finance_reform = finance_reform_two

@@ -123,12 +123,12 @@
 		size = 156
 	 } 
 	farmers = {
-		culture = yoruba
+		culture = african
 		religion =  catholic 
 		size = 14122
 	 } 
 	farmers = {
-		culture = east_kwa
+		culture = = african
 		religion = catholic 
 		size = 1145
 	 } 
