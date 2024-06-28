@@ -12,10 +12,10 @@ country_event = {
 	
 	trigger = {
 		tag = RUS
-                has_country_flag = stopfiringin1910forfucksake
+        has_country_flag = stopfiringin1910forfucksake
 		NOT = {
 			has_global_flag = rusrev
-			}
+		}
 	}
 	
 	
@@ -30,110 +30,105 @@ country_event = {
 		}
 		any_owned = {
 			limit = {
-					is_core = POL
-					NOT = {
+				is_core = POL
+				NOT = {
 					province_id = 956
-                                        province_id = 955
-					}
-					}
-				secede_province = GER
+					province_id = 955
 				}
+			}
+			secede_province = GER
+		}
 		any_owned = { 
 			limit = {
-					is_core = LIT
-					}
-				secede_province = GER 
-				}
+				is_core = LIT
+			}
+			secede_province = GER 
+		}
 		any_owned = { 
 			limit = {
-					is_core = FIN
-					}
-				secede_province = FIN
-				}
+				is_core = FIN
+			}
+			secede_province = FIN
+		}
 		any_owned = { 
 			limit = {
-					is_core = AZB
-					}
-				secede_province = TUR
-				}
+				is_core = AZB
+			}
+			secede_province = TUR
+		}
 		any_owned = {
 			limit = {
-					is_core = ARM
-					NOT = {
+				is_core = ARM
+				NOT = {
 					province_id = 885
-                                        province_id = 886
+					province_id = 886
 					}
-					}
-				secede_province = TUR
-				}
+			}
+			secede_province = TUR
+		}
 		any_owned = {
 			limit = {
-					is_core = GEO
-					NOT = {
+				is_core = GEO
+				NOT = {
 					province_id = 1096
-					}
-					}
-				secede_province = TUR
 				}
+			}
+			secede_province = TUR
+		}
 		any_owned = { 
 			limit = {
-					is_core = TUR
-					}
-				secede_province = TUR
-				}
+				is_core = TUR
+			}
+			secede_province = TUR
+		}
 		any_owned = {
 			limit = {
-					is_core = BYE
-					NOT = {
+				is_core = BYE
+				NOT = {
 					province_id = 944
-                                        province_id = 949
-                                        province_id = 948
-                                        province_id = 945
-                                        province_id = 946
-					}
-					}
-				secede_province = GER
+					province_id = 949
+					province_id = 948
+					province_id = 945
+					province_id = 946
 				}
+			}
+			secede_province = GER
+		}
 		any_owned = { 
 			limit = {
-					is_core = LAT
-					}
-				secede_province = GER 
-				}
+				is_core = LAT
+			}
+			secede_province = GER 
+		}
 		any_owned = { 
 			limit = {
-					is_core = EST
-					}
-				secede_province = GER 
-				}
+				is_core = EST
+			}
+			secede_province = GER 
+		}
 		any_owned = { 
 			limit = {
-					is_core = MOL
-					}
-				secede_province = KUK 
-				}
+				is_core = MOL
+			}
+			secede_province = KUK 
+		}
 		any_owned = {
 			limit = {
-					is_core = UKR
-					NOT = {
+				is_core = UKR
+				NOT = {
 					province_id = 1018
-					}
-					}
-				secede_province = KUK
 				}
+			}
+			secede_province = KUK
+		}
 		any_pop = {
 			consciousness = 4
 			militancy = 2
 		}
-		any_owned = {
-			limit = {
-				is_core = RSF
-			}
-			secede_province = RSF
-		}
+		release = RSF
 		RSF = {
 			capital = 1008
-                        money = 2000000
+            money = 2000000
 		}
 		capital = 1064
                 government = presidential_dictatorship
@@ -264,12 +259,7 @@ country_event = {
 			consciousness = -7
 			militancy = -3
 		}
-		any_owned = {
-			limit = {
-				is_core = RSF
-			}
-			secede_province = RSF
-		}
+		release = RSF
 		RSF = {
 			capital = 1008
                         money = 2000000
